@@ -1,12 +1,11 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Express JS Development Company & Services</title>
-<meta name="description" content=" Shivay infotechis one of the top Express.js Development Company that offers high-end development services. Hire express js developers.">
-<meta name="keywords" content="express js developers, express js development company, express js development services, hire express js developers, expressjs companies.">
+<title>Privacy policy of Shivay infotechTechnologies Pvt. Ltd.</title>
+<meta name="description" content="We at Shivay infotechare discreet about the sensitive data of our clients. We don't spam, rent, or give away your pivotal info to any third parties.">
+<meta name="keywords" content="privacy policy, privacy policy Shivay infotech, privacy policy mobile app development, privacy policy web development company">
 <meta charset="utf-8" />
-<link rel="canonical" href="https://webcodegenie.com/technology/expressjs" />
+<link rel="canonical" href="https://webcodegenie.com/privacy-policy" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -171,7 +170,7 @@
 <li><a href="/technology/nodejs">NodeJS</a></li>
 <li><a href="/technology/laravel">Laravel</a></li>
 <li><a href="/technology/cakephp">CakePHP</a></li>
-<li><a href="/technology/expressjs">ExpressJS</a></li>
+ <li><a href="/technology/expressjs">ExpressJS</a></li>
 <li><a href="/technology/socketio">Socket.io</a></li>
 </ul>
 </div>
@@ -225,12 +224,12 @@
 <div id="hireSubMenu" class="dropdown-submenu ">
 <div class="container">
 <div class="tech-grid">
-<div class="tech-col">
+ <div class="tech-col">
 <div class="tech-box">
 <img loading="lazy" src="https://img.webcodegenie.com/img/header/tech-backend.svg" alt="Backend Technologies" height="36" width="36" />
 <div>
 <h4>Backend Developers</h4>
- <ul>
+<ul>
 <li><a href="/hire-nodejs-developers">Hire NodeJS Developers</a></li>
 </ul>
 </div>
@@ -282,7 +281,7 @@
 <li>
 <a href="/casestudy">
 <img loading="lazy" src="https://img.webcodegenie.com/img/header/case-studies.svg" alt="Mobile App Development" height="36" width="36" />
- <div>
+<div>
 <h6>Case Studies</h6>
 <p>Discover how we achieved results for our Clients in web and mobile app development.</p>
 </div>
@@ -348,7 +347,7 @@
 <div>
 <h6>Contact us</h6>
 <p>Let's start a conversation about how we can bring your digital vision to life - reach out to us today.</p>
-</div>
+ </div>
 </a>
 </li>
 </ul>
@@ -411,7 +410,7 @@
 <li class="has-sub-child">
 <div class="sub-link">Mobile App</div>
 <ul class="nav-dropdown">
- <li><a href="/technology/android">Android</a></li>
+<li><a href="/technology/android">Android</a></li>
 <li><a href="/technology/ios">iOS</a></li>
 <li><a href="/technology/react-native">ReactNative</a></li>
 <li><a href="/technology/flutter">Flutter</a></li>
@@ -475,7 +474,7 @@
 <li><a href="/casestudy">Case Studies</a></li>
 <li><a href="/portfolio/">Portfolio</a></li>
 <li><a href="/testimonial">Testimonials</a></li>
-</ul>
+ </ul>
 </li>
 <li class="has-child">
 <div class="main-link">Company</div>
@@ -493,202 +492,145 @@
 </div>
 </div>
 </header> 
-<section class="technology">
+<section class="main-about-section tnc-pp-sec">
 <div class="container">
-<div class="tech-details">
-<div class="right-details">
-<div class="service-content">
-<h1>ExpressJS Development Company</h1>
-<p>Efficiently build your business applications with our expertise in ExpressJS application development. We prioritize your ideas and write quality code to turn your vision into a reality, resulting in robust server-side applications.</p>
-<a class="btn tech-btn" href="javascript:void(0);">GET QUOTE</a>
+<div class="heading-box">
+<h1 class="main-title">WebCodeGenie</h1>
+<h2 class="sub-title">Privacy Policy</h2>
 </div>
+<div class="blog-content">
+<div class="content-box">
+<p>This privacy policy outlines what data Shivay infotechTechnology PVT. LTD (herein referred to as
+&#8220;WebCodeGenie&#8221;, &#8220;WCG&#8221; , &#8220;We&#8221;, &#8220;Our&#8221;, or &#8220;Us&#8221;) collects,
+stores, and process about you. It also explains your rights to your data and how you can contact us if you have any
+queries. We reserve the right to alter this privacy statement at our discretion and encourage you to check this
+section from time to time to be aware of any changes.</p>
 </div>
-<div class="left-img">
-<img width="720" height="682" src="https://img.webcodegenie.com/img/technology-infographics/ExpressJs.svg" alt="technology">
+<div class="content-box">
+<h3>To whom this policy applies</h3>
+<p>This privacy statement applies to individuals (&#8220;users&#8221; or &#8220;you&#8221;) who interact with
+our website, subscribe to any of our products, request information, or use the chat support (herein
+collectively referred to as &#8220;services&#8221;).</p>
+</div>
+<div class="content-box">
+<h3>How we collect data</h3>
+<p>Depending on services you use, we collect data from one or more of these three sources:</p>
+<ol>
+<li>
+<strong>Data we request:</strong>
+<p>When you request any of our services, we may ask, store, and process any/all of these data categories:</p>
+<ul>
+<li>Your Name</li>
+<li>Your Country</li>
+<li>Your Email Id</li>
+<li>Your Skype Id</li>
+<li>Your Phone Number</li>
+<li>Other information that you choose to share</li>
+</ul>
+</li>
+<li>
+<strong>Cookies:</strong>
+<p>Cookies are small files placed on your computer when you first visit our website that helps analyze web
+traffic and tracks you across the web. The collection of this data is based on “implied consent”, i.e we
+assume you agree to our terms of usage unless you explicitly opt out. You can opt out by changing your
+browser settings to not accept cookies, browsing in anonymous mode, or by not using our website.</p>
+<p>We also have on our website links to many third-party services and use third-party tools, the privacy policy
+of which may be different from us and we assume no responsibility for their compliance. The third-party
+tools we use cookies to collect data are:</p>
+<ul>
+<li><strong>Google Analytics:</strong> It collects data related to the device/browser, IP address
+and on-site activities to measure and report statistics about your interactions on the web. It is used
+to enhance user experience and we do not access your personally identifiable information. To understand
+how Google Analytics handles your data, read their <a title="privacy policy" href="https://support.google.com/analytics/answer/6004245" target="_blank" rel="noopener">privacy policy</a>.</li>
+<li><strong>Intercom &#8211;</strong> We use Intercom to provide customer support on our website. While they
+don’t have access to private data you share with our representatives, they may collect additional data
+that is enforced by their <a title="privacy policy" href="https://www.intercom.com/terms-and-policies#privacy" target="_blank" rel="noopener">privacy policy</a>.</li>
+<li><strong>Lucky Orange &#8211;</strong> We use Lucky Orange to anonymously track usage of our website
+including your clicks, cursor hoovers, scroll depth, and more. We may also record some sessions to
+anonymously to track your behavior across our platform to help improve the user experience. Read Lucky
+Orange&#8217;s <a title="privacy policy" href="https://www.luckyorange.com/privacy.php" target="_blank" rel="noopener">privacy policy</a>.</li>
+</ul>
+</li>
+<li>
+<strong>External tools:</strong>
+<p>We also use some tools to collect data about your usage and behaviour beyond our website that include:</p>
+<ul>
+<li><strong>MailChimp &#8211;</strong> Promotional emails we send are tracked to know much traffic they
+bring on our website. We may also track if an individual email is opened by any recipient to calculate
+click rates and improve engagement. We use MailChimp as our email marketing tool and they are governed
+by their own <a title="privacy policy" href="https://mailchimp.com/legal/privacy/" target="_blank" rel="noopener">privacy policy</a>.</li>
+<li><strong>Social plugins &#8211;</strong> We have on our website links to many social media platforms for
+more engagement and visibility. Once you click on any of those links to visit any of those platforms,
+they collect, use, and share your data as per their own privacy policies, of which we assume no
+responsibility. We encourage you to check out the privacy policies of the social platform we use: <a title="Facebook" href="https://www.facebook.com/policies/cookies/" target="_blank" rel="noopener">Facebook</a>, <a title="Twitter" href="https://twitter.com/en/privacy" target="_blank" rel="noopener">Twitter</a>, <a title="Google Plus" href="https://policies.google.com/privacy?hl=en" target="_blank" rel="noopener">Google Plus</a>, <a title="LinkedIn" href="https://www.linkedin.com/legal/privacy-policy?trk=organization-guest_footer-privacy-policy" target="_blank" rel="noopener">LinkedIn</a>, <a title="YouTube" href="https://policies.google.com/privacy?hl=en" target="_blank" rel="noopener">YouTube</a>, <a title="Behance" href="https://www.adobe.com/privacy.html" target="_blank" rel="noopener">Behance</a>, <a title="Dribble" href="https://dribbble.com/privacy" target="_blank" rel="noopener">Dribble</a>.</li>
+</ul>
+</li>
+</ol>
+</div>
+<div class="content-box">
+<h3>Why we collect these data</h3>
+<p>The data we collect from these cookies can be personally identifiable or anonymous. We collect this data to:</p>
+<ul>
+<li>Offer personalized service</li>
+<li>Create a secure platform</li>
+<li>Improve performance</li>
+ <li>Statistical analysis</li>
+</ul>
+</div>
+<div class="content-box">
+<h3>How we secure your data</h3>
+<p>The security of your personal data is of utmost importance to us and we take all appropriate measures to
+protect it. There are requisite technical, administrative, and physical barriers in place to ensure your
+data is accessible only to authorized persons or systems. In case we discover a data breach, we immediately
+(within 72 hours) inform the local authorities and affected users.</p>
+</div>
+<div class="content-box">
+<h3>How we use your personal data</h3>
+<p>We store and process the data we collect for our legitimate interests and service delivery fully under the
+ambit of law. We use your data:</p>
+<ul>
+<li>To provide and maintain our services.</li>
+<li>To improve our services and website experience.</li>
+<li>To communicate with you via email, notification, or any other contact information that you have
+provided.</li>
+<li>To provide any third-party requisite data that helps enable our services.</li>
+<li>For internal research and management.</li>
+<li>For fraud detection.</li>
+<li>To enforce our terms and conditions.</li>
+</ul>
+</div>
+<div class="content-box">
+<h3>When we share your personal data</h3>
+<p>We do not share your personal data with any third-party whatsoever except in cases where:</p>
+</div>
+<div class="content-box">
+<h3>How do we protect your information?</h3>
+<p>We have strict security procedures covering the storage of your information in order to prevent unauthorised
+access . This means that sometimes we may ask you for proof of identity or for other personal information
+before we can process your call or enquiry further</p>
+<ul>
+<li>Your explicit consent is obtained.</li>
+<li>Mandated by law.</li>
+<li>Third-party is a collaborator or a part (subsidiary, parent/sister company) of Shivay infotech.</li>
+<li>To provide any third-party requisite data that helps enable our services.</li>
+</ul>
+</div>
+<div class="content-box">
+<h3>What you can do</h3>
+<p>You have full control over what information we store and its subsequent usage. You can choose to:</p>
+<ul>
+<li>Unsubscribe from the mailing list and notification preferences to stop receiving such communication.
+</li>
+<li>You can choose to not share your information by not filling up the form and not using the chat support.
+</li>
+<li>You can at anytime change your consent earlier provided for any specific use of your data.</li>
+<li>If you have any question regarding our privacy policy or data handling practices, we would be glad to
+hear from you at <a title="sales@webcodegenie.com" href="/cdn-cgi/l/email-protection#cab9aba6afb98abdafa8a9a5aeafadafa4a3afe4a9a5a7f5b9bfa8a0afa9bef79bbfafb8b3" rel="nofollow"><span class="__cf_email__" data-cfemail="d5bcbbb3ba95a2b0b7b6bab1b0b2b0bbbcb0fbb6bab8">[email&#160;protected]</span></a></li>
+</ul>
 </div>
 </div>
 </div>
 </section>
-<section class="tech-content-section first-story-content">
-<div class="container">
-<div class="story-grid">
-<div class="right-content">
-<h2>Building Highly Scalable Applications with ExpressJS Development</h2>
-<p>Our team of expert developers builds ExpressJS applications that boast flexibility, speed, interactivity, simplicity, and scalability. We are a leading ExpressJS development agency that strives to seamlessly integrate your business objectives with the best user experiences. Our top priority is to deliver high-quality ExpressJS development services that enable you to achieve your goals while building a top-tier server-side application. With a deep understanding of the framework, our developers unleash ExpressJS's full potential to deliver innovative solutions. Our specialty lies in building high-performance, real-time applications that drive the growth of high-end companies. Our experienced ExpressJS developers aim to thoroughly understand your business needs and deliver tailored solutions.</p>
-<h3>Hire Express JS Developers</h3>
-<p>Our team of skilled ExpressJS developers at Shivay infotechhas extensive experience in building web and mobile applications. With their knowledge and expertise, we make the development process simpler for you. We specialize in integrating ExpressJS to enhance the functionality of your web and mobile applications, providing you with a highly efficient framework.</p>
-<p>Our team of Express JS developers is adept at building highly performant and feature-rich web and mobile applications. With years of experience, we have developed some of the most sophisticated applications for niche markets, making us one of the best in the industry. We take care of both the front-end and back-end of an application, ensuring smooth performance and seamless integration. Hire our skilled Express JS developers to embark on a journey of excellent customer satisfaction and increased business revenue.</p>
-</div>
-<div class="left-icon">
-<img width="155" height="154" src="https://img.webcodegenie.com/img/about/icon.svg" alt="Expert ExpressJS Development Company">
-</div>
-</div>
-</div>
-</section>
-<section class="tech-content-section second-story-content">
-<div class="container">
-<div class="joinus-form">
-<div class="start-project">
-<div class="lets-section">
-<h3>We'd love to hear about your digital project.</h3>
-<h2>Let's talk business</h2>
-</div>
-<div class="project-btn">
-<a href="javascript:void(0);" class="white-btn tech-btn">Get in Touch</a>
-</div>
-</div>
-</div>
-<div class="story-grid ">
-<div class="left-icon">
-<img width="155" height="154" src="https://img.webcodegenie.com/img/about/icon.svg" alt="Apex ExpressJS Development Services At WCG">
-</div>
-<div class="right-content">
-<h2>Exceptional Express.js Development Services</h2>
-<p>Providing a seamless customer experience via technology is one of the easiest ways to attract and retain potential clients. And as a growing <b> ExpressJS web development company </b>, we have hands-on experience in offering Express JS web services and applications for our clients. By utilizing ExpressJS best features, we create exceptional web applications that provide seamless user experiences. Our software developers team uses their expertise to build applications and handle complex tasks perfectly. With high-performance software solutions, WCG offers high-performance software solutions to clients worldwide. Our Express.JS knowledge makes our solutions versatile, adaptable, and responsive. We have teams of expert Express.js developers who can handle all your needs, from <b>cross-platform mobile apps</b> to enterprise solutions.</p>
-<h3>Revolutionize Your Business with ExpressJS Development Service</h3>
-<p>Now is the time to modernize your business and gain a competitive advantage with WCG expert ExpressJS development services. We specialize in offering Express.js development services, which are lightweight and user-friendly. To maximize the effectiveness of your Express.JS application, we optimize the platform's features like template engines, streamlined routing, database integration, and more. Our Javascript platforms build solid front and back ends with Rest API support. We can easily handle even the most complex problems thoroughly and flawlessly, thanks to our Express.js development team's experience with this platform. Let us develop customized applications that match your specific requirements. With <b>WebCodeGenie</b>, you get a wide range of CRM & eCommerce solutions.</p>
-</div>
-</div>
-</div>
-</section>
-<section class="development-company">
-<div class="container">
-<div class="heading-txt text-center">
-<div class="bg-txt">ExpressJS</div>
-<div class="small-heading-txt">Build feature-rich ExpressJS web applications with Shivay infotech</div>
-<h2>Why Choose WCG ExpressJS Web Development</h2>
-</div>
-<div class="company-section">
-<div class="company-block">
-<img width="100" height="100" src="https://img.webcodegenie.com/img/technology-infographics/features-icons/Backend/ExpressJs/highly-customizable.svg" alt=">Highly Customizable">
-<h3>Highly Customizable</h3>
-<p>Our ExpressJS products allow our clients to change the settings dynamically, adding more efficient and productive performance.</p>
-</div>
-<div class="company-block">
-<img width="100" height="100" src="https://img.webcodegenie.com/img/technology-infographics/features-icons/Backend/ExpressJs/smooth-user-experience.svg" alt="Smooth user experience">
-<h3>Smooth user experience</h3>
-<p>All customer and business requirements can be handled seamlessly by our ExpressJS developers offering smooth and efficient operation.</p>
-</div>
-<div class="company-block">
-<img width="100" height="100" src="https://img.webcodegenie.com/img/technology-infographics/features-icons/Backend/ExpressJs/lightning-fast-delivery.svg" alt="Lightning-fast delivery">
-<h3>Lightning-fast delivery</h3>
-<p>At WCG, we strive to provide fast and reliable services and solutions to our customers throughout the development process.</p>
-</div>
-<div class="company-block">
-<img width="100" height="100" src="https://img.webcodegenie.com/img/technology-infographics/features-icons/Backend/ExpressJs/effortless-migration.svg" alt="Effortless Migration">
-<h3>Effortless Migration</h3>
-<p>Our expert developer team migrates apps from one technology to another by providing a seamless and straightforward integration process.</p>
-</div>
-</div>
-</div>
-</section>
-
-
-<section class="testimonials-section custom-padding">
-<div class="container">
-<div class="heading-txt text-center">
-<div class="bg-txt">Testimonials</div>
-<div class="small-heading-txt">TESTIMONIALS</div>
-<h2>Their Words, Our Success: Client Testimonials</h2>
-</div>
-<div class="testimonial-slider">
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/james-roling.webp" alt="James Roling" width="120" height="120" />
-<a class="video-icon" data-fancybox href="https://youtu.be/sIHjzdY454s">
-<img src="https://img.webcodegenie.com/img/testimonial/video.svg" alt="video" width="37" height="37" />
-</a>
-</div>
-<h3>James Roling</h3>
-<p>We decided to partner with Shivay infotechand work with their developers directly for our customers. We had a partnership with Shivay infotechfor over 5 years, and we have completed more than 20 projects together. Whenever we have a project or client whose requirements are not fulfilled in-house we have a tech partner standing always on our backside to help us. Their team is well organized and well structured.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/garrett.webp" alt="Garrett" width="120" height="120" />
-</div>
-<h3>Garrett</h3>
-<p>The WCG team has been great to work with. They are reliable, knowledgeable and do whatever it takes to make a project successful. Whatever the task, they pull in the right people to make it happen, so you're never locked in to one person putting your long-term goals at risk. Thank you WCG team!</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/gray.webp" alt="Gary Walker" width="120" height="120" />
-<a class="video-icon" data-fancybox href="https://youtu.be/q0SxUGp-RUw">
-<img src="https://img.webcodegenie.com/img/testimonial/video.svg" alt="video" width="37" height="37" />
-</a>
-</div>
-<h3>Gary Walker</h3>
-<p>I'd like to say a few words about the Shivay infotechcrew. We've been working on small and large websites together, and they've all been developed with high quality and in a timely manner; I'm very pleased with the results of the projects we've been working on together. Their dedicated web developer was extremely knowledgeable, friendly, and communicative. Overall, the team was a pleasure to work with.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/drew-gilkey.webp" alt="Web Development" width="120" height="120" />
-</div>
-<h3>Drew Gilkey</h3>
-<p> Shivay infotechis a top-notch team which employs a structured agile programming process in their development. Amazing people and helpful. The team is friendly and easy to work with and always produce a good project experience. Besides the team being great, they are fast and efficient, met my deadlines and produced a great final product. I would recommend Shivay infotechto anyone that is looking for software development. Their price is competitive, and the quality of their work is exceptional.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/bradon-smith.webp" alt="Bradon Smith" width="120" height="120" />
-<a class="video-icon" data-fancybox href="https://youtu.be/5M4OxAxTv3c">
-<img src="https://img.webcodegenie.com/img/testimonial/video.svg" alt="video" width="37" height="37" />
-</a>
-</div>
-<h3>Bradon Smith</h3>
-<p>I've been working with Shivay infotechfor the past two years to design and develop mobile applications for my clients. I am quite pleased with their services. They have outperformed my expectations. They have always been there, willing to assist us whenever we needed them. Our experience with Shivay infotechhas been nothing short of extraordinary.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/salvador-ocana.webp" alt="Web Development" width="120" height="120" />
-</div>
-<h3>Salvador Ocana</h3>
-<p>Having worked with Shivay infotechfor a few years, I am very impressed with their seemingly endless knowledge of Development and Project management, and especially how quickly they complete the sprints and every project within the set timeframe. Lines of communication are excellent, and they always do exactly what they say they will. My personal project was a couple of Software applications, Shivay infotechcompleted the projects to my specifications and also provided the necessary specialized Support to continue to improve and implement new ideas.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/daniela-cordes.webp" alt="Daniela Cordes" width="120" height="120" />
-<a class="video-icon" data-fancybox href="https://youtu.be/Y_DHyLDDS8o">
-<img src="https://img.webcodegenie.com/img/testimonial/video.svg" alt="video" width="37" height="37" />
-</a>
-</div>
-<h3>Daniela Cordes</h3>
-<p>I would like to thank the entire team of Shivay infotechfor helping us with our real estate management software. We had a very short time to complete our target and make an initial level product where the entire team came up with a lot more cooperation and worked hard to speed up the entire process. They designed and developed very user-friendly software. Thank you Shivay infotechfor making this a great experience.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/testimonial-ph.webp" alt="Michael Carruth" width="120" height="120" />
-</div>
-<h3>Michael Carruth</h3>
-<p>Our firm had struggled a lot to rescue our software development process. Initially, we were resistant to outsourcing the entire project because of its complexity and Industry knowledge. After doing a meeting with the Project Manager at Shivay infotech, we have decided to move the entire product development to them. Our SDLC was never managed this efficiently before.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/testimonial-ph.webp" alt="Yuvraj Sisodia" width="120" height="120" />
-</div>
-<h3>Yuvraj Sisodia</h3>
-<p>We used Shivay infotechto build a custom calculator. Our experience from start to finish was excellent. The entire staff is very professional and knowledgeable. There was constant communication and updates throughout the project which made the entire process simple and facile. We would highly recommend Shivay infotech.</p>
-</div>
-</div>
-</div>
-</div>
-</section>
- 
 
 <section class="get-quote-sec custom-form-section" id="getInTouch">
 <div class="container">
@@ -740,9 +682,9 @@
 <div class="call-mail">
 <div class="title-txt">Sales & Marketing</div>
 <div class="address-list">
-<a href="/cdn-cgi/l/email-protection#c2b1a3aea7b182b5a7a0a1ada6a7a5a7acaba7eca1adaf">
+<a href="/cdn-cgi/l/email-protection#ee9d8f828b9dae998b8c8d818a8b898b80878bc08d8183">
 <img src="https://img.webcodegenie.com/img/footer/get-in-touch-mail.svg" alt="Mail Us" height="36" width="36" />
-<span><span class="__cf_email__" data-cfemail="5a293b363f291a2d3f3839353e3f3d3f34333f74393537">[email&#160;protected]</span></span></a>
+<span><span class="__cf_email__" data-cfemail="86f5e7eae3f5c6f1e3e4e5e9e2e3e1e3e8efe3a8e5e9eb">[email&#160;protected]</span></span></a>
 </div>
 <div class="address-list">
 <a href="tel:+12342306411">
@@ -758,16 +700,16 @@
 <div class="call-mail">
 <div class="title-txt">Career Enquiry</div>
 <div class="address-list">
-<a href="/cdn-cgi/l/email-protection#1d7e7c6f78786f6e5d6a787f7e7279787a78737478337e7270">
+<a href="/cdn-cgi/l/email-protection#264547544343545566514344454942434143484f430845494b">
 <img src="https://img.webcodegenie.com/img/footer/get-in-touch-mail.svg" alt="Mail Us" height="36" width="36" />
-<span><span class="__cf_email__" data-cfemail="741715061111060734031116171b101113111a1d115a171b19">[email&#160;protected]</span></span></a>
+<span><span class="__cf_email__" data-cfemail="5f3c3e2d3a3a2d2c1f283a3d3c303b3a383a31363a713c3032">[email&#160;protected]</span></span></a>
 </div>
 <div class="address-list">
 <a href="tel:+919974669565">
 <img src="https://img.webcodegenie.com/img/footer/get-in-touch-call.svg" alt="Call Us" height="36" width="36" />
 <span>+91 997-466-9565</span></a>
 </div>
-</div>
+ </div>
 </div>
 </div>
 </div>
@@ -871,7 +813,7 @@ C 904, Ganesh Meridian, <br> S G Highway, Sola, <br> Ahmedabad, Gujarat 380060.<
 </li>
 <li>
 <a href="/terms-and-conditions">Terms and Conditions</a>
- </li>
+</li>
 
 </ul>
 <ul class="socail-list">
@@ -947,12 +889,5 @@ C 904, Ganesh Meridian, <br> S G Highway, Sola, <br> Ahmedabad, Gujarat 380060.<
         	bindInquiryForm('contact_us_form_footer','Expert Now');
     	});
 	</script>
-<script type="text/javascript">
-        pageName = 'Technology ExpressJS';
-        var inquiryCategory = 'technology - ExpressJS';
-    </script>
-<script type="text/javascript">
-        TechnologyPage();
-    </script>
 </body>
 </html>

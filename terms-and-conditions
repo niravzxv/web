@@ -1,12 +1,13 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Express JS Development Company & Services</title>
-<meta name="description" content=" Shivay infotechis one of the top Express.js Development Company that offers high-end development services. Hire express js developers.">
-<meta name="keywords" content="express js developers, express js development company, express js development services, hire express js developers, expressjs companies.">
+<title>Terms of Use of our software development company</title>
+<meta name="description" content="Terms and Conditions for any Web, Mobile app development project.">
+<meta name="keywords" content=" terms and conditions, terms of use mobile app development, terms of use web development, terms and condition development project 
+
+">
 <meta charset="utf-8" />
-<link rel="canonical" href="https://webcodegenie.com/technology/expressjs" />
+<link rel="canonical" href="https://webcodegenie.com/terms-and-conditions" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -136,7 +137,7 @@
 </div>
 </a>
 </li>
-</ul>
+ </ul>
 </div>
 </div>
 </li>
@@ -187,7 +188,7 @@
 <li><a href="/technology/ios">iOS</a></li>
 <li><a href="/technology/react-native">ReactNative</a></li>
 <li><a href="/technology/flutter">Flutter</a></li>
-<li><a href="/technology/kotlin">Kotlin</a></li>
+ <li><a href="/technology/kotlin">Kotlin</a></li>
 <li><a href="/technology/objective-C">Objective C</a></li>
 <li><a href="/technology/swift">Swift</a></li>
 </ul>
@@ -230,7 +231,7 @@
 <img loading="lazy" src="https://img.webcodegenie.com/img/header/tech-backend.svg" alt="Backend Technologies" height="36" width="36" />
 <div>
 <h4>Backend Developers</h4>
- <ul>
+<ul>
 <li><a href="/hire-nodejs-developers">Hire NodeJS Developers</a></li>
 </ul>
 </div>
@@ -240,7 +241,7 @@
 <div class="tech-box">
 <img loading="lazy" src="https://img.webcodegenie.com/img/header/tech-mobile.svg" alt="Mobile App Development" height="36" width="36" />
 <div>
-<h4>Mobile Developers</h4>
+ <h4>Mobile Developers</h4>
 <ul>
 <li>
 <a href="/hire-android-developers">Hire Android Developers</a>
@@ -282,7 +283,7 @@
 <li>
 <a href="/casestudy">
 <img loading="lazy" src="https://img.webcodegenie.com/img/header/case-studies.svg" alt="Mobile App Development" height="36" width="36" />
- <div>
+<div>
 <h6>Case Studies</h6>
 <p>Discover how we achieved results for our Clients in web and mobile app development.</p>
 </div>
@@ -293,7 +294,7 @@
 <img loading="lazy" src="https://img.webcodegenie.com/img/header/portfolio.svg" alt="Big Data" height="36" width="36" />
 <div>
 <h6>Portfolio</h6>
-<p>Explore our collection: Inspiring web and mobile apps development for modern businesses.</p>
+ <p>Explore our collection: Inspiring web and mobile apps development for modern businesses.</p>
 </div>
 </a>
 </li>
@@ -411,13 +412,13 @@
 <li class="has-sub-child">
 <div class="sub-link">Mobile App</div>
 <ul class="nav-dropdown">
- <li><a href="/technology/android">Android</a></li>
+<li><a href="/technology/android">Android</a></li>
 <li><a href="/technology/ios">iOS</a></li>
 <li><a href="/technology/react-native">ReactNative</a></li>
 <li><a href="/technology/flutter">Flutter</a></li>
 <li><a href="/technology/kotlin">Kotlin</a></li>
 <li><a href="/technology/objective-C">Objective C</a></li>
-<li><a href="/technology/swift">Swift</a></li>
+ <li><a href="/technology/swift">Swift</a></li>
 </ul>
 </li>
 </ul>
@@ -493,202 +494,170 @@
 </div>
 </div>
 </header> 
-<section class="technology">
+<section class="main-about-section tnc-pp-sec">
 <div class="container">
-<div class="tech-details">
-<div class="right-details">
-<div class="service-content">
-<h1>ExpressJS Development Company</h1>
-<p>Efficiently build your business applications with our expertise in ExpressJS application development. We prioritize your ideas and write quality code to turn your vision into a reality, resulting in robust server-side applications.</p>
-<a class="btn tech-btn" href="javascript:void(0);">GET QUOTE</a>
+<div class="heading-box">
+<h1 class="main-title">WebCodeGenie</h1>
+<h2 class="sub-title">Terms and Conditions</h2>
 </div>
+<div class="blog-content">
+<div class="content-box">
+<h3>General Work Terms and Client Responsibilities & Liabilities</h3>
+<ul>
+<li>All site content (text and multimedia) will be the sole responsibility of the client to provide to
+ Shivay infotechTechnology PVT LTD. Such should be provided prior to commencing the work.</li>
+<li>Client is solely responsible to take proper back-up of all content on their site prior to letting
+ Shivay infotechTechnology PVT LTD undertake the required course of action towards meeting the contract. Any
+loss or damage to existing data shall not be a responsibility of Shivay infotechTechnology PVT LTD under any
+circumstances.</li>
+<li>The Contract does not hold Shivay infotechTechnology PVT LTD responsible for any data entry, web hosting or
+custom artwork/graphics related work/tasks unless otherwise specifically mentioned, paid for and agreed to
+by both the parties towards such. Any artwork, images, or text supplied and/or designed by Shivay infotech
+Technology PVT LTD on behalf of the client, will remain the property of Shivay infotechTechnology PVT LTD
+and/or it's suppliers unless otherwise agreed.</li>
+<li>While Shivay infotechTechnology PVT LTD will do its best to achieve all deliveries within the estimated time,
+there may, at times, be the need to extend or adjust time in cases of any unavoidable and non-forecasted
+situations like those of deployment issues, dependencies, 3rd-Party support, development bottle-necks,
+resource unavailability due to emergency, communication delays and the like.</li>
+<li> Shivay infotechTechnology PVT LTD will provide the Client an opportunity to review the appearance and content
+of the Web site during the design and once they are completed. Shivay infotechTechnology PVT LTD shall wait
+for a period of 7 days to hear any feedback on such shared work/outputs from the client. In the event of
+client not replying within this period, such material will deemed to have been automatically accepted and
+approved by the Client.</li>
+<li>The Client retains the copyright to data, files and graphic logos provided by the Client and grants
+ Shivay infotechTechnology PVT LTD the rights to publish and use such material. The Client must obtain
+permission and rights to use any information or files that are copyrighted by a third party. The Client is
+further responsible for granting Shivay infotechTechnology PVT LTD permission and rights for use of the same
+and agrees to indemnify and hold harmless Shivay infotechTechnology PVT LTD from any and all claims resulting
+from the Client's negligence or inability to obtain proper copyright permissions. A contract for Web
+site design and/or placement shall be regarded as a guarantee by the Client to Shivay infotechTechnology PVT
+LTD that all such permissions and authorities have been obtained. Evidence of permissions and authorities
+may be requested.</li>
+<li> Shivay infotechTechnology PVT LTD will not accept responsibility for any alterations caused by the Client or a
+third party occurring to the Client's pages/website once installed/deployed. Such alterations include,
+but are not limited to additions, modifications or deletions. Shivay infotechTechnology PVT LTD may require a
+one-off Web Development charge before resolving any issues that may arise.</li>
+</ul>
 </div>
-<div class="left-img">
-<img width="720" height="682" src="https://img.webcodegenie.com/img/technology-infographics/ExpressJs.svg" alt="technology">
+<div class="content-box">
+<h3>Payments</h3>
+<ul>
+<li> Shivay infotechTechnology PVT LTD accepts payments by cheque, Cash or Bank Transfers (although we reserve the
+right to decline payment in any of these forms without notice). Without limitation, Shivay infotechTechnology
+PVT LTD reserves the right to withdraw any payment methods at any time and to vary its prices without prior
+notice.</li>
+<li>A cancellation fee may be charged if the Customer cancels the Service prior to completion. The fee will be
+equal to the amount of work completed at the point of cancellation.</li>
+<li>A non-payment of cancellation fee and/or over-due amount will result in legal action upon necessity.</li>
+</ul>
+</div>
+<div class="content-box">
+<h3>Support and 3rd-Party</h3>
+<ul>
+<li>As the site launches, we offer free support for the first month. After one month of free service, we charge
+according to our various price packages best-suited to client&#039;s requirement. We also provide attractive
+discounts if the client chooses a higher price package. The scope of support only includes any bug fixing
+and email support and excludes any issues related to the site architecture, rule changes and
+add-ons/enhancements.</li>
+<li>Any 3rd-Party support, product and/or service being used/ integrated into the site which requires licensing,
+payment, copyright, etc. shall be the sole responsibility and liability of and be provided by the client or
+will be procured by Shivay infotechTechnology PVT LTD on behalf of the client on pre-payment for the cost of
+such procurement. The fee charged by Shivay infotechTechnology PVT LTD is exclusive of out-of-pocket expenses
+and expense claims filed by third party products/services involved.</li>
+<li>No guarantees or warranties shall be provided by Shivay infotechTechnology PVT LTD for the accuracy or
+performance of such 3rd-Party product/service.</li>
+<li>Any upgrade in the 3rd-Party product/service being used in the project shall not be part of scope at
+ Shivay infotechTechnology PVT LTD. Such shall be addressed per feasibility and revision of price and time may
+be called for by Shivay infotechTechnology PVT LTD.</li>
+</ul>
+</div>
+<div class="content-box">
+<h3>Re-work, Enhancements/Add-ons and Billing</h3>
+<ul>
+<li>Any additional features not envisaged in the scope of work would be entertained through a Change Management
+process and be additional billed. Scope Creeps after wireframe sign off would be billed as additional and
+time lines and cost for delivery would increase.</li>
+<li>Most tweaks such as minor changes/re-work are normally just completed, however, if we feel this is being
+abused, we will build a list of works found being the grounds of abuse and bill such additionally per the
+total time efforts involved and undertaken to achieve the work/tasks at business rates ranging from US $ 15
+to 20 per hour.</li>
+<li>Whilst we try our best to cover most changes within the budget of the site, some changes are classified as
+enhancements/add-ons to the system and become chargeable; we will advise you before we start work of any
+such items.</li>
+<li>Any re-work, change or tweak request by the client post approval and/or furthering to the subsequent stage of
+project process shall be treated as add-on work and be additionally billed.</li>
+<li>The client must pay the fee charged by Shivay infotechTechnology PVT LTD without any deductions, discounts or
+debt settlement by the agreed due dates.</li>
+</ul>
+</div>
+ <div class="content-box">
+<h3>Limitations of Liability</h3>
+<ul>
+<li> Shivay infotechTechnology PVT LTD will use reasonable skill and care in providing the Service. However, we make
+no representation and exclude any warranty, express or implied, as to the availability, quality, accuracy,
+timeliness, completeness, performance or fitness of the Service.</li>
+<li> Shivay infotechTechnology PVT LTD hereby excludes itself, its Employees and or Agents from: all and any
+liability for loss or damage caused by any inaccuracy; omission; delay or error, whether the result of
+negligence or other cause in the production of the website; All and any liability for loss or damage to
+clients artwork/photos, data/content supplied for the site. This is whether the loss or damage results
+from negligence or otherwise.</li>
+<li>Except in the event of death or personal injury caused by our negligent acts or omissions, we shall not be
+liable in any way for any damages arising in contract, tort or otherwise in respect of loss or damage
+arising out of or in connection with this Agreement or operation of the Service. In no event will we be
+liable for any direct, indirect or consequential damages in contract or tort, including loss of profit, loss
+or damage to property or relating to claims made by third parties.</li>
+<li> Shivay infotechTechnology PVT LTD cannot make guarantees of service on behalf of third party organizations and
+will not be held liable for the failure in any service provided by third parties.</li>
+</ul>
+</div>
+<div class="content-box">
+<h3>Approvals and Delivery</h3>
+<ul>
+<li>The project will involve various stages and the work for the next stage will only start after receiving the
+sign off on and relevant payments for the previous stage as agreed.</li>
+<li>On completion of the Service (Website design and/or website development), the website will be uploaded to the
+Customer area of Shivay infotechTechnology PVT LTD server for approval. Upon approval by the Client, the
+website will be uploaded to the destination server where the site shall stay. Shivay infotechTechnology PVT
+LTD reserves the right to delay uploading of the website until full payment has been received.</li>
+<li>All code and material developed will be transferred post completion of project and after sign offs. The code
+ownership will reside with the client after final payments.</li>
+<li> Shivay infotechTechnology PVT LTD holds the Right to publish and use the completed work and/or even the
+deployed final produce/website for references to other potential clients. In circumstances such is required
+to be withheld, client shall notify Shivay infotechTechnology PVT LTD well in advance and request prior and
+proper approvals towards the same.</li>
+</ul>
+</div>
+<div class="content-box">
+<h3>Timescale</h3>
+<ul>
+<li> Shivay infotechTechnology PVT LTD will aim to complete all services within the agreed timescale. The timescale
+will commence on receipt of both the agreed % deposit as acceptance and all website content from the
+Customer.</li>
+<li> Shivay infotechTechnology PVT LTD may need to extend any timescales due to circumstances beyond its control.</li>
+</ul>
+</div>
+<div class="content-box">
+<h3>Jurisdiction</h3>
+<ul>
+<li>These terms shall be governed by and interpreted in accordance with Indian Law. The parties irrevocably agree
+that the courts of India shall have exclusive jurisdiction to settle any dispute which may arise out of,
+under, or in connection with these Terms and Conditions. The placing of an order will confirm acceptance of
+these conditions which are attached to the Order.</li>
+</ul>
+</div>
+<div class="content-box">
+<h3>Severability</h3>
+<ul>
+<li>In the event any one or more of the provisions of this Agreement and/or Order shall be held to be invalid,
+illegal or unenforceable, the remaining provisions of this Agreement and/or Order shall be unimpaired and
+the Agreement and/or Order shall not be void for this reason alone. Such invalid, illegal or unenforceable
+provision shall be replaced by a mutually acceptable valid, legal and enforceable provision, which comes
+closest to the intention of the parties underlying the invalid, illegal or unenforceable provision.</li>
+</ul>
 </div>
 </div>
 </div>
 </section>
-<section class="tech-content-section first-story-content">
-<div class="container">
-<div class="story-grid">
-<div class="right-content">
-<h2>Building Highly Scalable Applications with ExpressJS Development</h2>
-<p>Our team of expert developers builds ExpressJS applications that boast flexibility, speed, interactivity, simplicity, and scalability. We are a leading ExpressJS development agency that strives to seamlessly integrate your business objectives with the best user experiences. Our top priority is to deliver high-quality ExpressJS development services that enable you to achieve your goals while building a top-tier server-side application. With a deep understanding of the framework, our developers unleash ExpressJS's full potential to deliver innovative solutions. Our specialty lies in building high-performance, real-time applications that drive the growth of high-end companies. Our experienced ExpressJS developers aim to thoroughly understand your business needs and deliver tailored solutions.</p>
-<h3>Hire Express JS Developers</h3>
-<p>Our team of skilled ExpressJS developers at Shivay infotechhas extensive experience in building web and mobile applications. With their knowledge and expertise, we make the development process simpler for you. We specialize in integrating ExpressJS to enhance the functionality of your web and mobile applications, providing you with a highly efficient framework.</p>
-<p>Our team of Express JS developers is adept at building highly performant and feature-rich web and mobile applications. With years of experience, we have developed some of the most sophisticated applications for niche markets, making us one of the best in the industry. We take care of both the front-end and back-end of an application, ensuring smooth performance and seamless integration. Hire our skilled Express JS developers to embark on a journey of excellent customer satisfaction and increased business revenue.</p>
-</div>
-<div class="left-icon">
-<img width="155" height="154" src="https://img.webcodegenie.com/img/about/icon.svg" alt="Expert ExpressJS Development Company">
-</div>
-</div>
-</div>
-</section>
-<section class="tech-content-section second-story-content">
-<div class="container">
-<div class="joinus-form">
-<div class="start-project">
-<div class="lets-section">
-<h3>We'd love to hear about your digital project.</h3>
-<h2>Let's talk business</h2>
-</div>
-<div class="project-btn">
-<a href="javascript:void(0);" class="white-btn tech-btn">Get in Touch</a>
-</div>
-</div>
-</div>
-<div class="story-grid ">
-<div class="left-icon">
-<img width="155" height="154" src="https://img.webcodegenie.com/img/about/icon.svg" alt="Apex ExpressJS Development Services At WCG">
-</div>
-<div class="right-content">
-<h2>Exceptional Express.js Development Services</h2>
-<p>Providing a seamless customer experience via technology is one of the easiest ways to attract and retain potential clients. And as a growing <b> ExpressJS web development company </b>, we have hands-on experience in offering Express JS web services and applications for our clients. By utilizing ExpressJS best features, we create exceptional web applications that provide seamless user experiences. Our software developers team uses their expertise to build applications and handle complex tasks perfectly. With high-performance software solutions, WCG offers high-performance software solutions to clients worldwide. Our Express.JS knowledge makes our solutions versatile, adaptable, and responsive. We have teams of expert Express.js developers who can handle all your needs, from <b>cross-platform mobile apps</b> to enterprise solutions.</p>
-<h3>Revolutionize Your Business with ExpressJS Development Service</h3>
-<p>Now is the time to modernize your business and gain a competitive advantage with WCG expert ExpressJS development services. We specialize in offering Express.js development services, which are lightweight and user-friendly. To maximize the effectiveness of your Express.JS application, we optimize the platform's features like template engines, streamlined routing, database integration, and more. Our Javascript platforms build solid front and back ends with Rest API support. We can easily handle even the most complex problems thoroughly and flawlessly, thanks to our Express.js development team's experience with this platform. Let us develop customized applications that match your specific requirements. With <b>WebCodeGenie</b>, you get a wide range of CRM & eCommerce solutions.</p>
-</div>
-</div>
-</div>
-</section>
-<section class="development-company">
-<div class="container">
-<div class="heading-txt text-center">
-<div class="bg-txt">ExpressJS</div>
-<div class="small-heading-txt">Build feature-rich ExpressJS web applications with Shivay infotech</div>
-<h2>Why Choose WCG ExpressJS Web Development</h2>
-</div>
-<div class="company-section">
-<div class="company-block">
-<img width="100" height="100" src="https://img.webcodegenie.com/img/technology-infographics/features-icons/Backend/ExpressJs/highly-customizable.svg" alt=">Highly Customizable">
-<h3>Highly Customizable</h3>
-<p>Our ExpressJS products allow our clients to change the settings dynamically, adding more efficient and productive performance.</p>
-</div>
-<div class="company-block">
-<img width="100" height="100" src="https://img.webcodegenie.com/img/technology-infographics/features-icons/Backend/ExpressJs/smooth-user-experience.svg" alt="Smooth user experience">
-<h3>Smooth user experience</h3>
-<p>All customer and business requirements can be handled seamlessly by our ExpressJS developers offering smooth and efficient operation.</p>
-</div>
-<div class="company-block">
-<img width="100" height="100" src="https://img.webcodegenie.com/img/technology-infographics/features-icons/Backend/ExpressJs/lightning-fast-delivery.svg" alt="Lightning-fast delivery">
-<h3>Lightning-fast delivery</h3>
-<p>At WCG, we strive to provide fast and reliable services and solutions to our customers throughout the development process.</p>
-</div>
-<div class="company-block">
-<img width="100" height="100" src="https://img.webcodegenie.com/img/technology-infographics/features-icons/Backend/ExpressJs/effortless-migration.svg" alt="Effortless Migration">
-<h3>Effortless Migration</h3>
-<p>Our expert developer team migrates apps from one technology to another by providing a seamless and straightforward integration process.</p>
-</div>
-</div>
-</div>
-</section>
-
-
-<section class="testimonials-section custom-padding">
-<div class="container">
-<div class="heading-txt text-center">
-<div class="bg-txt">Testimonials</div>
-<div class="small-heading-txt">TESTIMONIALS</div>
-<h2>Their Words, Our Success: Client Testimonials</h2>
-</div>
-<div class="testimonial-slider">
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/james-roling.webp" alt="James Roling" width="120" height="120" />
-<a class="video-icon" data-fancybox href="https://youtu.be/sIHjzdY454s">
-<img src="https://img.webcodegenie.com/img/testimonial/video.svg" alt="video" width="37" height="37" />
-</a>
-</div>
-<h3>James Roling</h3>
-<p>We decided to partner with Shivay infotechand work with their developers directly for our customers. We had a partnership with Shivay infotechfor over 5 years, and we have completed more than 20 projects together. Whenever we have a project or client whose requirements are not fulfilled in-house we have a tech partner standing always on our backside to help us. Their team is well organized and well structured.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/garrett.webp" alt="Garrett" width="120" height="120" />
-</div>
-<h3>Garrett</h3>
-<p>The WCG team has been great to work with. They are reliable, knowledgeable and do whatever it takes to make a project successful. Whatever the task, they pull in the right people to make it happen, so you're never locked in to one person putting your long-term goals at risk. Thank you WCG team!</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/gray.webp" alt="Gary Walker" width="120" height="120" />
-<a class="video-icon" data-fancybox href="https://youtu.be/q0SxUGp-RUw">
-<img src="https://img.webcodegenie.com/img/testimonial/video.svg" alt="video" width="37" height="37" />
-</a>
-</div>
-<h3>Gary Walker</h3>
-<p>I'd like to say a few words about the Shivay infotechcrew. We've been working on small and large websites together, and they've all been developed with high quality and in a timely manner; I'm very pleased with the results of the projects we've been working on together. Their dedicated web developer was extremely knowledgeable, friendly, and communicative. Overall, the team was a pleasure to work with.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/drew-gilkey.webp" alt="Web Development" width="120" height="120" />
-</div>
-<h3>Drew Gilkey</h3>
-<p> Shivay infotechis a top-notch team which employs a structured agile programming process in their development. Amazing people and helpful. The team is friendly and easy to work with and always produce a good project experience. Besides the team being great, they are fast and efficient, met my deadlines and produced a great final product. I would recommend Shivay infotechto anyone that is looking for software development. Their price is competitive, and the quality of their work is exceptional.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/bradon-smith.webp" alt="Bradon Smith" width="120" height="120" />
-<a class="video-icon" data-fancybox href="https://youtu.be/5M4OxAxTv3c">
-<img src="https://img.webcodegenie.com/img/testimonial/video.svg" alt="video" width="37" height="37" />
-</a>
-</div>
-<h3>Bradon Smith</h3>
-<p>I've been working with Shivay infotechfor the past two years to design and develop mobile applications for my clients. I am quite pleased with their services. They have outperformed my expectations. They have always been there, willing to assist us whenever we needed them. Our experience with Shivay infotechhas been nothing short of extraordinary.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/salvador-ocana.webp" alt="Web Development" width="120" height="120" />
-</div>
-<h3>Salvador Ocana</h3>
-<p>Having worked with Shivay infotechfor a few years, I am very impressed with their seemingly endless knowledge of Development and Project management, and especially how quickly they complete the sprints and every project within the set timeframe. Lines of communication are excellent, and they always do exactly what they say they will. My personal project was a couple of Software applications, Shivay infotechcompleted the projects to my specifications and also provided the necessary specialized Support to continue to improve and implement new ideas.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/daniela-cordes.webp" alt="Daniela Cordes" width="120" height="120" />
-<a class="video-icon" data-fancybox href="https://youtu.be/Y_DHyLDDS8o">
-<img src="https://img.webcodegenie.com/img/testimonial/video.svg" alt="video" width="37" height="37" />
-</a>
-</div>
-<h3>Daniela Cordes</h3>
-<p>I would like to thank the entire team of Shivay infotechfor helping us with our real estate management software. We had a very short time to complete our target and make an initial level product where the entire team came up with a lot more cooperation and worked hard to speed up the entire process. They designed and developed very user-friendly software. Thank you Shivay infotechfor making this a great experience.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/testimonial-ph.webp" alt="Michael Carruth" width="120" height="120" />
-</div>
-<h3>Michael Carruth</h3>
-<p>Our firm had struggled a lot to rescue our software development process. Initially, we were resistant to outsourcing the entire project because of its complexity and Industry knowledge. After doing a meeting with the Project Manager at Shivay infotech, we have decided to move the entire product development to them. Our SDLC was never managed this efficiently before.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/testimonial-ph.webp" alt="Yuvraj Sisodia" width="120" height="120" />
-</div>
-<h3>Yuvraj Sisodia</h3>
-<p>We used Shivay infotechto build a custom calculator. Our experience from start to finish was excellent. The entire staff is very professional and knowledgeable. There was constant communication and updates throughout the project which made the entire process simple and facile. We would highly recommend Shivay infotech.</p>
-</div>
-</div>
-</div>
-</div>
-</section>
- 
 
 <section class="get-quote-sec custom-form-section" id="getInTouch">
 <div class="container">
@@ -731,7 +700,7 @@
 </div>
 <div class="content-box">
 <div class="static-txt">
-<h3>Your Benefits!</h3>
+ <h3>Your Benefits!</h3>
 <ul>
 <li>Professional Project Consultation</li>
 <li>Detailed Project Proposal</li>
@@ -740,9 +709,9 @@
 <div class="call-mail">
 <div class="title-txt">Sales & Marketing</div>
 <div class="address-list">
-<a href="/cdn-cgi/l/email-protection#c2b1a3aea7b182b5a7a0a1ada6a7a5a7acaba7eca1adaf">
+<a href="/cdn-cgi/l/email-protection#86f5e7eae3f5c6f1e3e4e5e9e2e3e1e3e8efe3a8e5e9eb">
 <img src="https://img.webcodegenie.com/img/footer/get-in-touch-mail.svg" alt="Mail Us" height="36" width="36" />
-<span><span class="__cf_email__" data-cfemail="5a293b363f291a2d3f3839353e3f3d3f34333f74393537">[email&#160;protected]</span></span></a>
+<span><span class="__cf_email__" data-cfemail="7704161b120437001215141813121012191e125914181a">[email&#160;protected]</span></span></a>
 </div>
 <div class="address-list">
 <a href="tel:+12342306411">
@@ -758,9 +727,9 @@
 <div class="call-mail">
 <div class="title-txt">Career Enquiry</div>
 <div class="address-list">
-<a href="/cdn-cgi/l/email-protection#1d7e7c6f78786f6e5d6a787f7e7279787a78737478337e7270">
+<a href="/cdn-cgi/l/email-protection#95f6f4e7f0f0e7e6d5e2f0f7f6faf1f0f2f0fbfcf0bbf6faf8">
 <img src="https://img.webcodegenie.com/img/footer/get-in-touch-mail.svg" alt="Mail Us" height="36" width="36" />
-<span><span class="__cf_email__" data-cfemail="741715061111060734031116171b101113111a1d115a171b19">[email&#160;protected]</span></span></a>
+<span><span class="__cf_email__" data-cfemail="2f4c4e5d4a4a5d5c6f584a4d4c404b4a484a41464a014c4042">[email&#160;protected]</span></span></a>
 </div>
 <div class="address-list">
 <a href="tel:+919974669565">
@@ -871,7 +840,7 @@ C 904, Ganesh Meridian, <br> S G Highway, Sola, <br> Ahmedabad, Gujarat 380060.<
 </li>
 <li>
 <a href="/terms-and-conditions">Terms and Conditions</a>
- </li>
+</li>
 
 </ul>
 <ul class="socail-list">
@@ -947,12 +916,5 @@ C 904, Ganesh Meridian, <br> S G Highway, Sola, <br> Ahmedabad, Gujarat 380060.<
         	bindInquiryForm('contact_us_form_footer','Expert Now');
     	});
 	</script>
-<script type="text/javascript">
-        pageName = 'Technology ExpressJS';
-        var inquiryCategory = 'technology - ExpressJS';
-    </script>
-<script type="text/javascript">
-        TechnologyPage();
-    </script>
 </body>
 </html>

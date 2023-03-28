@@ -1,0 +1,11 @@
+User-agent: * 
+
+Disallow: /blog/wp-login.php
+Disallow: /blog/wp-admin/
+Disallow: /career/*
+Disallow: /Portfolio/*
+Disallow: /casestudy/*
+
+Sitemap: https://webcodegenie.com/sitemap.xml
+Sitemap: https://webcodegenie.com/blog/post-sitemap.xml
+

@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Top-Rated Web Development Company in the USA</title>
-<meta name="description" content=" Shivay infotechis a top-rated web development company in the USA that offers expert services to businesses of all sizes.">
-<meta name="keywords" content="web development company, website development services, custom web development company, web development agency, top web development companies, website development agency.">
+<title>Leading USA Digital Marketing Agency | Social Media Marketing</title>
+<meta name="description" content="Looking for a leading USA digital marketing agency? Our experienced team provides a full range of services, including SEO, PPC, social media marketing, and more.">
+<meta name="keywords" content="digital marketing company, digital marketing agency, digital marketing services, internet marketing agency, social media marketing agency, social media agency, influencer marketing agency, internet marketing company, online marketing agency.">
 <meta charset="utf-8" />
-<link rel="canonical" href="https://webcodegenie.com/services/web-development" />
+<link rel="canonical" href="https://webcodegenie.com/services/digital-marketing" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -99,7 +99,7 @@
 </div>
 </a>
 </li>
- <li>
+<li>
 <a href="/services/digital-marketing">
 <img loading="lazy" src="https://img.webcodegenie.com/img/header/digital-marketing.svg" alt="Digital Marketing" height="36" width="36" />
 <div>
@@ -152,7 +152,7 @@
 <ul>
 <li><a href="/technology/angular">Angular</a></li>
 <li><a href="/technology/reactjs">ReactJS</a></li>
- <li><a href="/technology/javascript">JavaScript</a></li>
+<li><a href="/technology/javascript">JavaScript</a></li>
 <li><a href="/technology/backbonejs">Backbone JS</a></li>
 <li><a href="/technology/handlebarjs">HandleBar JS</a></li>
 <li><a href="/technology/ecmascript">ECMA Script</a></li>
@@ -218,7 +218,7 @@
 </div>
 </div>
 </div>
- </li>
+</li>
 <li id="hireList">
 <div class="menu-title">Hire Developers</div>
 <div id="hireSubMenu" class="dropdown-submenu ">
@@ -256,7 +256,7 @@
 <h4>Frontend Developers</h4>
 <ul>
 <li><a href="/hire-angularjs-developers">Hire AngularJs Developer</a></li>
-</ul>
+ </ul>
 </div>
 </div>
 </div>
@@ -271,7 +271,7 @@
 <ul class="main-sub-menu">
 <li>
 <a href="/blog">
- <img loading="lazy" src="https://img.webcodegenie.com/img/header/blogs.svg" alt="Web Development" height="36" width="36" />
+<img loading="lazy" src="https://img.webcodegenie.com/img/header/blogs.svg" alt="Web Development" height="36" width="36" />
 <div>
 <h6>Blogs</h6>
 <p>Stay ahead of the game with our expert Insights on web and mobile app development.</p>
@@ -314,7 +314,7 @@
 <div id="companySubMenu" class="dropdown-submenu ">
 <div class="container">
 <ul class="main-sub-menu">
-<li>
+ <li>
 <a href="/about-us">
 <img loading="lazy" src="https://img.webcodegenie.com/img/header/about.svg" alt="Web Development" height="36" width="36" />
 <div>
@@ -410,7 +410,7 @@
 <li class="has-sub-child">
 <div class="sub-link">Mobile App</div>
 <ul class="nav-dropdown">
-<li><a href="/technology/android">Android</a></li>
+ <li><a href="/technology/android">Android</a></li>
 <li><a href="/technology/ios">iOS</a></li>
 <li><a href="/technology/react-native">ReactNative</a></li>
 <li><a href="/technology/flutter">Flutter</a></li>
@@ -496,9 +496,9 @@
 <div class="container">
 <div class="services-grid contact-form-grid custom-form-section get-quote-sec hire-sec">
 <div class="service-content">
-<img width="356" height="300" src="https://img.webcodegenie.com/img/web-development/banner-img.svg" class="banner-img" alt="Web Development">
-<h1>Web Development Company</h1>
-<p>We are the leading and most trustable web development company specializing in Custom Web Development services. Our expertise and experience in developing web-based solutions will revolutionize your business, thereby establishing your brand identity.</p>
+<img width="960" height="300" src="https://img.webcodegenie.com/img/digital-marketing/DigitalMarketing.svg" class="banner-img" alt="Digital Marketing">
+<h1>Digital Marketing Agency</h1>
+<p>Partner with Shivay infotech, the top digital marketing agency in the USA. Our SEO, PPC, social media marketing, and other online marketing services are designed to deliver the best results. Our innovative custom strategies and flawless execution ensure you get the most out of your digital marketing efforts.</p>
 </div>
 <div class="outer-form contact-form-box">
 <h3>Request a quote</h3>
@@ -509,7 +509,7 @@
 <input type="hidden" name="request_for" class="request_for" value="">
 <input type="hidden" name="category" class="inquiry-catgory" class="">
 <div class="input-box ">
- <input type="text" name="first_name" placeholder="Full Name*" id="focusInput">
+<input type="text" name="first_name" placeholder="Full Name*" id="focusInput">
 </div>
 <div class="input-box ">
 <input type="email" name="email" placeholder="Email*">
@@ -542,12 +542,13 @@
 <div class="container">
 <div class="include-service-grid">
 <div class="service-img">
-<img width="490" height="685" src="https://img.webcodegenie.com/img/what-we-do/web-development.webp" alt="Top Web Development Company">
+<img width="624" height="498" src="https://img.webcodegenie.com/img/what-we-do/digital-marketing.webp" alt="Top Digital Marketing Company">
 </div>
 <div class="service-content">
-<h2>Premier Web Development Company</h2>
-<p> Shivay infotechTechnology Pvt Ltd. offers result-oriented and cost-effective web development services. Our expert developers specialize in creating advanced systems that handle high volumes of transactions and data. Contact us to learn how we can help your business achieve its digital goals.</p>
-<p>We offer custom web development services that aim to solve your business challenges by simplifying the deployment of marketing strategies and processes. Our team's deep understanding of web application development technology, creative skills, and business knowledge has enabled us to deliver fast, measurable growth and results on the internet.</p>
+<h2>Goal-Driven Digital Marketing Agency</h2>
+<p>Dominate Google's search algorithm with our effective SEO service. Our proven techniques have helped businesses increase their online presence, generate qualified leads, and grow their income. Trust us to deliver more customer traffic to your business with our tested and trusted SEO solutions.</p>
+<p>Rank highly on search engines with relevant keywords using our SEO services. Don't miss out on qualified leads that can convert to paying customers. Increase your online presence with our SEO solutions and reduce your paid traffic budget over time.</p>
+<p>Contact us today to discuss deploying our SEO strategies to stay ahead of your competitors. Increase your search rankings and get found more online with our expert team.</p>
 </div>
 </div>
 </div>
@@ -557,86 +558,68 @@
 <div class="heading-txt text-center">
 <div class="bg-txt">Services</div>
 <div class="small-heading-txt">SERVICES INCLUDE</div>
-<h2>Web Development Services</h2>
+<h2>Digital Marketing Services</h2>
 </div>
 <div class="celebration-filter">
 <div class="celebration-details">
 <div class="blog-list filters filter-button-group">
 <ul>
-<li data-sub-category="Custom Web Development"><a href="#celeb-1">
-<h3><img width="64" height="64" src="https://img.webcodegenie.com/img/web-development/tab-custom-web-development.svg" alt="Custom Web Development">Custom Web Development</h3>
+<li><a href="#celeb-1">
+<h3><img width="64" height="64" src="https://img.webcodegenie.com/img/digital-marketing/tech-seo.svg" alt="Search Engine Optimization">Search Engine Optimization</h3>
 </a>
 </li>
-<li data-sub-category="REST API development"><a href="#celeb-2">
-<h3><img width="64" height="64" src="https://img.webcodegenie.com/img/web-development/tab-rest-api.svg" alt="REST API development">REST API development</h3>
+<li><a href="#celeb-2">
+<h3><img width="64" height="64" src="https://img.webcodegenie.com/img/digital-marketing/tech-contentMrketing.svg" alt="Content Marketing">Content Marketing</h3>
 </a>
 </li>
-<li data-sub-category="API Integration Services"><a href="#celeb-3">
-<h3><img width="64" height="64" src="https://img.webcodegenie.com/img/web-development/tab-api-integration.svg" alt="API Integration Services">API Integration Services</h3>
+<li><a href="#celeb-3">
+<h3><img width="64" height="64" src="https://img.webcodegenie.com/img/digital-marketing/tech-integratedMarketing.svg" alt="Pay Per Click (PPC) Marketing">Pay Per Click (PPC) Marketing</h3>
 </a>
 </li>
-<li data-sub-category="Microservices Consultation"><a href="#celeb-4">
-<h3><img width="64" height="64" src="https://img.webcodegenie.com/img/web-development/tab-micro-service.svg" alt="Microservices Consultation">Microservices Consultation</h3>
-</a>
-</li>
-<li data-sub-category="AI/ML Integration Services"><a href="#celeb-5">
-<h3><img width="64" height="64" src="https://img.webcodegenie.com/img/web-development/tab-ai-ml.svg" alt="AI/ML Integration Services">AI/ML Integration Services</h3>
-</a>
-</li>
-<li data-sub-category="Open Source Framework Expert"><a href="#celeb-6">
-<h3><img width="64" height="64" src="https://img.webcodegenie.com/img/web-development/tab-open-source.svg" alt="Open Source Framework Expert">Open Source Framework Expert</h3>
+<li><a href="#celeb-4">
+<h3><img width="64" height="64" src="https://img.webcodegenie.com/img/digital-marketing/tech-smm.svg" alt="Social Media Marketing">Social Media Marketing</h3>
 </a>
 </li>
 </ul>
 <select class="filters-select" id="filterCeleb">
-<option value="celeb-1" selected>Custom Web Development</option>
-<option value="celeb-2">REST API development</option>
-<option value="celeb-3">API Integration Services</option>
-<option value="celeb-4">Microservices Consultation</option>
-<option value="celeb-5">AI/ML Integration Services</option>
-<option value="celeb-6">Open Source Framework Expert</option>
+<option value="celeb-1" selected> Search Engine Optimization</option>
+<option value="celeb-2">Content Marketing</option>
+<option value="celeb-3">Pay Per Click (PPC) Marketing</option>
+<option value="celeb-4">Social Media Marketing</option>
 </select>
 </div>
 </div>
 <div class="blog-list-sec grid">
 <div class="wcg-gellary" id="celeb-1">
 <div class="grid-item">
-<h2>Custom Web Development</h2>
-<p>As a leading custom web development company, we specialize in building complex web solutions that help expand your company's reach in the market. Our team is committed to tackling your business challenges while enhancing your brand's exposure in the process.</p>
-<p>We pride ourselves on delivering creative and experienced website and app development services. Our team works closely with enterprise-level customers to design and develop excellent, high-performing, and reliable custom websites that stand out from the competition. With the help of our expert web developers, you can achieve a visually engaging website that reflects your brand and helps your business thrive through digital innovation.</p>
-<p>We specialize in web development services that create all types of web-based software, ensuring a seamless user experience that generates a great ROI and enhances your business.</p>
+<h2>Search Engine Optimization</h2>
+<p>We offer affordable SEO services that deliver the best organic results for your business and help you crush your competition. Our team enables you to improve your organic rankings and visibility on search engines by carefully researching keywords and following white-hat SEO practices. As your SEO service agency, we use these practices to attract targeted traffic and leads while increasing your conversions.</p>
+<p>Choosing the best Digital marketing company is the first step to dominating your market. We can elevate your brand through innovative marketing solutions, custom strategies, channel expertise, and flawless execution that are totally within your budget and most suitable for your business. Likewise, we can tailor SEO strategies to meet your business’s specific keywords and industry needs to get you to the top of the search engine result page.</p>
 <div class="inner-title">Technology used</div>
 <div class="tech-used-section">
 <div class="tech-icon">
-<a href="/technology/php"><img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/php-vertical.svg" alt="PHP" title="PHP"></a>
-<a href="/technology/laravel"><img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/laravel.svg" alt="Laravel" title="Laravel"></a>
-<a href="/technology/nodejs"><img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/nodejs.svg" alt="NodeJS" title="NodeJS"></a>
-<a href="/technology/expressjs"><img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/expressjs-icon.svg" alt="ExpressJS" title="ExpressJS"></a>
-<a href="/technology/angular"><img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/angular.svg" alt="Angular" title="Angular"></a>
-<a href="/technology/reactjs"><img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/react-icon.svg" alt="ReactJS" title="ReactJS"></a>
-<img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/html-icon.svg" alt="Html" title="Html">
-<a href="/technology/javascript"><img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/javascript.svg" alt="JavaScript" title="JavaScript"></a>
-<img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/jquery-icon.svg" alt="jQuery" title="jQuery">
+<img width="36" height="36" src="https://img.webcodegenie.com/img/our-technology/local-seo.svg" alt="Local SEO" title="Local SEO">
+<img width="36" height="36" src="https://img.webcodegenie.com/img/our-technology/organic.svg" alt="Organic SEO" title="Organic SEO">
+<img width="36" height="36" src="https://img.webcodegenie.com/img/our-technology/ecommerce-seo.svg" alt="eCommerce SEO" title="eCommerce SEO">
 </div>
 <div class="btn-section">
-<a href="javascript:void(0);" class="btn update-sub-category tech-btn">Contact us</a>
+ <a href="javascript:void(0);" class="btn update-sub-category tech-btn">Contact us</a>
 </div>
 </div>
 </div>
 </div>
 <div class="wcg-gellary" id="celeb-2">
 <div class="grid-item">
-<h2>REST API development</h2>
-<p>As a leading Rest API development company, we specialize in providing end-to-end custom API development services. Our team of expert Rest API developers is committed to delivering top-notch solutions that help our customers overcome complicated business challenges.</p>
-<p>Our team of experienced Rest API developers possesses comprehensive knowledge of developing and implementing Rest APIs that enable effective communication between numerous software programs, third-party services, and disparate modules.</p>
-<p>WebCodeGenie's Rest API development services are designed to cater to your business needs, providing global online and mobile solutions with cloud connections. Whether you're a startup, small business, or a giant corporation, we can help you develop unique technological solutions that meet your specific requirements.</p>
-<h4>Technology used</h4>
+<h2>Content Marketing</h2>
+<p>It’s time to develop your brand's voice to drive engagement, sales, and profits with the best content marketing agency. We are a leading content marketing service provider that creates, publishes, and distributes content across multiple channels, helping you enhance your brand image.</p>
+<p>Our agile content marketing strategy ensures that your brand's value and reach are increased with the help of our powerful content marketing company. The content we create is tailored to suit the brand's vision. Using various content marketing methods, we can assist your enterprise in reaching its objectives.</p>
+<p>We will help you create, engage, convert, and earn sales through content marketing through social media, blogs, and other channels. As part of our content optimization services, our content creators work to promote brand awareness, build trust, and influence the purchasing decisions of your audience.</p>
+<div class="inner-title">Technology used</div>
 <div class="tech-used-section">
 <div class="tech-icon">
-<a href="/technology/laravel"><img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/laravel.svg" alt="Laravel" title="Laravel"></a>
-<img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/lumen.svg" alt="Lumen" title="Lumen">
-<a href="/technology/nodejs"><img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/nodejs.svg" alt="NodeJS" title="NodeJS"></a>
-<a href="/technology/expressjs"><img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/expressjs-icon.svg" alt="ExpressJS" title="ExpressJS"></a>
+<img width="36" height="36" src="https://img.webcodegenie.com/img/our-technology/press.svg" alt="Press Release" title="Press Release">
+<img width="36" height="36" src="https://img.webcodegenie.com/img/our-technology/webnew.svg" alt="Web 2.0" title="Web 2.0">
+<img width="36" height="36" src="https://img.webcodegenie.com/img/our-technology/articles.svg" alt="Article" title="Article">
 </div>
 <div class="btn-section">
 <a href="javascript:void(0);" class="btn update-sub-category tech-btn">Contact us</a>
@@ -646,17 +629,16 @@
 </div>
 <div class="wcg-gellary" id="celeb-3">
 <div class="grid-item">
-<h2>API Integration Services</h2>
-<p> Shivay infotechTechnology PVT LTD. masters in custom API development services complement and customize your existing solution. We help you integrate a third-party API so that your software can interact with other applications, devices, and business processes seamlessly.</p>
-<p>Our API integration services include implementing external and internal API development solutions and WordPress API integration to address your challenges such as administration, content development, data exchange, communications, other microservices, and business logic. </p>
-<p>In addition, we aim to guarantee that mission-critical business applications run smoothly and reliably by employing functional testing, load testing, and automated unit testing. We are the top leading API gateway integration service providers ensuring highly flexible, secure, and scalable API Development services for our clients.</p>
-<h4>Technology used</h4>
+<h2>Pay Per Click (PPC) Marketing</h2>
+<p>As a leading Pay Per Click Marketing Agency, Shivay infotechhelps you reach your target audience while getting high traffic. We help businesses engage their target audiences and achieve high conversion rates. Also, we customize PPC campaigns for our clients to meet their unique needs.</p>
+<p>We write the ads and create analytics reports to evaluate the campaign's performance with end-to-end services. You can expect results for your business if you invest in PPC Advertising Company. Effective PPC campaigns require deep understanding.</p>
+<p>The right keywords must be selected and placed correctly on the landing page to make it compelling. And that is why you should make us your number-one choice for Google Adwords marketing.</p>
+<div class="inner-title">Technology used</div>
 <div class="tech-used-section">
 <div class="tech-icon">
-<a href="/technology/php"><img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/php-vertical.svg" alt="PHP" title="PHP"></a>
-<a href="/technology/nodejs"><img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/nodejs.svg" alt="NodeJS" title="NodeJS"></a>
-<a href="/technology/expressjs"><img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/expressjs-icon.svg" alt="ExpressJS" title="ExpressJS"></a>
-<img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/Twillio.svg" alt="Twillio" title="Twillio">
+<img width="36" height="36" src="https://img.webcodegenie.com/img/our-technology/Google_Adwords.svg" alt="Adwords" title="Adwords">
+<img width="36" height="36" src="https://img.webcodegenie.com/img/our-technology/BingPPC.svg" alt="Bing PPC" title="Bing PPC">
+<img width="36" height="36" src="https://img.webcodegenie.com/img/our-technology/native-advertising.svg" alt="Native Ads" title="Native Ads">
 </div>
 <div class="btn-section">
 <a href="javascript:void(0);" class="btn update-sub-category tech-btn">Contact us</a>
@@ -666,55 +648,16 @@
 </div>
 <div class="wcg-gellary" id="celeb-4">
 <div class="grid-item">
-<h2>Microservices Consultation</h2>
-<p>Microservices consulting firm Shivay infotechTechnology PVT LTD. provides microservices development assistance to businesses. We help you upgrade your traditional IT systems with self-contained, safe, and flexible microservices applications. </p>
-<p>Offering microservices enables the development of modular and is a significant move for the enterprise. It essentially helps break down monolithic applications into small, modular bits that may act independently. Our team consists of expert professionals who have gathered experience worldwide and in many aspects of Microservices Support and Maintenance. </p>
-<p>Consequently, we can assist you in achieving your goals. With our assistance, you may design new applications and migrate existing monolithic systems to a microservices architecture. To create apps as soon as possible, we implement agile and <b>DevOps methodologies</b> and a variety of cutting-edge technologies and methods.</p>
-<h4>Technology used</h4>
+<h2>Social Media Marketing</h2>
+<p>As a professional social media marketing agency Shivay infotechutilizes the best market practice and provides the best marketing solution for your business. You will be able to leverage influencer marketing, increase traffic, build your brand image, and expand your social presence on several social media platforms with the help of our social media marketing strategy.</p>
+<p>With our <b>custom design social media marketing campaigns</b>, you can enhance your brand image to its full extent. We offer our services for Facebook, Instagram, Pinterest, Twitter, and LinkedIn. Creating your unique design will set you apart from the competition and help your business grow tenfold.</p>
+<div class="inner-title">Technology used</div>
 <div class="tech-used-section">
 <div class="tech-icon">
-<img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/rabbitmq-icon.svg" alt="RabbitMQ" title="RabbitMQ">
-<img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/grpc-icon.svg" alt="gRPC" title="gRPC">
-<a href="/technology/redis"><img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/redis-icon.svg" alt="Redis" title="Redis"></a>
-</div>
-<div class="btn-section">
-<a href="javascript:void(0);" class="btn update-sub-category tech-btn">Contact us</a>
-</div>
-</div>
-</div>
-</div>
-<div class="wcg-gellary" id="celeb-5">
-<div class="grid-item">
-<h2>AI/ML Integration Services</h2>
-<p> Shivay infotechTechnology PVT LTD. is the leading AI/ML Development Services firm that provides advanced AI-powered chatbot solutions. We deliver in-depth conversational pattern research, natural language decoding, thematically sensitive answers, user feedback monitoring, and other services.</p>
-<p>Our Machine Learning services include the development of specialized solutions for visual sensing, object identification, <b>ML/AI Integration and monitoring</b>, intelligent picture and video analysis, machine vision, autonomous cars, and robotics.</p>
-<h4>Technology used</h4>
-<div class="tech-used-section">
-<div class="tech-icon">
-<img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/ibm-watson.svg" alt="IBM Watson" title="IBM Watson">
-</div>
-<div class="btn-section">
-<a href="javascript:void(0);" class="btn update-sub-category tech-btn">Contact us</a>
-</div>
-</div>
-</div>
-</div>
-<div class="wcg-gellary" id="celeb-6">
-<div class="grid-item">
-<h2>Open Source Framework Expert</h2>
-<p> Shivay infotechis a leading open-source web development service provider in the USA, committed to delivering highly secure and dynamic online applications that you can trust. Whether you need to rework an existing app or develop a new one, we start by conceptualizing, designing, and delivering solutions that cater to all your business requirements.</p>
-<p>Our Open-Source developers are experienced in offering clients a range of personalized and creative Open-Source Development Services as per their needs. Our skilled web developers are the best for Open Source development and eCommerce solutions ranging from module development, integration, and responsive design development.</p>
-<h4>Technology used</h4>
-<div class="tech-used-section">
-<div class="tech-icon">
-<a href="/technology/laravel"><img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/laravel.svg" alt="Laravel" title="Laravel"></a>
-<img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/lumen.svg" alt="Lumen" title="Lumen">
-<a href="/technology/cakephp"><img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/cakephp-seeklogo.com.svg" alt="CakePHP" title="CakePHP"></a>
-<a href="/technology/expressjs"><img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/expressjs-icon.svg" alt="ExpressJS" title="ExpressJS"></a>
-<a href="/technology/socketio"><img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/socketio-icon.svg" alt="Socket.io" title="Socket.io"></a>
-<a href="/technology/angular"><img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/angular.svg" alt="Angular" title="Angular"></a>
-<a href="/technology/backbonejs"><img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/backbone.svg" alt="Backbone" title="Backbone"></a>
-<a href="/technology/reactjs"><img width="70" height="36" src="https://img.webcodegenie.com/img/our-technology/react-icon.svg" alt="ReactJS" title="ReactJS"></a>
+<img width="36" height="36" src="https://img.webcodegenie.com/img/our-technology/facebook-icon.svg" alt="Facebook" title="Facebook">
+<img width="36" height="36" src="https://img.webcodegenie.com/img/our-technology/twitter-official.svg" alt="Twitter" title="Twitter">
+<img width="36" height="36" src="https://img.webcodegenie.com/img/our-technology/linkedin.svg" alt="LinkedIn" title="LinkedIn">
+<img width="36" height="36" src="https://img.webcodegenie.com/img/our-technology/instagram-icon.svg" alt="Instagram" title="Instagram">
 </div>
 <div class="btn-section">
 <a href="javascript:void(0);" class="btn update-sub-category tech-btn">Contact us</a>
@@ -733,62 +676,24 @@
 <div class="heading-txt text-center">
 <div class="bg-txt">Technologies</div>
 <div class="small-heading-txt">OUR TECHNOLOGIES</div>
-<h2>Web Development Technologies</h2>
+<h2>Digital Marketing Technologies</h2>
 </div>
 <div class="technology-grid">
 <div class="technology-box">
-<img width="130" height="130" src="https://img.webcodegenie.com/img/technology-use/Php.svg" alt="PHP" />
-<h3>PHP</h3>
-<a href="/technology/php" aria-label="Read more about PHP"></a>
+<img width="130" height="130" src="https://img.webcodegenie.com/img/technology-use/Adwords.svg" alt="Adwords" />
+<h3>Adwords</h3>
 </div>
 <div class="technology-box">
-<img width="130" height="130" src="https://img.webcodegenie.com/img/technology-use/Laravel.svg" alt="Laravel" />
-<h3>Laravel</h3>
-<a href="/technology/laravel" aria-label="Read more about Laravel"></a>
+<img width="130" height="130" src="https://img.webcodegenie.com/img/technology-use/BingPPC.svg" alt="Bing PPC" />
+<h3>Bing PPC</h3>
 </div>
 <div class="technology-box">
-<img width="130" height="130" src="https://img.webcodegenie.com/img/technology-use/NodeJs.svg" alt="NodeJS" />
-<h3>NodeJS</h3>
-<a href="/technology/nodejs" aria-label="Read more about NodeJS"></a>
+<img width="130" height="130" src="https://img.webcodegenie.com/img/technology-use/LocalSeo.svg" alt="Local SEO" />
+<h3>Local SEO</h3>
 </div>
 <div class="technology-box">
- <img width="130" height="130" src="https://img.webcodegenie.com/img/technology-use/ExpressJs.svg" alt="ExpressJS" />
-<h3>ExpressJS</h3>
-<a href="/technology/expressjs" aria-label="Read more about ExpressJS"></a>
-</div>
-<div class="technology-box">
-<img width="130" height="130" src="https://img.webcodegenie.com/img/technology-use/angular.svg" alt="Angular" />
-<h3>Angular</h3>
-<a href="/technology/angular" aria-label="Read more about Angular"></a>
-</div>
-<div class="technology-box">
-<img width="130" height="130" src="https://img.webcodegenie.com/img/technology-use/react.svg" alt="ReactJS" />
-<h3>ReactJS</h3>
-<a href="/technology/reactjs" aria-label="Read more about ReactJS"></a>
-</div>
-<div class="technology-box">
-<img width="130" height="130" src="https://img.webcodegenie.com/img/technology-use/SocketIo.svg" alt="Socket.io" />
-<h3>Socket.io</h3>
-<a href="/technology/socketio" aria-label="Read more about Socket.io"></a>
-</div>
-<div class="technology-box">
-<img width="130" height="130" src="https://img.webcodegenie.com/img/technology-use/Lumen.svg" alt="Lumen" />
-<h3>Lumen</h3>
-</div>
-<div class="technology-box">
-<img width="130" height="130" src="https://img.webcodegenie.com/img/technology-use/Radis.svg" alt="Redis" />
-<h3>Redis</h3>
-<a href="/technology/redis" aria-label="Read more about Redis"></a>
-</div>
-<div class="technology-box">
-<img width="130" height="130" src="https://img.webcodegenie.com/img/technology-use/mysql.svg" alt="MySQL" />
-<h3>MySQL</h3>
-<a href="/technology/mysql" aria-label="Read more about MySQL"></a>
-</div>
-<div class="technology-box">
-<img width="130" height="130" src="https://img.webcodegenie.com/img/technology-use/MongoDB.svg" alt="MongoDB" />
-<h3>MongoDB</h3>
-<a href="/technology/mongodb" aria-label="Read more about MongoDB"></a>
+<img width="130" height="130" src="https://img.webcodegenie.com/img/technology-use/OrganicSeo.svg" alt="Organic SEO" />
+<h3>Organic SEO</h3>
 </div>
 </div>
 </div>
@@ -820,7 +725,7 @@
 <h3>Social Networking</h3>
 </div>
 <div class="industries-box">
- <img width="130" height="130" src="https://img.webcodegenie.com/img/industry-we-serve/Business.svg" alt="Business" />
+<img width="130" height="130" src="https://img.webcodegenie.com/img/industry-we-serve/Business.svg" alt="Business" />
 <h3>Business</h3>
 </div>
 <div class="industries-box">
@@ -884,7 +789,7 @@
 <p>We decided to partner with Shivay infotechand work with their developers directly for our customers. We had a partnership with Shivay infotechfor over 5 years, and we have completed more than 20 projects together. Whenever we have a project or client whose requirements are not fulfilled in-house we have a tech partner standing always on our backside to help us. Their team is well organized and well structured.</p>
 </div>
 </div>
- <div class="testimonial-item">
+<div class="testimonial-item">
 <div class="items">
 <div class="people-img">
 <img src="https://img.webcodegenie.com/img/testimonial/clients/garrett.webp" alt="Garrett" width="120" height="120" />
@@ -1030,47 +935,47 @@
 <div class="faq-questions">
 <div class="tab collapse">
 <div class="lg-12 collapse-header">
-<span>Does your company also provide website design and web app development services?</span>
+<span>How Will You Create Content That Fits My Business?</span>
 <span class="plusminus">+</span>
 </div>
 <div class="lg-12 collapse-item">
-Yes, we provide website app development and website design, and web app development as part of our whole package. Further, we undertake all works starting from registering a domain name to designing and implementing your website, as well as maintaining your website after its launch.
+As your content marketing agency, we will determine the type of content best suited for your business and the approach that we will use for it to use. Also, we will develop your content calendar to organize your social media posts. Then, before anything is published on social media, you will review it in advance.
 </div>
 </div>
 <div class="tab collapse">
 <div class="lg-12 collapse-header">
-<span>Do you assist with marketing after the launch of the bespoke website?</span>
+<span>How Does Shivay infotechTrack Seo Success?</span>
 <span class="plusminus">+</span>
 </div>
 <div class="lg-12 collapse-item">
-Yes, we ensure full-time assistance with the website's marketing after its launch. In addition to creating a responsive website for your company, we can assist you in delivering a wide range of marketing services tailored to your needs. In addition, we provide a wide range of designing and testing packages specifically designed for you to ensure your success.
+We at Shivay infotech, as an SEO service agency, take the reporting and tracking process seriously from day one and keep the reporting process as transparent as possible. Our team prepares analytics reports daily and analyzes which words perform well in the campaign and not. This process helps us run a successful A/B testing campaign for better results.
 </div>
 </div>
 <div class="tab collapse">
 <div class="lg-12 collapse-header">
-<span>How long does it take to develop a new website?</span>
+<span>What Different Digital Marketing Services Does Shivay infotechOffer?</span>
 <span class="plusminus">+</span>
 </div>
 <div class="lg-12 collapse-item">
-The development process takes account of the clients’ objectives and requires market research followed by the development stage. Therefore, we ensure to take charge of your demands and goals while developing. However, it is quintessential to note that more sophisticated sites will take longer to design due to functional requirements.
+Our marketing team leverages several digital channels on the internet involving all aspects and activities associated with digital marketing. And to grow your brand awareness, we implement the latest digital marketing practices that offer the best result. SEO, Bing advertisement, SMM, SEM, etc., are other forms of marketing that fall under the same umbrella of our digital marketing services.
 </div>
 </div>
 <div class="tab collapse">
 <div class="lg-12 collapse-header">
-<span>Do you develop websites device-friendly?</span>
+<span>Which Form Of Marketing Is More Cost-Effective, Digital Marketing Or Traditional Marketing?</span>
 <span class="plusminus">+</span>
 </div>
 <div class="lg-12 collapse-item">
-Yes, we understand the need to have a mobile-friendly website in this competitive market. Our custom web development and Custom web Development are mobile-friendly. Thus, we strive to ensure our website is device-friendly and can work on all types of devices and platforms.
+Rather than traditional marketing, the more affordable and convenient way to target your desired audience is digital marketing. With digital marketing, you can get your audience directly via mediums like Facebook, Google, LinkedIn, or maybe Instagram, unlike traditional marketing. Also, the costs associated with digital marketing can be measured easily but not quickly in the case of conventional marketing campaigns.
 </div>
 </div>
 <div class="tab collapse">
 <div class="lg-12 collapse-header">
-<span>Is it possible to see the design before the website is developed?</span>
+<span>How Can Social Media Marketing Help My Business To Grow?</span>
 <span class="plusminus">+</span>
 </div>
 <div class="lg-12 collapse-item">
-Yes, we ensure continuous communication and update the work progress to the clients. We develop full-color previews during the planning stage of our project management process so you can see precisely how the site will appear and function. You will receive a template for your review and feedback.
+We promote your products/business on multiple social media platforms. The expertise of our marketing team allows us to apply several latest tactics for enhancing your brand's presence on social networks. All this use of the latest social media marketing strategies helps you attract the attention of potential customers.
 </div>
 </div>
 </div>
@@ -1137,7 +1042,7 @@ Yes, we ensure continuous communication and update the work progress to the clie
 <div class="heading-txt text-center">
 <div class="bg-txt">Contact</div>
 <div class="small-heading-txt text-center">GET IN TOUCH</div>
- <h2>Consult With Our Experts Today!</h2>
+<h2>Consult With Our Experts Today!</h2>
 </div>
 <div class="contact-grid">
 <div class="form-box custom-form">
@@ -1181,9 +1086,9 @@ Yes, we ensure continuous communication and update the work progress to the clie
 <div class="call-mail">
 <div class="title-txt">Sales & Marketing</div>
 <div class="address-list">
-<a href="/cdn-cgi/l/email-protection#0675676a637546716364656962636163686f632865696b">
+<a href="/cdn-cgi/l/email-protection#a2d1c3cec7d1e2d5c7c0c1cdc6c7c5c7cccbc78cc1cdcf">
 <img src="https://img.webcodegenie.com/img/footer/get-in-touch-mail.svg" alt="Mail Us" height="36" width="36" />
-<span><span class="__cf_email__" data-cfemail="c6b5a7aaa3b586b1a3a4a5a9a2a3a1a3a8afa3e8a5a9ab">[email&#160;protected]</span></span></a>
+<span><span class="__cf_email__" data-cfemail="b9cad8d5dccaf9cedcdbdad6dddcdedcd7d0dc97dad6d4">[email&#160;protected]</span></span></a>
 </div>
 <div class="address-list">
 <a href="tel:+12342306411">
@@ -1199,14 +1104,14 @@ Yes, we ensure continuous communication and update the work progress to the clie
 <div class="call-mail">
 <div class="title-txt">Career Enquiry</div>
 <div class="address-list">
-<a href="/cdn-cgi/l/email-protection#97f4f6e5f2f2e5e4d7e0f2f5f4f8f3f2f0f2f9fef2b9f4f8fa">
+<a href="/cdn-cgi/l/email-protection#305351425555424370475552535f545557555e59551e535f5d">
 <img src="https://img.webcodegenie.com/img/footer/get-in-touch-mail.svg" alt="Mail Us" height="36" width="36" />
-<span><span class="__cf_email__" data-cfemail="fd9e9c8f98988f8ebd8a989f9e9299989a98939498d39e9290">[email&#160;protected]</span></span></a>
+<span><span class="__cf_email__" data-cfemail="7d1e1c0f18180f0e3d0a181f1e1219181a18131418531e1210">[email&#160;protected]</span></span></a>
 </div>
 <div class="address-list">
 <a href="tel:+919974669565">
 <img src="https://img.webcodegenie.com/img/footer/get-in-touch-call.svg" alt="Call Us" height="36" width="36" />
-<span>+91 997-466-9565</span></a>
+ <span>+91 997-466-9565</span></a>
 </div>
 </div>
 </div>
@@ -1266,7 +1171,7 @@ Yes, we ensure continuous communication and update the work progress to the clie
 <div class="title-txt">India</div>
 <ul class="address">
 <li>
- <div class="icon">
+<div class="icon">
 <img src="https://img.webcodegenie.com/img/footer/pin.svg" alt="pin" height="15" width="20" />
 </div>
 C 904, Ganesh Meridian, <br> S G Highway, Sola, <br> Ahmedabad, Gujarat 380060.</li>
@@ -1389,7 +1294,7 @@ C 904, Ganesh Meridian, <br> S G Highway, Sola, <br> Ahmedabad, Gujarat 380060.<
     	});
 	</script>
 <script type="text/javascript">
-        var inquiryCategory = 'web_development';
+        var inquiryCategory = 'Digital Marketing';
         var requestFor = 'service';
     </script>
 <script type="text/javascript">

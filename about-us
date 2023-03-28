@@ -1,12 +1,11 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Express JS Development Company & Services</title>
-<meta name="description" content=" Shivay infotechis one of the top Express.js Development Company that offers high-end development services. Hire express js developers.">
-<meta name="keywords" content="express js developers, express js development company, express js development services, hire express js developers, expressjs companies.">
+<title>Mobile & Web Services Company Shivay infotech</title>
+<meta name="description" content="We are Create new capabilities and respond to latest web and technologies for better world. We are having 10 years of IT web and mobile app development.">
+<meta name="keywords" content="Web Development Company, Software Development Agency, Mobile Application Development, Shivay infotechIT Agency">
 <meta charset="utf-8" />
-<link rel="canonical" href="https://webcodegenie.com/technology/expressjs" />
+<link rel="canonical" href="https://webcodegenie.com/about-us" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -108,7 +107,7 @@
 <p>Boost your online presence and skyrocket your sales with our dynamic digital marketing services</p>
 </div>
 </a>
-</li>
+ </li>
 <li>
 <a href="/services/iot-development">
 <img loading="lazy" src="https://img.webcodegenie.com/img/header/iot.svg" alt="IOT" height="36" width="36" />
@@ -210,7 +209,7 @@
 <h4>Databse</h4>
 <ul>
 <li><a href="/technology/mysql">MySQL</a></li>
-<li><a href="/technology/mongodb">MongoDB</a></li>
+ <li><a href="/technology/mongodb">MongoDB</a></li>
 <li><a href="/technology/redis">Redis</a></li>
 </ul>
 </div>
@@ -230,7 +229,7 @@
 <img loading="lazy" src="https://img.webcodegenie.com/img/header/tech-backend.svg" alt="Backend Technologies" height="36" width="36" />
 <div>
 <h4>Backend Developers</h4>
- <ul>
+<ul>
 <li><a href="/hire-nodejs-developers">Hire NodeJS Developers</a></li>
 </ul>
 </div>
@@ -264,7 +263,7 @@
 </div>
 </div>
 </div>
-</li>
+ </li>
 <li id="resourceList">
 <div class="menu-title">RESOURCES</div>
 <div id="resourceSubMenu" class="dropdown-submenu ">
@@ -282,7 +281,7 @@
 <li>
 <a href="/casestudy">
 <img loading="lazy" src="https://img.webcodegenie.com/img/header/case-studies.svg" alt="Mobile App Development" height="36" width="36" />
- <div>
+<div>
 <h6>Case Studies</h6>
 <p>Discover how we achieved results for our Clients in web and mobile app development.</p>
 </div>
@@ -320,7 +319,7 @@
 <img loading="lazy" src="https://img.webcodegenie.com/img/header/about.svg" alt="Web Development" height="36" width="36" />
 <div>
 <h6>About us</h6>
-<p>Our collaborative approach ensures a seamless and successful digital journey for our clients.</p>
+ <p>Our collaborative approach ensures a seamless and successful digital journey for our clients.</p>
 </div>
 </a>
 </li>
@@ -377,7 +376,7 @@
 <li><a href="/services/iot-development">IoT</a></li>
 <li><a href="/services/web-design-company">Web Design</a></li>
 <li><a href="/services/digital-marketing">Digital Marketing </a></li>
-</ul>
+ </ul>
 </li>
 <li class="has-child nested-child">
 <div class="main-link">Technology</div>
@@ -411,7 +410,7 @@
 <li class="has-sub-child">
 <div class="sub-link">Mobile App</div>
 <ul class="nav-dropdown">
- <li><a href="/technology/android">Android</a></li>
+<li><a href="/technology/android">Android</a></li>
 <li><a href="/technology/ios">iOS</a></li>
 <li><a href="/technology/react-native">ReactNative</a></li>
 <li><a href="/technology/flutter">Flutter</a></li>
@@ -438,7 +437,7 @@
 <li><a href="/technology/redis">Redis</a></li>
 </ul>
 </li>
-</ul>
+ </ul>
 </li>
 <li class="has-child">
 <div class="main-link">Hire Developers</div>
@@ -493,202 +492,464 @@
 </div>
 </div>
 </header> 
-<section class="technology">
+
+<section class="main-about-section">
 <div class="container">
-<div class="tech-details">
-<div class="right-details">
-<div class="service-content">
-<h1>ExpressJS Development Company</h1>
-<p>Efficiently build your business applications with our expertise in ExpressJS application development. We prioritize your ideas and write quality code to turn your vision into a reality, resulting in robust server-side applications.</p>
-<a class="btn tech-btn" href="javascript:void(0);">GET QUOTE</a>
+<div class="about-grid">
+<div class="about-content heading-box">
+<h1 class="main-title">About Us</h1>
+<h2 class="sub-title">Creating a Better Tomorrow</h2>
+<p>At Shivay infotechTechnology PVT Ltd, we're more than just a web and mobile app development company. We're a team of passionate, creative, and innovative individuals who love turning ideas into digital reality. Our goal is to help our clients achieve their business objectives by providing top-notch development services, tailored online marketing strategies, and exceptional maintenance and support.</p>
+<p>We understand that every business is unique, which is why we take the time to understand our clients' needs and develop customized solutions to meet those needs. From initial ideation to launch and beyond, we work tirelessly to ensure that every project is delivered on time, within budget, and to the highest standard of quality. We take pride in our ability to serve businesses of all sizes and industries. We believe in building strong relationships with our clients, and we work hard to ensure that communication is always clear and transparent. We're constantly researching and implementing the latest technology and trends, ensuring that our clients are always ahead of the curve. Whether you need a new website, a mobile app, or ongoing maintenance and support, we're here to help.</p>
 </div>
+<div class="about-img">
+<img src="https://img.webcodegenie.com/img/about/team.webp" alt="About Banner">
+<div class="hashtag">
+<span>Experience, Expertise, & Passion:</span>
+<br>
+<span>The Winning Formula of Our Team</span>
 </div>
-<div class="left-img">
-<img width="720" height="682" src="https://img.webcodegenie.com/img/technology-infographics/ExpressJs.svg" alt="technology">
 </div>
 </div>
 </div>
 </section>
-<section class="tech-content-section first-story-content">
+<section class="stroy-section">
 <div class="container">
 <div class="story-grid">
+<div class="story-content">
+<div class="left-icon"><img src="https://img.webcodegenie.com/img/about/icon.svg" alt="icon"></div>
 <div class="right-content">
-<h2>Building Highly Scalable Applications with ExpressJS Development</h2>
-<p>Our team of expert developers builds ExpressJS applications that boast flexibility, speed, interactivity, simplicity, and scalability. We are a leading ExpressJS development agency that strives to seamlessly integrate your business objectives with the best user experiences. Our top priority is to deliver high-quality ExpressJS development services that enable you to achieve your goals while building a top-tier server-side application. With a deep understanding of the framework, our developers unleash ExpressJS's full potential to deliver innovative solutions. Our specialty lies in building high-performance, real-time applications that drive the growth of high-end companies. Our experienced ExpressJS developers aim to thoroughly understand your business needs and deliver tailored solutions.</p>
-<h3>Hire Express JS Developers</h3>
-<p>Our team of skilled ExpressJS developers at Shivay infotechhas extensive experience in building web and mobile applications. With their knowledge and expertise, we make the development process simpler for you. We specialize in integrating ExpressJS to enhance the functionality of your web and mobile applications, providing you with a highly efficient framework.</p>
-<p>Our team of Express JS developers is adept at building highly performant and feature-rich web and mobile applications. With years of experience, we have developed some of the most sophisticated applications for niche markets, making us one of the best in the industry. We take care of both the front-end and back-end of an application, ensuring smooth performance and seamless integration. Hire our skilled Express JS developers to embark on a journey of excellent customer satisfaction and increased business revenue.</p>
+<h2>Story<br> of The <span>WCG</span></h2>
+<p>The idea of diving into the IT service Industry clicked into our young and dynamic brain of Nitesh Puchhadiya who is our Director at Shivay infotech. He always believed in Innovation and Digital transformation. He build a team of young designers, developers, and engineers who are enthusiastic and dedicated to their work. It now landed to an empire who is serving our clients globally with classic yet trendy products for` a decade now. We believe in delivering a satisfactory product to n clients and always stay excited to deliver something cool!</p>
 </div>
-<div class="left-icon">
-<img width="155" height="154" src="https://img.webcodegenie.com/img/about/icon.svg" alt="Expert ExpressJS Development Company">
+</div>
+<div class="story-box-content">
+<div class="box-story">
+<img src="https://img.webcodegenie.com/img/about/Vision.svg" alt="Vision">
+<h3>Vision</h3>
+<p>At Shivay infotechPVT Ltd, We Are Committed To Building A Company That Encourages Growth For Each Client, Employee And The Brand At Large. This Growth Is Aimed At Covering Financial Gains, Information Dissemination And Provision Of Quality Top-Of-Mind Solutions.</p>
+</div>
+<div class="box-story">
+<img src="https://img.webcodegenie.com/img/about/Mission.svg" alt="Mission">
+<h3>Mission</h3>
+<p>WebCodeGenie, we aspire to provide a healthy work environment for our employees to encourage innovation and creativity in their ideas and execution. we are dedicated to providing a holistic approach for our team of experts to enable them refresh their energies and recharge their creativity bank regularly.</p>
+</div>
 </div>
 </div>
 </div>
 </section>
-<section class="tech-content-section second-story-content">
+<section class="about-history without-title-padding">
+<div class="our-history-shape"></div>
 <div class="container">
-<div class="joinus-form">
-<div class="start-project">
-<div class="lets-section">
-<h3>We'd love to hear about your digital project.</h3>
-<h2>Let's talk business</h2>
+<div class="history-grid">
+<div class="history-box">
+<div class="counter" data-count="10">0</div>
+<span class="heading-counter">Years Of Experience</span>
 </div>
-<div class="project-btn">
-<a href="javascript:void(0);" class="white-btn tech-btn">Get in Touch</a>
+<div class="history-box">
+<div class="counter" data-count="300">300</div>
+<span class="heading-counter">Projects Completed</span>
 </div>
+<div class="history-box">
+<div class="counter percentage-txt" data-count="98">98</div>
+<span class="heading-counter">Customer Satisfaction</span>
 </div>
-</div>
-<div class="story-grid ">
-<div class="left-icon">
-<img width="155" height="154" src="https://img.webcodegenie.com/img/about/icon.svg" alt="Apex ExpressJS Development Services At WCG">
-</div>
-<div class="right-content">
-<h2>Exceptional Express.js Development Services</h2>
-<p>Providing a seamless customer experience via technology is one of the easiest ways to attract and retain potential clients. And as a growing <b> ExpressJS web development company </b>, we have hands-on experience in offering Express JS web services and applications for our clients. By utilizing ExpressJS best features, we create exceptional web applications that provide seamless user experiences. Our software developers team uses their expertise to build applications and handle complex tasks perfectly. With high-performance software solutions, WCG offers high-performance software solutions to clients worldwide. Our Express.JS knowledge makes our solutions versatile, adaptable, and responsive. We have teams of expert Express.js developers who can handle all your needs, from <b>cross-platform mobile apps</b> to enterprise solutions.</p>
-<h3>Revolutionize Your Business with ExpressJS Development Service</h3>
-<p>Now is the time to modernize your business and gain a competitive advantage with WCG expert ExpressJS development services. We specialize in offering Express.js development services, which are lightweight and user-friendly. To maximize the effectiveness of your Express.JS application, we optimize the platform's features like template engines, streamlined routing, database integration, and more. Our Javascript platforms build solid front and back ends with Rest API support. We can easily handle even the most complex problems thoroughly and flawlessly, thanks to our Express.js development team's experience with this platform. Let us develop customized applications that match your specific requirements. With <b>WebCodeGenie</b>, you get a wide range of CRM & eCommerce solutions.</p>
+<div class="history-box">
+<div class="counter" data-count="150">150</div>
+<span class="heading-counter">Employees</span>
 </div>
 </div>
 </div>
 </section>
-<section class="development-company">
+<section class="values-section custom-padding">
 <div class="container">
 <div class="heading-txt text-center">
-<div class="bg-txt">ExpressJS</div>
-<div class="small-heading-txt">Build feature-rich ExpressJS web applications with Shivay infotech</div>
-<h2>Why Choose WCG ExpressJS Web Development</h2>
+<div class="bg-txt">Our Values</div>
+<div class="small-heading-txt">OUR VALUES</div>
+<h2>Our Values</h2>
 </div>
-<div class="company-section">
-<div class="company-block">
-<img width="100" height="100" src="https://img.webcodegenie.com/img/technology-infographics/features-icons/Backend/ExpressJs/highly-customizable.svg" alt=">Highly Customizable">
-<h3>Highly Customizable</h3>
-<p>Our ExpressJS products allow our clients to change the settings dynamically, adding more efficient and productive performance.</p>
+<div class="values-grid">
+<div class="value-box">
+<img src="https://img.webcodegenie.com/img/about/quality-service.svg" alt="Quality Service">
+<h3>Quality Service</h3>
+<p>We Understand The Importance Of Quality Work In Business And Is Focused On Delivering A Quality Service.</p>
 </div>
-<div class="company-block">
-<img width="100" height="100" src="https://img.webcodegenie.com/img/technology-infographics/features-icons/Backend/ExpressJs/smooth-user-experience.svg" alt="Smooth user experience">
-<h3>Smooth user experience</h3>
-<p>All customer and business requirements can be handled seamlessly by our ExpressJS developers offering smooth and efficient operation.</p>
+<div class="value-box">
+<img src="https://img.webcodegenie.com/img/about/Project-First-Approach.svg" alt="Project First Approach">
+<h3>Project First Approach</h3>
+<p>When You Book Our Service, Our Main Focus Is On Delivering Excellent Work On Your Project First.</p>
 </div>
-<div class="company-block">
-<img width="100" height="100" src="https://img.webcodegenie.com/img/technology-infographics/features-icons/Backend/ExpressJs/lightning-fast-delivery.svg" alt="Lightning-fast delivery">
-<h3>Lightning-fast delivery</h3>
-<p>At WCG, we strive to provide fast and reliable services and solutions to our customers throughout the development process.</p>
+<div class="value-box">
+<img src="https://img.webcodegenie.com/img/about/Ethics&Honesty.svg" alt="Ethics & Honesty">
+<h3>Ethics & Honesty</h3>
+<p>Every Step Of The Way In Our Work Process, We Ensure That You Understand What We Are Doing And How We Plan To Do It.</p>
 </div>
-<div class="company-block">
-<img width="100" height="100" src="https://img.webcodegenie.com/img/technology-infographics/features-icons/Backend/ExpressJs/effortless-migration.svg" alt="Effortless Migration">
-<h3>Effortless Migration</h3>
-<p>Our expert developer team migrates apps from one technology to another by providing a seamless and straightforward integration process.</p>
+<div class="value-box">
+<img src="https://img.webcodegenie.com/img/about/360o-Satisfaction.svg" alt="360o Satisfaction">
+<h3>360o Satisfaction</h3>
+<p> Shivay infotechGoes Above And Beyond To Ensure That All Your Needs And The Project Specification Are Met.</p>
 </div>
 </div>
 </div>
 </section>
-
-
-<section class="testimonials-section custom-padding">
+<section class="team-wrapper">
+<div class="founder-section custom-padding">
 <div class="container">
 <div class="heading-txt text-center">
-<div class="bg-txt">Testimonials</div>
-<div class="small-heading-txt">TESTIMONIALS</div>
-<h2>Their Words, Our Success: Client Testimonials</h2>
+<div class="bg-txt">The Magic</div>
+<div class="small-heading-txt">Our Inspiration</div>
+<h2>Forward-thinking Visionary</h2>
 </div>
-<div class="testimonial-slider">
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/james-roling.webp" alt="James Roling" width="120" height="120" />
-<a class="video-icon" data-fancybox href="https://youtu.be/sIHjzdY454s">
-<img src="https://img.webcodegenie.com/img/testimonial/video.svg" alt="video" width="37" height="37" />
-</a>
+<div class="founder-grid">
+<div class="img-box">
+<img src="https://img.webcodegenie.com/img/team/lead/nitesh-ahir-ceo.webp" alt="Nitesh Puchhadiya" />
 </div>
-<h3>James Roling</h3>
-<p>We decided to partner with Shivay infotechand work with their developers directly for our customers. We had a partnership with Shivay infotechfor over 5 years, and we have completed more than 20 projects together. Whenever we have a project or client whose requirements are not fulfilled in-house we have a tech partner standing always on our backside to help us. Their team is well organized and well structured.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/garrett.webp" alt="Garrett" width="120" height="120" />
-</div>
-<h3>Garrett</h3>
-<p>The WCG team has been great to work with. They are reliable, knowledgeable and do whatever it takes to make a project successful. Whatever the task, they pull in the right people to make it happen, so you're never locked in to one person putting your long-term goals at risk. Thank you WCG team!</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/gray.webp" alt="Gary Walker" width="120" height="120" />
-<a class="video-icon" data-fancybox href="https://youtu.be/q0SxUGp-RUw">
-<img src="https://img.webcodegenie.com/img/testimonial/video.svg" alt="video" width="37" height="37" />
-</a>
-</div>
-<h3>Gary Walker</h3>
-<p>I'd like to say a few words about the Shivay infotechcrew. We've been working on small and large websites together, and they've all been developed with high quality and in a timely manner; I'm very pleased with the results of the projects we've been working on together. Their dedicated web developer was extremely knowledgeable, friendly, and communicative. Overall, the team was a pleasure to work with.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/drew-gilkey.webp" alt="Web Development" width="120" height="120" />
-</div>
-<h3>Drew Gilkey</h3>
-<p> Shivay infotechis a top-notch team which employs a structured agile programming process in their development. Amazing people and helpful. The team is friendly and easy to work with and always produce a good project experience. Besides the team being great, they are fast and efficient, met my deadlines and produced a great final product. I would recommend Shivay infotechto anyone that is looking for software development. Their price is competitive, and the quality of their work is exceptional.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/bradon-smith.webp" alt="Bradon Smith" width="120" height="120" />
-<a class="video-icon" data-fancybox href="https://youtu.be/5M4OxAxTv3c">
-<img src="https://img.webcodegenie.com/img/testimonial/video.svg" alt="video" width="37" height="37" />
-</a>
-</div>
-<h3>Bradon Smith</h3>
-<p>I've been working with Shivay infotechfor the past two years to design and develop mobile applications for my clients. I am quite pleased with their services. They have outperformed my expectations. They have always been there, willing to assist us whenever we needed them. Our experience with Shivay infotechhas been nothing short of extraordinary.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/salvador-ocana.webp" alt="Web Development" width="120" height="120" />
-</div>
-<h3>Salvador Ocana</h3>
-<p>Having worked with Shivay infotechfor a few years, I am very impressed with their seemingly endless knowledge of Development and Project management, and especially how quickly they complete the sprints and every project within the set timeframe. Lines of communication are excellent, and they always do exactly what they say they will. My personal project was a couple of Software applications, Shivay infotechcompleted the projects to my specifications and also provided the necessary specialized Support to continue to improve and implement new ideas.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/daniela-cordes.webp" alt="Daniela Cordes" width="120" height="120" />
-<a class="video-icon" data-fancybox href="https://youtu.be/Y_DHyLDDS8o">
-<img src="https://img.webcodegenie.com/img/testimonial/video.svg" alt="video" width="37" height="37" />
-</a>
-</div>
-<h3>Daniela Cordes</h3>
-<p>I would like to thank the entire team of Shivay infotechfor helping us with our real estate management software. We had a very short time to complete our target and make an initial level product where the entire team came up with a lot more cooperation and worked hard to speed up the entire process. They designed and developed very user-friendly software. Thank you Shivay infotechfor making this a great experience.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/testimonial-ph.webp" alt="Michael Carruth" width="120" height="120" />
-</div>
-<h3>Michael Carruth</h3>
-<p>Our firm had struggled a lot to rescue our software development process. Initially, we were resistant to outsourcing the entire project because of its complexity and Industry knowledge. After doing a meeting with the Project Manager at Shivay infotech, we have decided to move the entire product development to them. Our SDLC was never managed this efficiently before.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/testimonial-ph.webp" alt="Yuvraj Sisodia" width="120" height="120" />
-</div>
-<h3>Yuvraj Sisodia</h3>
-<p>We used Shivay infotechto build a custom calculator. Our experience from start to finish was excellent. The entire staff is very professional and knowledgeable. There was constant communication and updates throughout the project which made the entire process simple and facile. We would highly recommend Shivay infotech.</p>
+<div class="txt-box heading-box">
+<h2>Nitesh Puchhadiya</h2>
+<h4>CEO & Founder</h4>
+<p>To me, leadership is a nuanced art that is shaped by experiences, emotions, and personal values. It requires a delicate balance of technical know-how and emotional intelligence to inspire and motivate others towards a common goal. As a leader, I believe that humor is an essential tool for building trust and fostering a positive work environment. I have always been driven by the belief in the power of mentorship. Throughout my life, I have dedicated myself to teaching, guiding, and empowering others to realize their full potential. I believe that leadership is not just about achieving success but about helping others do the same.</p>
+<p><strong>I follow a 3-rule work ethic for success:</strong></p>
+<ul>
+<li>Simplicity over clutter.</li>
+<li>Harmony from discord.</li>
+<li>Difficulty breeds opportunity.</li>
+</ul>
+<p>At Shivay infotech, we make simplicity a top priority. It's not just about getting things done, but doing them with elegance and ease. Experience the power of simplicity with us.</p>
 </div>
 </div>
 </div>
 </div>
-</section>
- 
+<div class="members-section lead-team custom-padding">
+<div class="container">
+<div class="heading-txt text-center">
+<div class="bg-txt">Our Leaders</div>
+<div class="small-heading-txt">Wearing nothing but Smiles</div>
+<h2>Meet The Leaders</h2>
+</div>
+<div class="member-list">
+<div class="member-box">
+<img src="https://img.webcodegenie.com/img/team/lead/ankit-sharma.webp" class="member-img" alt="Ankit Sharma" />
+<div class="txt-box">
+<h3>Ankit Sharma</h3>
+<span>Business Development Manager</span>
+</div>
+</div>
+<div class="member-box">
+<img src="https://img.webcodegenie.com/img/team/lead/ishita-rajguru.webp" class="member-img" alt="Ishita Rajguru" />
+<div class="txt-box">
+<h3>Ishita Rajguru</h3>
+<span>Human Resource Manager</span>
+</div>
+</div>
+<div class="member-box">
+<img src="https://img.webcodegenie.com/img/team/lead/haresh-vidja.webp" class="member-img" alt="Haresh Vidja" />
+<div class="txt-box">
+<h3>Haresh Vidja</h3>
+<span>Technical Department Head</span>
+</div>
+</div>
+<div class="member-box">
+<img src="https://img.webcodegenie.com/img/team/lead/devang-bhagdev.webp" class="member-img" alt="Devang Bhagdev" />
+<div class="txt-box">
+<h3>Devang Bhagdev</h3>
+<span>NodeJS Team Lead</span>
+</div>
+</div>
+<div class="member-box">
+<img src="https://img.webcodegenie.com/img/team/lead/kuldip-chattrala.webp" class="member-img" alt="Kuldip Chhatrala" />
+<div class="txt-box">
+<h3>Kuldip Chhatrala</h3>
+<span>PHP Team Lead</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="success-section custom-padding">
+<div class="container">
+<div class="heading-txt text-center">
+<div class="bg-txt">Our Team</div>
+<div class="small-heading-txt">WCG TEAM</div>
+<h2>Team Behind WCG Success</h2>
+</div>
+<div class="thumb-section">
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-1.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-2.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-3.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-4.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-5.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-6.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-7.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-8.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-9.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-10.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-11.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-13.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-14.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-15.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-16.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-12.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-17.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-18.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-19.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-20.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-21.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-22.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-23.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-24.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-25.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-26.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-27.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-28.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-29.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-30.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-31.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-32.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-33.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-34.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-35.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-36.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-37.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-38.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-39.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-40.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-41.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-42.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-43.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-44.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-45.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-46.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-47.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-48.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-49.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-50.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-51.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-52.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-53.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-54.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-55.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-56.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-57.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-58.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-59.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-60.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-61.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-62.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-63.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-64.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-65.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-66.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-67.webp" alt="Team Member" />
+</div>
+<div>
+ <img src="https://img.webcodegenie.com/img/team/member-68.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-69.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-70.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-71.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-72.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-73.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-74.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-75.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-76.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-77.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-78.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-79.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-80.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-81.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-82.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-83.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-84.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-85.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-86.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-87.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-88.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-89.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member.webp" alt="Team Member" />
+</div>
+<div>
+<img src="https://img.webcodegenie.com/img/team/member-0.webp" alt="Team Member" />
+</div>
+</div>
+</div>
+</div>
+</div>
 
 <section class="get-quote-sec custom-form-section" id="getInTouch">
 <div class="container">
@@ -740,9 +1001,9 @@
 <div class="call-mail">
 <div class="title-txt">Sales & Marketing</div>
 <div class="address-list">
-<a href="/cdn-cgi/l/email-protection#c2b1a3aea7b182b5a7a0a1ada6a7a5a7acaba7eca1adaf">
+<a href="/cdn-cgi/l/email-protection#e291838e8791a2958780818d868785878c8b87cc818d8f">
 <img src="https://img.webcodegenie.com/img/footer/get-in-touch-mail.svg" alt="Mail Us" height="36" width="36" />
-<span><span class="__cf_email__" data-cfemail="5a293b363f291a2d3f3839353e3f3d3f34333f74393537">[email&#160;protected]</span></span></a>
+<span><span class="__cf_email__" data-cfemail="e794868b8294a7908285848883828082898e82c984888a">[email&#160;protected]</span></span></a>
 </div>
 <div class="address-list">
 <a href="tel:+12342306411">
@@ -758,9 +1019,9 @@
 <div class="call-mail">
 <div class="title-txt">Career Enquiry</div>
 <div class="address-list">
-<a href="/cdn-cgi/l/email-protection#1d7e7c6f78786f6e5d6a787f7e7279787a78737478337e7270">
+<a href="/cdn-cgi/l/email-protection#b5d6d4c7d0d0c7c6f5c2d0d7d6dad1d0d2d0dbdcd09bd6dad8">
 <img src="https://img.webcodegenie.com/img/footer/get-in-touch-mail.svg" alt="Mail Us" height="36" width="36" />
-<span><span class="__cf_email__" data-cfemail="741715061111060734031116171b101113111a1d115a171b19">[email&#160;protected]</span></span></a>
+ <span><span class="__cf_email__" data-cfemail="e586849780809796a5928087868a818082808b8c80cb868a88">[email&#160;protected]</span></span></a>
 </div>
 <div class="address-list">
 <a href="tel:+919974669565">
@@ -836,7 +1097,7 @@ C 904, Ganesh Meridian, <br> S G Highway, Sola, <br> Ahmedabad, Gujarat 380060.<
 <a href="tel:+919974669565">+91 997-466-9565</a></li>
 </ul>
 </div>
-</div>
+ </div>
 <div class="f-block services-links">
 <div class="title-txt">SERVICES</div>
 <ul class="services">
@@ -871,7 +1132,7 @@ C 904, Ganesh Meridian, <br> S G Highway, Sola, <br> Ahmedabad, Gujarat 380060.<
 </li>
 <li>
 <a href="/terms-and-conditions">Terms and Conditions</a>
- </li>
+</li>
 
 </ul>
 <ul class="socail-list">
@@ -910,7 +1171,6 @@ C 904, Ganesh Meridian, <br> S G Highway, Sola, <br> Ahmedabad, Gujarat 380060.<
 </div>
 </footer>
 
-
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://scripts.webcodegenie.com/js/jquery-v3.6.0.min.js"></script>
 <script>
 
@@ -948,11 +1208,7 @@ C 904, Ganesh Meridian, <br> S G Highway, Sola, <br> Ahmedabad, Gujarat 380060.<
     	});
 	</script>
 <script type="text/javascript">
-        pageName = 'Technology ExpressJS';
-        var inquiryCategory = 'technology - ExpressJS';
-    </script>
-<script type="text/javascript">
-        TechnologyPage();
-    </script>
+			bindAboutUsPage();
+		</script>
 </body>
 </html>

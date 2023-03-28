@@ -1,12 +1,11 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Express JS Development Company & Services</title>
-<meta name="description" content=" Shivay infotechis one of the top Express.js Development Company that offers high-end development services. Hire express js developers.">
-<meta name="keywords" content="express js developers, express js development company, express js development services, hire express js developers, expressjs companies.">
+<title>Sr. NodeJS Developer | Career at Shivay infotech</title>
+<meta name="description" content="Explore opportunities with Shivay infotechthat are both challenging and rewarding.">
+<meta name="keywords" content="IT Jobs Ahmedabad, Web Development Jobs Ahmedabad, IT Sector Career">
 <meta charset="utf-8" />
-<link rel="canonical" href="https://webcodegenie.com/technology/expressjs" />
+<link rel="canonical" href="https://webcodegenie.com/career/sr-nodejs-developer" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -39,7 +38,6 @@
 <meta name="msapplication-TileImage" content="https://scripts.webcodegenie.com/favicon/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 <meta name="p:domain_verify" content="ead078053a318e76104698cd19577a32" />
-<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 
 
@@ -176,7 +174,7 @@
 </ul>
 </div>
 </div>
-</div>
+ </div>
 <div class="tech-col">
 <div class="tech-box">
 <img loading="lazy" src="https://img.webcodegenie.com/img/header/tech-mobile.svg" alt="App Technologies" height="36" width="36" />
@@ -228,9 +226,9 @@
 <div class="tech-col">
 <div class="tech-box">
 <img loading="lazy" src="https://img.webcodegenie.com/img/header/tech-backend.svg" alt="Backend Technologies" height="36" width="36" />
-<div>
+ <div>
 <h4>Backend Developers</h4>
- <ul>
+<ul>
 <li><a href="/hire-nodejs-developers">Hire NodeJS Developers</a></li>
 </ul>
 </div>
@@ -282,7 +280,7 @@
 <li>
 <a href="/casestudy">
 <img loading="lazy" src="https://img.webcodegenie.com/img/header/case-studies.svg" alt="Mobile App Development" height="36" width="36" />
- <div>
+<div>
 <h6>Case Studies</h6>
 <p>Discover how we achieved results for our Clients in web and mobile app development.</p>
 </div>
@@ -411,7 +409,7 @@
 <li class="has-sub-child">
 <div class="sub-link">Mobile App</div>
 <ul class="nav-dropdown">
- <li><a href="/technology/android">Android</a></li>
+<li><a href="/technology/android">Android</a></li>
 <li><a href="/technology/ios">iOS</a></li>
 <li><a href="/technology/react-native">ReactNative</a></li>
 <li><a href="/technology/flutter">Flutter</a></li>
@@ -459,7 +457,7 @@
 </ul>
 </li>
 </ul>
-<ul class="nav-sub-dropdown">
+ <ul class="nav-sub-dropdown">
 <li class="has-sub-child">
 <div class="sub-link">Frontend Developers</div>
 <ul class="nav-dropdown">
@@ -493,286 +491,126 @@
 </div>
 </div>
 </header> 
-<section class="technology">
+<section class="our-work career-details">
 <div class="container">
-<div class="tech-details">
-<div class="right-details">
-<div class="service-content">
-<h1>ExpressJS Development Company</h1>
-<p>Efficiently build your business applications with our expertise in ExpressJS application development. We prioritize your ideas and write quality code to turn your vision into a reality, resulting in robust server-side applications.</p>
-<a class="btn tech-btn" href="javascript:void(0);">GET QUOTE</a>
+<div class="detail-section">
+<div class="career-title">
+<h1>Sr. NodeJS Developer</h1>
+<p>4-7 Years <span>10 Openings</span>
 </div>
 </div>
-<div class="left-img">
-<img width="720" height="682" src="https://img.webcodegenie.com/img/technology-infographics/ExpressJs.svg" alt="technology">
+<div class="jobdesc-box">
+<div class="left-description">
+<div class="job-description">
+<h3>Job Description</h3>
+<p>We are looking for a highly capable Node.js developer to optimise our web-based application performance. You will be collaborating with our front-end application developers, designing back-end components, and integrating data storage and protection solutions.</p>
 </div>
+<div class="qualification">
+<h3>Qualification</h3>
+<p>Bachelor's or Master degree in Computer Science or Information Technology or equivalent.</p>
 </div>
-</div>
-</section>
-<section class="tech-content-section first-story-content">
-<div class="container">
-<div class="story-grid">
-<div class="right-content">
-<h2>Building Highly Scalable Applications with ExpressJS Development</h2>
-<p>Our team of expert developers builds ExpressJS applications that boast flexibility, speed, interactivity, simplicity, and scalability. We are a leading ExpressJS development agency that strives to seamlessly integrate your business objectives with the best user experiences. Our top priority is to deliver high-quality ExpressJS development services that enable you to achieve your goals while building a top-tier server-side application. With a deep understanding of the framework, our developers unleash ExpressJS's full potential to deliver innovative solutions. Our specialty lies in building high-performance, real-time applications that drive the growth of high-end companies. Our experienced ExpressJS developers aim to thoroughly understand your business needs and deliver tailored solutions.</p>
-<h3>Hire Express JS Developers</h3>
-<p>Our team of skilled ExpressJS developers at Shivay infotechhas extensive experience in building web and mobile applications. With their knowledge and expertise, we make the development process simpler for you. We specialize in integrating ExpressJS to enhance the functionality of your web and mobile applications, providing you with a highly efficient framework.</p>
-<p>Our team of Express JS developers is adept at building highly performant and feature-rich web and mobile applications. With years of experience, we have developed some of the most sophisticated applications for niche markets, making us one of the best in the industry. We take care of both the front-end and back-end of an application, ensuring smooth performance and seamless integration. Hire our skilled Express JS developers to embark on a journey of excellent customer satisfaction and increased business revenue.</p>
-</div>
-<div class="left-icon">
-<img width="155" height="154" src="https://img.webcodegenie.com/img/about/icon.svg" alt="Expert ExpressJS Development Company">
-</div>
-</div>
-</div>
-</section>
-<section class="tech-content-section second-story-content">
-<div class="container">
-<div class="joinus-form">
-<div class="start-project">
-<div class="lets-section">
-<h3>We'd love to hear about your digital project.</h3>
-<h2>Let's talk business</h2>
-</div>
-<div class="project-btn">
-<a href="javascript:void(0);" class="white-btn tech-btn">Get in Touch</a>
-</div>
-</div>
-</div>
-<div class="story-grid ">
-<div class="left-icon">
-<img width="155" height="154" src="https://img.webcodegenie.com/img/about/icon.svg" alt="Apex ExpressJS Development Services At WCG">
-</div>
-<div class="right-content">
-<h2>Exceptional Express.js Development Services</h2>
-<p>Providing a seamless customer experience via technology is one of the easiest ways to attract and retain potential clients. And as a growing <b> ExpressJS web development company </b>, we have hands-on experience in offering Express JS web services and applications for our clients. By utilizing ExpressJS best features, we create exceptional web applications that provide seamless user experiences. Our software developers team uses their expertise to build applications and handle complex tasks perfectly. With high-performance software solutions, WCG offers high-performance software solutions to clients worldwide. Our Express.JS knowledge makes our solutions versatile, adaptable, and responsive. We have teams of expert Express.js developers who can handle all your needs, from <b>cross-platform mobile apps</b> to enterprise solutions.</p>
-<h3>Revolutionize Your Business with ExpressJS Development Service</h3>
-<p>Now is the time to modernize your business and gain a competitive advantage with WCG expert ExpressJS development services. We specialize in offering Express.js development services, which are lightweight and user-friendly. To maximize the effectiveness of your Express.JS application, we optimize the platform's features like template engines, streamlined routing, database integration, and more. Our Javascript platforms build solid front and back ends with Rest API support. We can easily handle even the most complex problems thoroughly and flawlessly, thanks to our Express.js development team's experience with this platform. Let us develop customized applications that match your specific requirements. With <b>WebCodeGenie</b>, you get a wide range of CRM & eCommerce solutions.</p>
-</div>
-</div>
-</div>
-</section>
-<section class="development-company">
-<div class="container">
-<div class="heading-txt text-center">
-<div class="bg-txt">ExpressJS</div>
-<div class="small-heading-txt">Build feature-rich ExpressJS web applications with Shivay infotech</div>
-<h2>Why Choose WCG ExpressJS Web Development</h2>
-</div>
-<div class="company-section">
-<div class="company-block">
-<img width="100" height="100" src="https://img.webcodegenie.com/img/technology-infographics/features-icons/Backend/ExpressJs/highly-customizable.svg" alt=">Highly Customizable">
-<h3>Highly Customizable</h3>
-<p>Our ExpressJS products allow our clients to change the settings dynamically, adding more efficient and productive performance.</p>
-</div>
-<div class="company-block">
-<img width="100" height="100" src="https://img.webcodegenie.com/img/technology-infographics/features-icons/Backend/ExpressJs/smooth-user-experience.svg" alt="Smooth user experience">
-<h3>Smooth user experience</h3>
-<p>All customer and business requirements can be handled seamlessly by our ExpressJS developers offering smooth and efficient operation.</p>
-</div>
-<div class="company-block">
-<img width="100" height="100" src="https://img.webcodegenie.com/img/technology-infographics/features-icons/Backend/ExpressJs/lightning-fast-delivery.svg" alt="Lightning-fast delivery">
-<h3>Lightning-fast delivery</h3>
-<p>At WCG, we strive to provide fast and reliable services and solutions to our customers throughout the development process.</p>
-</div>
-<div class="company-block">
-<img width="100" height="100" src="https://img.webcodegenie.com/img/technology-infographics/features-icons/Backend/ExpressJs/effortless-migration.svg" alt="Effortless Migration">
-<h3>Effortless Migration</h3>
-<p>Our expert developer team migrates apps from one technology to another by providing a seamless and straightforward integration process.</p>
-</div>
-</div>
-</div>
-</section>
-
-
-<section class="testimonials-section custom-padding">
-<div class="container">
-<div class="heading-txt text-center">
-<div class="bg-txt">Testimonials</div>
-<div class="small-heading-txt">TESTIMONIALS</div>
-<h2>Their Words, Our Success: Client Testimonials</h2>
-</div>
-<div class="testimonial-slider">
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/james-roling.webp" alt="James Roling" width="120" height="120" />
-<a class="video-icon" data-fancybox href="https://youtu.be/sIHjzdY454s">
-<img src="https://img.webcodegenie.com/img/testimonial/video.svg" alt="video" width="37" height="37" />
-</a>
-</div>
-<h3>James Roling</h3>
-<p>We decided to partner with Shivay infotechand work with their developers directly for our customers. We had a partnership with Shivay infotechfor over 5 years, and we have completed more than 20 projects together. Whenever we have a project or client whose requirements are not fulfilled in-house we have a tech partner standing always on our backside to help us. Their team is well organized and well structured.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/garrett.webp" alt="Garrett" width="120" height="120" />
-</div>
-<h3>Garrett</h3>
-<p>The WCG team has been great to work with. They are reliable, knowledgeable and do whatever it takes to make a project successful. Whatever the task, they pull in the right people to make it happen, so you're never locked in to one person putting your long-term goals at risk. Thank you WCG team!</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/gray.webp" alt="Gary Walker" width="120" height="120" />
-<a class="video-icon" data-fancybox href="https://youtu.be/q0SxUGp-RUw">
-<img src="https://img.webcodegenie.com/img/testimonial/video.svg" alt="video" width="37" height="37" />
-</a>
-</div>
-<h3>Gary Walker</h3>
-<p>I'd like to say a few words about the Shivay infotechcrew. We've been working on small and large websites together, and they've all been developed with high quality and in a timely manner; I'm very pleased with the results of the projects we've been working on together. Their dedicated web developer was extremely knowledgeable, friendly, and communicative. Overall, the team was a pleasure to work with.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/drew-gilkey.webp" alt="Web Development" width="120" height="120" />
-</div>
-<h3>Drew Gilkey</h3>
-<p> Shivay infotechis a top-notch team which employs a structured agile programming process in their development. Amazing people and helpful. The team is friendly and easy to work with and always produce a good project experience. Besides the team being great, they are fast and efficient, met my deadlines and produced a great final product. I would recommend Shivay infotechto anyone that is looking for software development. Their price is competitive, and the quality of their work is exceptional.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/bradon-smith.webp" alt="Bradon Smith" width="120" height="120" />
-<a class="video-icon" data-fancybox href="https://youtu.be/5M4OxAxTv3c">
-<img src="https://img.webcodegenie.com/img/testimonial/video.svg" alt="video" width="37" height="37" />
-</a>
-</div>
-<h3>Bradon Smith</h3>
-<p>I've been working with Shivay infotechfor the past two years to design and develop mobile applications for my clients. I am quite pleased with their services. They have outperformed my expectations. They have always been there, willing to assist us whenever we needed them. Our experience with Shivay infotechhas been nothing short of extraordinary.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/salvador-ocana.webp" alt="Web Development" width="120" height="120" />
-</div>
-<h3>Salvador Ocana</h3>
-<p>Having worked with Shivay infotechfor a few years, I am very impressed with their seemingly endless knowledge of Development and Project management, and especially how quickly they complete the sprints and every project within the set timeframe. Lines of communication are excellent, and they always do exactly what they say they will. My personal project was a couple of Software applications, Shivay infotechcompleted the projects to my specifications and also provided the necessary specialized Support to continue to improve and implement new ideas.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/daniela-cordes.webp" alt="Daniela Cordes" width="120" height="120" />
-<a class="video-icon" data-fancybox href="https://youtu.be/Y_DHyLDDS8o">
-<img src="https://img.webcodegenie.com/img/testimonial/video.svg" alt="video" width="37" height="37" />
-</a>
-</div>
-<h3>Daniela Cordes</h3>
-<p>I would like to thank the entire team of Shivay infotechfor helping us with our real estate management software. We had a very short time to complete our target and make an initial level product where the entire team came up with a lot more cooperation and worked hard to speed up the entire process. They designed and developed very user-friendly software. Thank you Shivay infotechfor making this a great experience.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/testimonial-ph.webp" alt="Michael Carruth" width="120" height="120" />
-</div>
-<h3>Michael Carruth</h3>
-<p>Our firm had struggled a lot to rescue our software development process. Initially, we were resistant to outsourcing the entire project because of its complexity and Industry knowledge. After doing a meeting with the Project Manager at Shivay infotech, we have decided to move the entire product development to them. Our SDLC was never managed this efficiently before.</p>
-</div>
-</div>
-<div class="testimonial-item">
-<div class="items">
-<div class="people-img">
-<img src="https://img.webcodegenie.com/img/testimonial/clients/testimonial-ph.webp" alt="Yuvraj Sisodia" width="120" height="120" />
-</div>
-<h3>Yuvraj Sisodia</h3>
-<p>We used Shivay infotechto build a custom calculator. Our experience from start to finish was excellent. The entire staff is very professional and knowledgeable. There was constant communication and updates throughout the project which made the entire process simple and facile. We would highly recommend Shivay infotech.</p>
-</div>
-</div>
-</div>
-</div>
-</section>
- 
-
-<section class="get-quote-sec custom-form-section" id="getInTouch">
-<div class="container">
-<div class="expert-block custom-padding">
-<div class="heading-txt text-center">
-<div class="bg-txt">Contact</div>
-<div class="small-heading-txt text-center">GET IN TOUCH</div>
-<h2>Consult With Our Experts Today!</h2>
-</div>
-<div class="contact-grid">
-<div class="form-box custom-form">
-<form class="contact-form" id="contact_us_form_footer" name="contact_us_form" method="post" action="/inquiry" enctype="multipart/form-data">
-<input type="hidden" name="redirect_from_page" class="redirect_from_page" value="">
-<input type="hidden" name="request_for" class="request_for">
-<input type="hidden" name="category" class="inquiry-catgory" class="">
-<div class="input-box ">
-<input type="text" name="first_name" placeholder="Full Name*" id="focusInput">
-</div>
-<div class="input-box ">
-<input type="email" name="email" placeholder="Email*">
-</div>
-<div class="input-box">
-<input id="phone_number" name="phone_number" placeholder="Phone Number*" class="phone_number" type="text">
-</div>
-<div class="input-box">
-<textarea name="message" placeholder="Message*" maxlength="500"></textarea>
-<div class="file-upload-wrapper" data-text="Attach file">
-<input name="document_file" id="document_upload" type="file" class="file-upload-field">
-<svg xmlns="http://www.w3.org/2000/svg" width="16.011" height="15.082" viewBox="0 0 16.011 15.082">
-<g id="attachments" transform="translate(4 -13.856)">
-<g id="Group_65221" data-name="Group 65221" transform="translate(-4 13.856)">
-<path id="Path_21298" data-name="Path 21298" d="M15.082,16.654a3.181,3.181,0,0,0-4.494,0L3.1,24.143a1.907,1.907,0,1,0,2.7,2.7l5.992-5.992-.9-.9L4.9,25.941a.636.636,0,1,1-.9-.9l7.49-7.49a1.907,1.907,0,1,1,2.7,2.7l-7.49,7.49A3.178,3.178,0,0,1,2.2,23.245l7.49-7.49-.9-.9L1.3,22.346a4.449,4.449,0,0,0,6.291,6.291l7.49-7.49A3.181,3.181,0,0,0,15.082,16.654Z" transform="translate(0 -14.856)" fill="#858585" />
-</g>
-</g>
-</svg>
-</div>
-</div>
-<div class="btn form-btn"><input type="submit" value="Submit" name="submit"></div>
-</form>
-</div>
-<div class="content-box">
-<div class="static-txt">
-<h3>Your Benefits!</h3>
+<div class="jobs-grid">
+<div>
+<h3>Job Requirement</h3>
 <ul>
-<li>Professional Project Consultation</li>
-<li>Detailed Project Proposal</li>
+<li>4 to 7 years working in back-end web development.</li>
+<li>At least 3 years of experience in NodeJS technology.</li>
+<li>Experience with server-side templating languages like handlebars or ejs.</li>
+<li>Solid experience in Express.js.</li>
+<li>Experience building robust RESTful APIs.</li>
+<li>Experience integration of third party API or WebServices.</li>
+<li>Experience with relational or non-relational databases like MongoDB, MySQL</li>
+<li>Solid understanding and extensive experience with version control tools like Git.</li>
+<li>Exceptional problem solving and ability to work independently in projects.</li>
+<li>Fluency in both oral and written English.</li>
+<li>Solid Understanding of agile methodologies.</li>
+<li>Good to have knowledge in microservice architecture and Continuous Integration and Continuous Delivery.</li>
 </ul>
 </div>
-<div class="call-mail">
-<div class="title-txt">Sales & Marketing</div>
-<div class="address-list">
-<a href="/cdn-cgi/l/email-protection#c2b1a3aea7b182b5a7a0a1ada6a7a5a7acaba7eca1adaf">
-<img src="https://img.webcodegenie.com/img/footer/get-in-touch-mail.svg" alt="Mail Us" height="36" width="36" />
-<span><span class="__cf_email__" data-cfemail="5a293b363f291a2d3f3839353e3f3d3f34333f74393537">[email&#160;protected]</span></span></a>
-</div>
-<div class="address-list">
-<a href="tel:+12342306411">
-<img src="https://img.webcodegenie.com/img/footer/get-in-touch-call.svg" alt="Call Us" height="36" width="36" />
-<span>+1 234-230-6411</span> </a>
-</div>
-<div class="address-list">
-<a href="skype:webcodegenie?chat">
-<img src="https://img.webcodegenie.com/img/footer/sky.svg" alt="Mail Us" height="36" width="36" />
-<span>webcodegenie</span> </a>
-</div>
-</div>
-<div class="call-mail">
-<div class="title-txt">Career Enquiry</div>
-<div class="address-list">
-<a href="/cdn-cgi/l/email-protection#1d7e7c6f78786f6e5d6a787f7e7279787a78737478337e7270">
-<img src="https://img.webcodegenie.com/img/footer/get-in-touch-mail.svg" alt="Mail Us" height="36" width="36" />
-<span><span class="__cf_email__" data-cfemail="741715061111060734031116171b101113111a1d115a171b19">[email&#160;protected]</span></span></a>
-</div>
-<div class="address-list">
-<a href="tel:+919974669565">
-<img src="https://img.webcodegenie.com/img/footer/get-in-touch-call.svg" alt="Call Us" height="36" width="36" />
-<span>+91 997-466-9565</span></a>
+<div class="responsibilities">
+<h3>Responsibilities</h3>
+<ul>
+<li>Design and develop software with a scalable and strong microservices orientation.</li>
+<li>Work with other team members to devise the best possible technical solutions to complex problems.</li>
+<li>Participate in the collection of requirements, give estimations, propose different approaches and make analysis documents.</li>
+<li>Bring code quality and good practices, and perform deployment, validations and verification testing.</li>
+<li>Stay up-to-date with open source trends and emerging technologies.</li>
+<li>Teach and mentor fellow engineers, and work to foster an environment of development and inclusivity.</li>
+</ul>
 </div>
 </div>
 </div>
+<div class="right-description">
+<div class="apply-section" id="careerform">
+<h3 class="text-center">Apply Now</h3>
+<div class="form-box custom-form-section">
+<form class="contact-form" method="post" action="/jobs/apply" name="job_request" enctype="multipart/form-data" id="job-apply-form">
+<div class="input-box">
+<input type="text" name="name" placeholder="Name*">
+<div class="icon-box"><img src="https://img.webcodegenie.com/img/footer/icon-user.svg" alt="name"></div>
+</div>
+<div class="input-box left-view">
+<input type="email" name="email" placeholder="Email*">
+<div class="icon-box"><img src="https://img.webcodegenie.com/img/footer/icon-email.svg" alt="mail id"></div>
+</div>
+<div class="input-box right-view">
+<input type="tel" name="phone_number" placeholder="Phone Number*">
+<div class="icon-box"><img src="https://img.webcodegenie.com/img/footer/icon-phone.svg" alt="phone no"></div>
+</div>
+<input type="hidden" name="apply_for" value="Sr. NodeJS Developer">
+<div class="input-box">
+<div class="icon-box"><img src="https://img.webcodegenie.com/img/footer/icon-attachment.svg" alt="file"></div>
+<div class="file-upload-wrapper" data-text="Upload your resume*">
+<input name="resume_file" type="file" class="file-upload-field">
 </div>
 </div>
+<div class="input-box">
+<input type="text" name="company_name" placeholder="Current or Last Company Name">
+<div class="icon-box"><img src="https://img.webcodegenie.com/img/footer/last-company.svg" alt="last company"></div>
 </div>
-</section><footer class="main-footer">
+<div class="input-box left-view">
+<select name="experience">
+<option value="">Year of Experience</option>
+<option value="< 1">Less then 1 year</option>
+<option value="1">1 to 2 years</option>
+<option value="2">2 to 3 years</option>
+<option value="3">3 to 4 years</option>
+<option value="4">4 to 5 years</option>
+<option value="> 5">More Then 5 years</option>
+</select>
+<div class="icon-box"><img src="https://img.webcodegenie.com/img/footer/years-of-xperience.svg" alt="years of experience"></div>
+</div>
+<div class="input-box right-view">
+<input type="text" name="notice_period" placeholder="Notice Period in month">
+<div class="icon-box"><img src="https://img.webcodegenie.com/img/footer/notice-period.svg" alt="notice period"></div>
+</div>
+<div class="input-box left-view">
+<input type="text" name="current_salary" placeholder="Current CTC per month">
+<div class="icon-box"><img src="https://img.webcodegenie.com/img/footer/ctc.svg" alt="Current CTC"></div>
+</div>
+<div class="input-box right-view">
+<input type="text" name="expected_salary" placeholder="Expected CTC per month*">
+<div class="icon-box"><img src="https://img.webcodegenie.com/img/footer/ctc.svg" alt="Expected CTC"></div>
+</div>
+<div class="input-box">
+<textarea name="message" placeholder="Message" maxlength="500"></textarea>
+</div>
+<div class="submit-btn">
+<button type="submit" class="btn btn-primary btn-lg ladda-button" data-style="expand-left" data-size="m" id="tost_message"><span class="ladda-label">Submit</span></button>
+</div>
+</form>
+</div>
+</div>
+<div class="thank-you-box">
+<h2 class="main-title">Thank you</h2>
+<h3>for applying for the job as Sr. NodeJS Developer.</h3>
+<p>We appreciate the skills and knowledge you possess and would love to have you as a part of the Shivay infotechfamily. Our team will review your application and contact you for further process.</p>
+</div> </div>
+</div>
+</div>
+</section>
+
+<footer class="main-footer">
 <div class="container">
 <div class="footer-top">
 <a class="logo" href="/">
@@ -871,7 +709,7 @@ C 904, Ganesh Meridian, <br> S G Highway, Sola, <br> Ahmedabad, Gujarat 380060.<
 </li>
 <li>
 <a href="/terms-and-conditions">Terms and Conditions</a>
- </li>
+</li>
 
 </ul>
 <ul class="socail-list">
@@ -911,7 +749,7 @@ C 904, Ganesh Meridian, <br> S G Highway, Sola, <br> Ahmedabad, Gujarat 380060.<
 </footer>
 
 
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://scripts.webcodegenie.com/js/jquery-v3.6.0.min.js"></script>
+<script src="https://scripts.webcodegenie.com/js/jquery-v3.6.0.min.js"></script>
 <script>
 
 		jQuery.event.special.touchstart = {
@@ -948,11 +786,7 @@ C 904, Ganesh Meridian, <br> S G Highway, Sola, <br> Ahmedabad, Gujarat 380060.<
     	});
 	</script>
 <script type="text/javascript">
-        pageName = 'Technology ExpressJS';
-        var inquiryCategory = 'technology - ExpressJS';
-    </script>
-<script type="text/javascript">
-        TechnologyPage();
+        CareerDetail();
     </script>
 </body>
 </html>
