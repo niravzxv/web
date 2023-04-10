@@ -600,7 +600,7 @@
 <circle cx="53" cy="53" r="53" stroke="none" />
 <circle cx="53" cy="53" r="50.5" fill="none" />
 </g>
-<g id="fill-line" fill="#fff" stroke="#006bc0" stroke-width="5">
+<g id="fill-line" fill="#fff" stroke="#3458e0" stroke-width="5">
 <circle cx="53" cy="53" r="53" stroke="none" />
 <circle cx="53" cy="53" r="50.5" fill="none" />
 </g>
@@ -641,11 +641,11 @@
 <div class="img-box">
 <img src="https://img.webcodegenie.com/img/hire/hire-dev-icon.svg" alt="" />
 <svg xmlns="http://www.w3.org/2000/svg" width="106" height="106" viewBox="0 0 106 106">
-<g id="daashed" fill="#fff" stroke="#006bc0" stroke-width="5" stroke-dasharray="15">
+<g id="daashed" fill="#fff" stroke="#3458e0" stroke-width="5" stroke-dasharray="15">
 <circle cx="53" cy="53" r="53" stroke="none" />
 <circle cx="53" cy="53" r="50.5" fill="none" />
 </g>
-<g id="fill-line" fill="#fff" stroke="#006bc0" stroke-width="5" stroke-dasharray="15">
+<g id="fill-line" fill="#fff" stroke="#3458e0" stroke-width="5" stroke-dasharray="15">
 <circle cx="53" cy="53" r="53" stroke="none" />
 <circle cx="53" cy="53" r="50.5" fill="none" />
 </g>

@@ -1952,7 +1952,7 @@ div {
 .main-header .container .hide-tab nav ul li a:hover:not(.btn),
 .mobile-filter .celebration-filter .celebration-details .blog-list ul li a .active h3,
 .primary-txt {
-    color: #006bc0
+    color: #3458e0
 }
 
 .btn {
@@ -1965,7 +1965,7 @@ div {
     border: none;
     background-color: #fff;
     box-shadow: 0 11px 20px #0865c233;
-    color: #006bc0
+    color: #3458e0
 }
 
 .btn-arrow,
@@ -2027,7 +2027,7 @@ div {
 .heading-txt .small-heading-txt {
     font-size: 1.2rem;
     font-weight: 500;
-    color: #006bc0;
+    color: #3458e0;
     text-transform: uppercase;
     margin: 0;
     line-height: 2.5;
@@ -2060,7 +2060,7 @@ div {
     position: absolute;
     left: 0;
     bottom: 15px;
-    background-color: #006bc0;
+    background-color: #3458e0;
     border-radius: 4px;
     height: 2px;
     width: 32px
@@ -2401,7 +2401,7 @@ p a {
 
 .custom-list li::before {
     content: "";
-    background-color: #006bc0;
+    background-color: #3458e0;
     width: 8px;
     height: 8px;
     display: block;
@@ -2432,7 +2432,7 @@ p a {
 .nobg-btn,
 .nobg-btn-arrow {
     border-radius: 10px;
-    color: #006bc0;
+    color: #3458e0;
     display: inline-block;
     transition: .3s;
     font-weight: 500;
@@ -2440,7 +2440,7 @@ p a {
 }
 
 .nobg-btn-arrow {
-    border: 2px solid #006bc0;
+    border: 2px solid #3458e0;
     padding: 20px 33px
 }
 
@@ -2454,7 +2454,7 @@ p a {
 }
 
 .nobg-btn {
-    border: 2px solid #006bc0;
+    border: 2px solid #3458e0;
     padding: 21px 49px;
     text-transform: uppercase
 }
@@ -2725,7 +2725,7 @@ p a {
     width: 100%;
     height: 0;
     top: 0;
-    background-color: #006bc0;
+    background-color: #3458e0;
     border-radius: 0 0 10px 10px;
     position: absolute;
     transition: .15s linear
@@ -3060,7 +3060,7 @@ a.clutchBadge {
 }
 
 .main-header .mega-menu {
-    background-color: #006bc0;
+    background-color: #3458e0;
     position: fixed;
     left: 0;
     top: 0;
@@ -4899,7 +4899,7 @@ a.clutchBadge img {
 
 .about-wcg .about-grid .about-left .gradiant-box {
     width: calc(50% - 15px);
-    background: linear-gradient(58deg, #3458e0 0, #006bc0 100%) no-repeat padding-box;
+    background: linear-gradient(58deg, #3458e0 0, #3458e0 100%) no-repeat padding-box;
     box-shadow: 0 12px 25px #1497d04f;
     border-radius: 15px;
     color: #fff;
@@ -5142,7 +5142,7 @@ a.clutchBadge img {
 
 .our-development,
 .service-side-bar ul li.active a {
-    background-color: #006bc0
+    background-color: #3458e0
 }
 
 .our-development .heading-txt h2::after {
@@ -5161,7 +5161,7 @@ a.clutchBadge img {
     border: none;
     border-radius: 50%;
     cursor: pointer;
-    background-color: #006bc0
+    background-color: #3458e0
 }
 
 .process-slider .slick-arrow.slick-prev {
@@ -6118,7 +6118,7 @@ a.clutchBadge img {
 .celebration-filter .celebration-details .blog-list ul li.active h3,
 .our-work .grid-filter ul li a.selected,
 .our-work .grid-filter ul li a:hover {
-    color: #006bc0 !important
+    color: #3458e0 !important
 }
 
 .our-work .grid-filter ul li a.selected:after {
@@ -6129,7 +6129,7 @@ a.clutchBadge img {
     height: 0;
     border-left: 8px solid transparent;
     border-right: 8px solid transparent;
-    border-top: 9px solid #006bc0;
+    border-top: 9px solid #3458e0;
     transform: rotate(0);
     left: 0;
     right: 0;
@@ -6623,7 +6623,7 @@ a.clutchBadge img {
 }
 
 .main-service-section .services-grid .service-content h1 {
-    color: #006bc0;
+    color: #3458e0;
     margin: 50px 0 40px;
     line-height: 1
 }
@@ -6688,7 +6688,7 @@ a.clutchBadge img {
 .main-service-section .services-grid .service-form .form-box {
     box-shadow: -9px -9px 89px #00000024;
     border-radius: 10px;
-    background-color: #006bc0;
+    background-color: #3458e0;
     padding: 35px 40px;
     position: relative;
     z-index: 0;
@@ -6706,7 +6706,7 @@ a.clutchBadge img {
 
 .main-service-section .services-grid .service-form .form-box::after {
     content: "";
-    background-color: #006bc0;
+    background-color: #3458e0;
     position: absolute;
     width: 100%;
     height: 99%;
@@ -6766,7 +6766,7 @@ a.clutchBadge img {
 }
 
 .our-tech .tech-grid .tech-box a.readmore {
-    color: #006bc0;
+    color: #3458e0;
     font-size: 1.3rem;
     font-weight: 400;
     transition: .5s linear;
@@ -6972,7 +6972,7 @@ a.clutchBadge img {
 }
 
 .related-work .related-grid .related-box {
-    background: -80px -80px #006bc0;
+    background: -80px -80px #3458e0;
     box-shadow: 0 5px 99px #d6d6d666;
     border-radius: 10px;
     padding: 20px 10px 0;
@@ -6991,7 +6991,7 @@ a.clutchBadge img {
 }
 
 .related-work .related-grid .related-box:hover {
-    background: url(../images/portfoliodetails/related-bg.svg) -80px -80px no-repeat #006bc0;
+    background: url(../images/portfoliodetails/related-bg.svg) -80px -80px no-repeat #3458e0;
     height: 335px;
     -webkit-transition: .3s ease-in-out;
     transition: .3s ease-in-out;
@@ -7078,7 +7078,7 @@ a.clutchBadge img {
     margin-top: 20px;
     font-weight: 500;
     font-size: 3.25rem;
-    color: #006bc0
+    color: #3458e0
 }
 
 .client-says .grid .our-client .client-details .close-icon,
@@ -7196,7 +7196,7 @@ a.clutchBadge img {
 }
 
 .tech-we-use .technology-grid .technology-box a:hover {
-    border: 5px solid #006bc0
+    border: 5px solid #3458e0
 }
 
 @media screen and (max-width:1799px) {
@@ -7760,7 +7760,7 @@ a.clutchBadge img {
 
 .about-history .history-grid .history-box .counter {
     font-size: 4.1rem;
-    color: #006bc0;
+    color: #3458e0;
     font-weight: 700
 }
 
@@ -8507,7 +8507,7 @@ a.clutchBadge img {
 }
 
 .ourteam .career-slider .career-slider-grid .content-box p a {
-    color: #006bc0;
+    color: #3458e0;
     font-weight: 500
 }
 
@@ -8557,7 +8557,7 @@ a.clutchBadge img {
 
 .ourteam .career-grid .career-box::after {
     content: "";
-    background-color: #006bc0;
+    background-color: #3458e0;
     height: 4px;
     position: absolute;
     width: calc(100% - 60px);
@@ -8591,7 +8591,7 @@ a.clutchBadge img {
 
 .career-details .detail-section .career-title p span,
 .ourteam .career-grid .career-box p span {
-    color: #006bc0;
+    color: #3458e0;
     position: relative;
     padding-left: 20px
 }
@@ -8614,8 +8614,8 @@ a.clutchBadge img {
 
 .ourteam .career-grid .career-box .apply-btn a {
     border-radius: 10px;
-    border: 2px solid #006bc0;
-    color: #006bc0;
+    border: 2px solid #3458e0;
+    color: #3458e0;
     padding: 14px 38px;
     font-size: 1.1rem;
     display: block
@@ -8652,7 +8652,7 @@ a.clutchBadge img {
 }
 
 .joinus-form {
-    background-color: #006bc0;
+    background-color: #3458e0;
     padding: 70px 0 0;
     height: 300px
 }
@@ -8690,8 +8690,8 @@ a.clutchBadge img {
 }
 
 .joinus-form .job-apply-form ul li a {
-    color: #006bc0;
-    border: 2px solid #006bc0;
+    color: #3458e0;
+    border: 2px solid #3458e0;
     border-radius: 10px;
     padding: 16px 60px;
     font-size: 1.37rem;
@@ -8705,7 +8705,7 @@ a.clutchBadge img {
 }
 
 .joinus-form a.btn-online {
-    background-color: #006bc0;
+    background-color: #3458e0;
     color: #fff !important;
     font-size: 1.1rem !important;
     padding: 16px 33px !important;
@@ -8778,7 +8778,7 @@ a.clutchBadge img {
 }
 
 .benefits-section .benefit-grid .benefits-box:after {
-    background: #006bc0;
+    background: #3458e0;
     border-radius: 0 22px 22px 0;
     content: "";
     height: calc(100% - 0);
@@ -8970,7 +8970,7 @@ a.clutchBadge img {
 }
 
 .blog-sec .search-bar .search-form button {
-    background-color: #006bc0;
+    background-color: #3458e0;
     width: 56px;
     height: 56px;
     border-radius: 50%;
@@ -9111,13 +9111,13 @@ a.clutchBadge img {
 
 .blog-sec .left-blog h6 {
     display: block;
-    border: 1px solid #006bc0;
+    border: 1px solid #3458e0;
     border-radius: 4px;
     -webkit-border-radius: 4px;
     -ms-border-radius: 4px;
     -moz-border-radius: 4px;
     -o-border-radius: 4px;
-    color: #006bc0;
+    color: #3458e0;
     font-size: 12px;
     line-height: 12px;
     padding: 3px 5px;
@@ -9191,7 +9191,7 @@ a.clutchBadge img {
     content: "";
     top: 0;
     right: -30px;
-    background-color: #006bc0;
+    background-color: #3458e0;
     width: 4px;
     height: 100%;
     padding: 10px 0;
@@ -9221,7 +9221,7 @@ a.clutchBadge img {
     content: "";
     bottom: 5px;
     left: -40px;
-    background-color: #006bc0;
+    background-color: #3458e0;
     width: 35px;
     height: 2px;
     display: none
@@ -9411,7 +9411,7 @@ a.clutchBadge img {
 }
 
 .right-sidebar .blog-side a {
-    color: #006bc0;
+    color: #3458e0;
     text-decoration: underline !important;
     font-size: 18px
 }
@@ -9441,12 +9441,12 @@ a.clutchBadge img {
     font-weight: 500;
     position: relative;
     top: -4px;
-    background-color: #006bc0;
+    background-color: #3458e0;
     margin-left: 10px
 }
 
 .toolbar-item .copy-to-clipboard-button {
-    background-color: #006bc0 !important;
+    background-color: #3458e0 !important;
     padding: 4px 12px !important;
     -webkit-box-shadow: 0 0 4px 0 rgba(0, 0, 0, .5) !important;
     -moz-box-shadow: 0 0 4px 0 rgba(0, 0, 0, .5) !important;
@@ -9465,7 +9465,7 @@ a.clutchBadge img {
 }
 
 .blog-content .toc-box ul li a {
-    color: #006bc0;
+    color: #3458e0;
     transition: .3s linear
 }
 
@@ -9957,7 +9957,7 @@ a.clutchBadge img {
 
 .blog-content ul li::before {
     content: "\2022";
-    color: #006bc0;
+    color: #3458e0;
     font-weight: 700;
     display: inline-block;
     width: 1em;
@@ -9973,7 +9973,7 @@ a.clutchBadge img {
 }
 
 .blog-content ol li::marker {
-    color: #006bc0;
+    color: #3458e0;
     font-weight: 600
 }
 
@@ -10611,7 +10611,7 @@ a.clutchBadge img {
     content: "";
     top: 0;
     left: 0;
-    background-color: #006bc0;
+    background-color: #3458e0;
     width: .313rem;
     height: 100%;
     opacity: 0
@@ -10876,7 +10876,7 @@ a.clutchBadge img {
 }
 
 .webportal .portal-grid .service-content h1 span {
-    color: #006bc0;
+    color: #3458e0;
     display: block
 }
 
@@ -11029,7 +11029,7 @@ a.clutchBadge img {
     height: 10px;
     transform: translate(0, -50%);
     border-radius: 50%;
-    background-color: #006bc0
+    background-color: #3458e0
 }
 
 .web-we-serve .shape {
@@ -11223,7 +11223,7 @@ a.clutchBadge img {
 
 .career-details .jobdesc-box .jobs-grid ul li:before {
     content: "\2022";
-    color: #006bc0;
+    color: #3458e0;
     display: inline-block;
     width: 40px;
     margin-left: -1em;
@@ -11317,8 +11317,8 @@ a.clutchBadge img {
 
 .career-details .apply-section .apply-btn a {
     border-radius: 10px;
-    border: 2px solid #006bc0;
-    color: #006bc0;
+    border: 2px solid #3458e0;
+    color: #3458e0;
     padding: 14px 38px;
     font-size: 1.1rem
 }
@@ -11331,7 +11331,7 @@ a.clutchBadge img {
 }
 
 .career-details .jobdesc-box .thank-you-box h2 {
-    color: #006bc0;
+    color: #3458e0;
     margin: 0;
     line-height: 1.5
 }
@@ -11908,7 +11908,7 @@ a.clutchBadge img {
 }
 
 .technology .tech-details .right-details .service-content h1 {
-    color: #006bc0;
+    color: #3458e0;
     line-height: 1.1;
     margin: 0
 }
@@ -11931,7 +11931,7 @@ a.clutchBadge img {
 }
 
 .tech-content-section .joinus-form {
-    background: url(../images/technology/cta-bg.svg) center 20px no-repeat #006bc0;
+    background: url(../images/technology/cta-bg.svg) center 20px no-repeat #3458e0;
     padding: 90px;
     border-radius: 20px;
     color: #fff;
@@ -11976,7 +11976,7 @@ a.clutchBadge img {
 }
 
 .tech-content-section .story-grid .right-content h2 {
-    color: #006bc0;
+    color: #3458e0;
     margin: 0 0 20px;
     line-height: 1.1;
     font-weight: 700
@@ -12043,7 +12043,7 @@ a.clutchBadge img {
 
 .start-project .project-btn .btn-online {
     background-color: #fff;
-    color: #006bc0 !important
+    color: #3458e0 !important
 }
 
 @media screen and (max-width:1799px) {
@@ -13441,7 +13441,7 @@ a.clutchBadge img {
 
 .hire-sec .history-grid .history-box .counter {
     font-size: 3rem;
-    color: #006bc0;
+    color: #3458e0;
     font-weight: 700
 }
 
@@ -13498,7 +13498,7 @@ a.clutchBadge img {
 }
 
 .about-hire .benifit-txt h2 {
-    color: #006bc0;
+    color: #3458e0;
     margin: 0
 }
 
@@ -13517,9 +13517,9 @@ a.clutchBadge img {
     width: 60px;
     border-radius: 50%;
     background-color: #fff;
-    border: 2px solid #006bc0;
+    border: 2px solid #3458e0;
     display: inline-block;
-    color: #006bc0;
+    color: #3458e0;
     font-weight: 500;
     font-size: 2rem;
     line-height: 60px;
@@ -13533,7 +13533,7 @@ a.clutchBadge img {
     position: absolute;
     height: 400px;
     width: 2px;
-    background-color: #006bc0;
+    background-color: #3458e0;
     left: 0;
     right: 0;
     top: 60px;
@@ -13588,7 +13588,7 @@ a.clutchBadge img {
 }
 
 .hire-model .hire-model-grid .content-box h3 {
-    color: #006bc0;
+    color: #3458e0;
     font-size: 2.5rem;
     margin: 0;
     line-height: 1.4
@@ -13624,7 +13624,7 @@ a.clutchBadge img {
 }
 
 .mob-cta {
-    background: #006bc0;
+    background: #3458e0;
     overflow: hidden;
     position: relative;
     z-index: 0;
@@ -13996,7 +13996,7 @@ a.clutchBadge img {
 }
 
 .tnc-pp-sec .blog-content .content-box h3 {
-    color: #006bc0;
+    color: #3458e0;
     margin: 0 0 10px
 }
 
