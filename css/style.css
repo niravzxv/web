@@ -2106,12 +2106,8 @@ div {
     font-size: 1rem;
     box-sizing: border-box
 }
-.custom-form-section .input-box textarea {
-    padding-left: 5%;
-    box-shadow: 0 4px 30px #6464641f;
-    background-color: #fff;
-    font-size: 1rem;
-    box-sizing: border-box
+.formsvg{
+    margin: 10%;
 }
 
 .custom-form-section .btn.form-btn input {
