@@ -5105,9 +5105,9 @@ a.clutchBadge img {
 }
 
 .our-blogs .blogs_list .blog-box .img-box img {
-    width: 100%;
+    width: 50%;
     transition: .3s;
-    height: 100%;
+    height:50%;
     object-fit: cover
 }
 
