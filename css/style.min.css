@@ -1956,7 +1956,7 @@ div {
 }
 
 .btn {
-    background-color: #293241;
+    background-color: #3458e0;
     color: #fff;
     border: none
 }
@@ -1980,7 +1980,7 @@ div {
 }
 
 .btn-arrow {
-    background-color: #293241;
+    background-color: #3458e0;
     box-shadow: 0 23px 24px #0865c233;
     border-radius: 10px;
     color: #fff;
@@ -3225,9 +3225,9 @@ a.clutchBadge {
 }
 
 .main-header .mega-menu .mega-menu-inner .mega-menu-content .btn-box a:last-child {
-    background-color: #293241;
+    background-color: #3458e0;
     margin-left: 15px;
-    border-color: #293241
+    border-color: #3458e0
 }
 
 .main-header .mega-menu .mega-menu-inner .mega-menu-content .btn-box a:hover {
@@ -3552,7 +3552,7 @@ body.sticky {
 
 .get-quote-sec .contact-grid .content-box {
     width: 27%;
-    background-color: #293241;
+    background-color: #3458e0;
     border-radius: 6px;
     box-shadow: 0 0 10px #0000001A;
     color: #fff;
@@ -3632,7 +3632,7 @@ body.sticky {
 
 .main-footer {
     color: #fff;
-    background-color: #293241;
+    background-color: #3458e0;
     position: relative;
     z-index: 9
 }
@@ -4986,7 +4986,7 @@ a.clutchBadge img {
 
 .about-wcg .about-grid .about-left .gradiant-box {
     width: calc(50% - 15px);
-    background: linear-gradient(58deg, #293241 0, #006bc0 100%) no-repeat padding-box;
+    background: linear-gradient(58deg, #3458e0 0, #006bc0 100%) no-repeat padding-box;
     box-shadow: 0 12px 25px #1497d04f;
     border-radius: 15px;
     color: #fff;
@@ -6174,7 +6174,7 @@ a.clutchBadge img {
 }
 
 .our-work .portfolio-box:hover .content-box h4 {
-    color: #293241
+    color: #3458e0
 }
 
 .our-work .grid-filter ul {
@@ -8507,7 +8507,7 @@ a.clutchBadge img {
 }
 
 .client-says .grid .our-client .client-details .overlay-content .name-title {
-    background-color: #293241;
+    background-color: #3458e0;
     padding: 22px 30px;
     color: #fff;
     font-size: 1.375rem
@@ -10954,7 +10954,7 @@ a.clutchBadge img {
 
 .webportal .portal-grid .service-content h1 {
     line-height: 1;
-    color: #293241;
+    color: #3458e0;
     margin: 0
 }
 
@@ -14025,7 +14025,7 @@ a.clutchBadge img {
 }
 
 .casestudy-list-sec .casestudy-list-grid .casestudy-list-box .content-box h3 {
-    color: #293241;
+    color: #3458e0;
     font-size: 2.25rem;
     margin: 0
 }
