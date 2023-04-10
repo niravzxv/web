@@ -4667,16 +4667,16 @@ a.clutchBadge img {
     white-space: nowrap
 }
 
-@supports (-webkit-text-stroke:2px #ff8727) {
+/* @supports (-webkit-text-stroke:2px #ff8727) {
     .main-banner .slider-grid .content-box h1 {
         -webkit-text-stroke: 2px #ff8727;
         color: transparent
     }
-}
+} */
 
 .main-banner .slider-grid .content-box .sub-title {
     font-size: 4.5rem;
-    color: #006bc0;
+    color: #2b2b2b;
     font-weight: 700;
     line-height: 1.1
 }
@@ -4894,7 +4894,7 @@ a.clutchBadge img {
 }
 
 .waht-we-do .services .service-box .read-more .read-text a {
-    color: #006bc0;
+    color: #b3c7f7;
     text-decoration: underline;
     font-weight: 600;
     font-size: 1.2rem
@@ -4908,7 +4908,7 @@ a.clutchBadge img {
 .waht-we-do .services .service-box::after,
 .waht-we-do .services .service-box::before {
     content: "";
-    background-color: #006bc0;
+    background-color: #b3c7f7;
     height: 2px;
     width: 0;
     position: absolute;
