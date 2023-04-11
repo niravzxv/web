@@ -2499,7 +2499,7 @@ p a {
     h2 {
         font-size: 3.25rem
     }
-    .heading-box{
+    .heading-box div{
         padding-left: 15%;
     }
     .heading-txt .bg-txt {
