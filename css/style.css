@@ -3639,7 +3639,7 @@ body.sticky {
 
 .main-footer {
     color: #fff;
-    background-color: #3458e0;
+    background-color: #0865c2;
     position: relative;
     z-index: 9
 }
@@ -4906,7 +4906,7 @@ a.clutchBadge img {
 
 .about-wcg .about-grid .about-left .gradiant-box {
     width: calc(50% - 15px);
-    background: linear-gradient(58deg, #3458e0 0, #3458e0 100%) no-repeat padding-box;
+    background: linear-gradient(58deg, #3458e0 0, #ffffff 100%) no-repeat padding-box;
     box-shadow: 0 12px 25px #1497d04f;
     border-radius: 15px;
     color: #fff;
@@ -5149,7 +5149,7 @@ a.clutchBadge img {
 
 .our-development,
 .service-side-bar ul li.active a {
-    background-color: #3458e0
+    background-color: #0865c2
 }
 
 .our-development .heading-txt h2::after {
@@ -5168,7 +5168,7 @@ a.clutchBadge img {
     border: none;
     border-radius: 50%;
     cursor: pointer;
-    background-color: #3458e0
+    background-color: #0865c2
 }
 
 .process-slider .slick-arrow.slick-prev {
