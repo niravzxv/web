@@ -2499,7 +2499,9 @@ p a {
     h2 {
         font-size: 3.25rem
     }
-
+    .heading-box{
+        padding-left: 15%;
+    }
     .heading-txt .bg-txt {
         font-size: 10rem
     }
@@ -2607,9 +2609,6 @@ p a {
 
     .heading-box .main-title {
         font-size: 3.5rem
-    }
-    .heading-box{
-        padding-left: 15%;
     }
 
     .heading-box .sub-title {
