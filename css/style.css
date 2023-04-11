@@ -4906,7 +4906,7 @@ a.clutchBadge img {
 
 .about-wcg .about-grid .about-left .gradiant-box {
     width: calc(50% - 15px);
-    background: linear-gradient(58deg, #3458e0 0, #ffffff 100%) no-repeat padding-box;
+    background: linear-gradient(58deg, #3458e0 0, #9296bf 100%) no-repeat padding-box;
     box-shadow: 0 12px 25px #1497d04f;
     border-radius: 15px;
     color: #fff;
