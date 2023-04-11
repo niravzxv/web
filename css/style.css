@@ -3777,7 +3777,7 @@ body.sticky {
 }
 
 .main-footer .footer-bottom .socail-list li a img {
-    height: 20px
+    height: auto
 }
 
 .main-footer .footer-bottom .socail-list li:hover a {
