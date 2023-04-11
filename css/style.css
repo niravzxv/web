@@ -2126,7 +2126,8 @@ div {
     padding: 10%;
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap
+    flex-wrap: wrap;
+    padding-top: 0;
 }
 
 .custom-form-section .input-box {
@@ -2335,7 +2336,7 @@ div {
 .heading-box .main-title,
 .orange-color-title {
     -webkit-text-stroke: 2px #ff8727;
-    color: transparent
+    color: #ff8727
 }
 
 .blue-btn:hover {
@@ -2606,6 +2607,9 @@ p a {
 
     .heading-box .main-title {
         font-size: 3.5rem
+    }
+    .heading-box{
+        padding-left: 15%;
     }
 
     .heading-box .sub-title {
