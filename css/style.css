@@ -3776,10 +3776,6 @@ body.sticky {
     transform: scale(1.1)
 }
 
-.main-footer .footer-bottom .socail-list li a img {
-    height: auto
-}
-
 .main-footer .footer-bottom .socail-list li:hover a {
     -webkit-box-shadow: 0 0 0 1px rgba(255, 255, 255, 0) inset;
     -moz-box-shadow: 0 0 0 1px rgba(255, 255, 255, 0) inset;
@@ -4264,9 +4260,6 @@ a.clutchBadge img {
         height: 35px
     }
 
-    .main-footer .footer-bottom .socail-list li a img {
-        height: auto
-    }
 
     .main-footer .footer-bottom .other-link {
         width: 60% !important
