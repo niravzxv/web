@@ -4223,6 +4223,9 @@ a.clutchBadge img {
 }
 
 @media screen and (max-width:991px) {
+    .custom-form-section form {
+        padding: 0;
+    }
 
     .main-footer .footer-bottom span,
     .main-footer .footer-bottom ul {
@@ -4287,6 +4290,9 @@ a.clutchBadge img {
 }
 
 @media screen and (max-width:767px) {
+    .custom-form-section form {
+        padding: 0;
+    }
     .without-title-padding {
         padding: 30px 0
     }
