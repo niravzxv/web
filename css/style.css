@@ -3638,8 +3638,8 @@ body.sticky {
 }
 
 .main-footer {
-    color: #fff;
-    background-color: #0865c2;
+    color: #000;
+    background-color: #f1f8ff;
     position: relative;
     z-index: 9
 }
