@@ -11718,6 +11718,10 @@ a.clutchBadge img {
     background-color: #f1f8ff
 }
 
+.contactus .contact-us .left-form {
+    width: 100%;
+}
+
 .contactus .contact-us {
     padding-top: 30px;
     display: flex;
@@ -11725,10 +11729,6 @@ a.clutchBadge img {
     flex-wrap: nowrap;
     justify-content: space-between;
     gap: 56px
-}
-
-.contactus .contact-us .left-form {
-    width: 47%
 }
 
 .casestudy-list-sec .casestudy-list-grid .casestudy-list-box .content-box p,
