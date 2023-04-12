@@ -140,7 +140,6 @@ function Navbar() {
 													<li><a href="/technology/react-native">ReactNative</a></li>
 													<li><a href="/technology/flutter">Flutter</a></li>
 													<li><a href="/technology/kotlin">Kotlin</a></li>
-													<li><a href="/technology/swift">Swift</a></li>
 												</ul>
 											</div>
 										</div>
