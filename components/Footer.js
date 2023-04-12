@@ -3,70 +3,102 @@ function Footer() {
   const Container = document.createElement("div");
   Container.classList.add("container");
   Container.innerHTML = `
-  <div class="row gx-4 gy-5">
-          <div class="col-12 col-md-10 left-section ">
-            <div class="brand-logo">
-              <a class="navbar-brand" href="#">
-                <img class="BrandLogo" src="./Images/Logo-BgDark.svg" alt="" srcset="" />
-              </a>
-            </div>
-            <div class="nav-links d-flex flex-column mt-4">
-              <ul class="nav justify-content-left row-1">
-                <li class="nav-item">
-                  <a class="nav-link active" aria-current="page" href="#"
-                    >Download Now</a
-                  >
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Licence</a>
-                </li>
-              </ul>
-              <ul class="nav justify-content-left row-2">
-                <li class="nav-item">
-                  <a class="nav-link active" aria-current="page" href="#Metric"
-                    >About</a
-                  >
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#Features">Features</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#Pricing">Pricing</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">News</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Contacts</a>
-                </li>
-              </ul>
-            </div>
-            <div class="copyrights mt-4">
-              © 2021 <a class='text-decoration-underline' href="https://github.com/SuccessfullSites">SuccessfullSite</a> Theme. All rights reserved
-            </div>
-          </div>
-          <div class="col-12 col-md-2 badges">
-            <p>Get the App</p>
-            <div class="badges-items me-3 d-block">
-              <a class="badge-item text-decoration-none" href="#1">
-                <img
-                  class="item"
-                  src="./Images/Store badge.svg"
-                  alt=""
-                  srcset=""
-                />
-              </a>
-              <a class="badge-item text-decoration-none" href="#2">
-                <img
-                  class="item mt-md-3"
-                  src="./Images/Store badge-1.svg"
-                  alt=""
-                  srcset=""
-                />
-              </a>
-            </div>
-          </div>
-        </div>
+  <footer class="main-footer">
+		<div class="container">
+			<div class="footer-top">
+				<a class="logo" href="/">
+					<img src="/images/long-logo.png" alt="Logo" width="300" height="75" />
+				</a>
+			</div>
+		</div>
+		<div class="border-down"></div>
+		<div class="container">
+			<div class="footer-grid">
+				<div class="f-block location-address">
+					<div class="country-block">
+						<div class="title-txt">India</div>
+						<ul class="address">
+							<li>
+								<div class="icon">
+									<img src="https://img.webcodegenie.com/img/footer/pin.svg" alt="pin" height="15"
+										width="20" />
+								</div>
+								Shivay infotech 206, Village Lothada, <br> opposit bus stand, <br>kotadasangani main
+								road <br> ,Rajkot -360024, Gujarat
+							</li>
+							<li>
+								<div class="icon">
+									<img src="https://img.webcodegenie.com/img/footer/telephone.svg" alt="location"
+										height="15" width="20" />
+								</div>
+								<a href="tel:+916354010189">+91 635-401-0189</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div class="f-block services-links">
+					<div class="title-txt">SERVICES</div>
+					<ul class="services">
+						<li><a href="/services/web-development">Web Development</a></li>
+						<li><a href="/services/mobile-app-development">Mobile Development</a></li>
+						<li><a href="/services/web-design-company">Web Design</a></li>
+						<li><a href="/services/software-testing">Software Testing</a></li>
+						<li><a href="/services/digital-marketing">Digital Marketing</a></li>
+						<li><a href="/services/big-data-development">Big Data</a></li>
+						<li><a href="/services/cloud-computing-agency">Cloud Computing</a></li>
+						<li><a href="/services/iot-development">IoT</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="footer-bottom">
+				<span>© Shivay infotech PVT LTD. All Right Reserved
+					2023.</span>
+				<ul class="other-link">
+					<li>
+						<a href="/privacy-policy">Privacy Policy</a>
+					</li>
+					<li>
+						<a href="/terms-and-conditions">Terms and Conditions</a>
+					</li>
+
+				</ul>
+				<ul class="socail-list">
+					<li>
+						<a href="" target="_blank">
+							<img src="/img/footer/linkedin.png" alt="linkedin" height="32" width="32" />
+						</a>
+					</li>
+					<li>
+						<a href="" target="_blank">
+							<img src="/img/footer/instagram.png" alt="instagram" height="32" width="32" />
+						</a>
+					</li>
+					<li>
+						<a href="" target="_blank">
+							<img src="/img/footer/youtube.png" alt="you-tube" height="32" width="32" />
+						</a>
+					</li>
+					<li>
+						<a href="" target="_blank">
+							<img src="/img/footer/twitter.png" alt="twitter" height="32" width="32" />
+						</a>
+					</li>
+					<li>
+						<a href="" target="_blank">
+							<img src="/img/footer/facebook.png" alt="facebook" height="32" width="32" />
+						</a>
+					</li>
+					<li>
+						<a href="" target="_blank">
+							<img src="/img/footer/pinterest.png" alt="pinterest" height="32" width="32" />
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</footer>
   `;
   Footer.appendChild(Container);
 }
