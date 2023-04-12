@@ -3,7 +3,6 @@ function Navbar() {
 	const Container = document.createElement("div");
 	Container.classList.add("header-wrapper")
 	Container.innerHTML = `
-		<div class="header-wrapper">
 			<div class="container">
 				<div class="hide-tab">
 					<a class="logo" href="/">
@@ -420,7 +419,6 @@ function Navbar() {
 					</nav>
 				</div>
 			</div>
-		</div>
     `;
 	navbar.appendChild(Container);
 }
