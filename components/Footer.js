@@ -3,8 +3,6 @@ function Footer() {
   const Container = document.createElement("div");
   Container.classList.add("container");
   Container.innerHTML = `
-  <footer class="main-footer">
-		<div class="container">
 			<div class="footer-top">
 				<a class="logo" href="/">
 					<img src="/images/long-logo.png" alt="Logo" width="300" height="75" />
@@ -97,8 +95,6 @@ function Footer() {
 					</li>
 				</ul>
 			</div>
-		</div>
-	</footer>
   `;
   Footer.appendChild(Container);
 }
