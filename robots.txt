@@ -8,6 +8,3 @@ Disallow: /casestudy/*
 Disallow: /career/*
 
 
-Sitemap: https://webcodegenie.com/sitemap.xml
-Sitemap: https://webcodegenie.com/blog/post-sitemap.xml
-
