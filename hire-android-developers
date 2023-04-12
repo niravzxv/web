@@ -1,961 +1,606 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-<title>Hire Android App Developers & Programmers - Shivay infotech</title>
-<meta name="description" content="Hire dedicated Android developers who are experienced in developing high-performing mobile apps that can achieve business goals.">
-<meta name="keywords" content="hire android app developers, hire android developer, hire android programmers, hire dedicated android developer, hire android application developer, hire dedicated android app developer.">
-<meta charset="utf-8" />
-<link rel="canonical" href="https://webcodegenie.com/hire-android-developers" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>Hire Android App Developers & Programmers - Shivay infotech</title>
+	<meta name="description"
+		content="Hire dedicated Android developers who are experienced in developing high-performing mobile apps that can achieve business goals.">
+	<meta name="keywords"
+		content="hire android app developers, hire android developer, hire android programmers, hire dedicated android developer, hire android application developer, hire dedicated android app developer.">
+	<meta charset="utf-8" />
+	<link rel="canonical" href="https://webcodegenie.com/hire-android-developers" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-NFKKSP7');</script>
-
-
-<meta name="HandheldFriendly" content="true" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-<link rel="apple-touch-icon" sizes="57x57" href="https://scripts.webcodegenie.com/favicon/apple-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="60x60" href="https://scripts.webcodegenie.com/favicon/apple-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="72x72" href="https://scripts.webcodegenie.com/favicon/apple-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="https://scripts.webcodegenie.com/favicon/apple-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="https://scripts.webcodegenie.com/favicon/apple-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="https://scripts.webcodegenie.com/favicon/apple-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="https://scripts.webcodegenie.com/favicon/apple-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="https://scripts.webcodegenie.com/favicon/apple-icon-152x152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="https://scripts.webcodegenie.com/favicon/apple-icon-180x180.png">
-<link rel="icon" type="image/png" sizes="192x192" href="https://scripts.webcodegenie.com/favicon/android-icon-192x192.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://scripts.webcodegenie.com/favicon/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="96x96" href="https://scripts.webcodegenie.com/favicon/favicon-96x96.png">
-<link rel="icon" type="image/png" sizes="16x16" href="https://scripts.webcodegenie.com/favicon/favicon-16x16.png">
-<link rel="manifest" href="https://scripts.webcodegenie.com/favicon/manifest.json">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.css" />
-<base href="https://webcodegenie.com/">
-<meta name="msapplication-TileColor" content="#000000">
-<meta name="msapplication-TileImage" content="https://scripts.webcodegenie.com/favicon/ms-icon-144x144.png">
-<meta name="theme-color" content="#ffffff">
-<meta name="p:domain_verify" content="ead078053a318e76104698cd19577a32" />
-<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<script>(function (w, d, s, l, i) {
+			w[l] = w[l] || []; w[l].push({
+				'gtm.start':
+					new Date().getTime(), event: 'gtm.js'
+			}); var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+					'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-NFKKSP7');</script>
 
 
+	<meta name="HandheldFriendly" content="true" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<link rel="apple-touch-icon" sizes="57x57" href="https://scripts.webcodegenie.com/favicon/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="https://scripts.webcodegenie.com/favicon/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="https://scripts.webcodegenie.com/favicon/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="https://scripts.webcodegenie.com/favicon/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="https://scripts.webcodegenie.com/favicon/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="https://scripts.webcodegenie.com/favicon/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="https://scripts.webcodegenie.com/favicon/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="https://scripts.webcodegenie.com/favicon/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://scripts.webcodegenie.com/favicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"
+		href="https://scripts.webcodegenie.com/favicon/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://scripts.webcodegenie.com/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="https://scripts.webcodegenie.com/favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://scripts.webcodegenie.com/favicon/favicon-16x16.png">
+	<link rel="manifest" href="https://scripts.webcodegenie.com/favicon/manifest.json">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.css" />
+	<base href="https://webcodegenie.com/">
+	<meta name="msapplication-TileColor" content="#000000">
+	<meta name="msapplication-TileImage" content="https://scripts.webcodegenie.com/favicon/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+	<meta name="p:domain_verify" content="ead078053a318e76104698cd19577a32" />
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 
-<link rel="preload" href="https://scripts.webcodegenie.com/css/style.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="https://scripts.webcodegenie.com/css/style.min.css"></noscript>
-<link rel="stylesheet" href="https://scripts.webcodegenie.com/css/intl-tel-input/intlTelInput.css">
+
+
+	<link rel="preload" href="https://scripts.webcodegenie.com/css/style.min.css" as="style"
+		onload="this.onload=null;this.rel='stylesheet'">
+	<noscript>
+		<link rel="stylesheet" href="https://scripts.webcodegenie.com/css/style.min.css">
+	</noscript>
+	<link rel="stylesheet" href="https://scripts.webcodegenie.com/css/intl-tel-input/intlTelInput.css">
 </head>
-<body>
-
-<header class="main-header">
-<div class="header-wrapper">
-<div class="container">
-<div class="hide-tab">
-<a class="logo" href="/">
-<img src="https://img.webcodegenie.com/img/wcg-logo.svg" alt="Logo" width="300" height="75" />
-</a>
-<nav>
-<ul>
-<li id="servicesList">
-<div class="menu-title">services</div>
-<div id="servicesSubMenu" class="dropdown-submenu ">
-<div class="container">
-<ul class="main-sub-menu">
-<li>
-<a href="/services/web-development">
-<img loading="lazy" src="https://img.webcodegenie.com/img/header/web-development.svg" alt="Web Development" height="36" width="36" />
-<div>
-<h6>Web Development</h6>
-<p>Build your digital presence with our top-notch web development services</p>
-</div>
-</a>
-</li>
-<li>
-<a href="/services/mobile-app-development">
-<img loading="lazy" src="https://img.webcodegenie.com/img/header/mobile-development.svg" alt="Mobile App Development" height="36" width="36" />
-<div>
-<h6>Mobile App Development</h6>
-<p>Unlock the power of mobile with our expert app development services - your ideas, our innovation</p>
-</div>
-</a>
-</li>
-<li>
-<a href="/services/web-design-company">
-<img loading="lazy" src="https://img.webcodegenie.com/img/header/ui-ux.svg" alt="Web Design" height="36" width="36" />
-<div>
-<h6>Web Design</h6>
-<p>Transform your digital vision into a stunning reality with our premium web design services</p>
-</div>
-</a>
-</li>
-<li>
-<a href="/services/software-testing">
-<img loading="lazy" src="https://img.webcodegenie.com/img/header/software-testing.svg" alt="Dev Ops" height="36" width="36" />
-<div>
-<h6>Software Testing</h6>
-<p>Deliver flawless software with our top-rated testing services - quality you can rely on</p>
-</div>
-</a>
-</li>
-<li>
-<a href="/services/digital-marketing">
-<img loading="lazy" src="https://img.webcodegenie.com/img/header/digital-marketing.svg" alt="Digital Marketing" height="36" width="36" />
-<div>
-<h6>Digital Marketing</h6>
-<p>Boost your online presence and skyrocket your sales with our dynamic digital marketing services</p>
-</div>
-</a>
-</li>
-<li>
-<a href="/services/iot-development">
-<img loading="lazy" src="https://img.webcodegenie.com/img/header/iot.svg" alt="IOT" height="36" width="36" />
-<div>
-<h6>IOT</h6>
-<p>Experience the power of connected devices with our cutting-edge IoT services</p>
-</div>
-</a>
-</li>
-<li>
-<a href="/services/big-data-development">
-<img loading="lazy" src="https://img.webcodegenie.com/img/header/big-data.svg" alt="Big Data" height="36" width="36" />
-<div>
-<h6>Big Data</h6>
-<p>Unleash the potential of your data with our big data services - turning information into insights</p>
-</div>
-</a>
-</li>
-<li>
-<a href="/services/cloud-computing-agency">
-<img loading="lazy" src="https://img.webcodegenie.com/img/header/cloud-computing.svg" alt="Cloud Computing" height="36" width="36" />
-<div>
-<h6>Cloud Computing</h6>
-<p>Transform your business with our cloud computing services - scalable, secure, and always available</p>
-</div>
-</a>
-</li>
-</ul>
-</div>
-</div>
-</li>
-<li id="technologyList">
-<div class="menu-title">Technology</div>
-<div id="techSubMenu" class="dropdown-submenu ">
-<div class="container">
-<div class="tech-grid">
-<div class="tech-col">
-<div class="tech-box">
-<img loading="lazy" src="https://img.webcodegenie.com/img/header/tech-fronend.svg" alt="Frontend Technologies" height="36" width="36" />
-<div>
-<h4>Frontend</h4>
-<ul>
-<li><a href="/technology/angular">Angular</a></li>
-<li><a href="/technology/reactjs">ReactJS</a></li>
-<li><a href="/technology/javascript">JavaScript</a></li>
-<li><a href="/technology/backbonejs">Backbone JS</a></li>
-<li><a href="/technology/handlebarjs">HandleBar JS</a></li>
-<li><a href="/technology/ecmascript">ECMA Script</a></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="tech-col">
-<div class="tech-box">
-<img loading="lazy" src="https://img.webcodegenie.com/img/header/tech-backend.svg" alt="Backend Technologies" height="36" width="36" />
-<div>
-<h4>Backend</h4>
-<ul>
-<li><a href="/technology/php">PHP</a></li>
-<li><a href="/technology/nodejs">NodeJS</a></li>
-<li><a href="/technology/laravel">Laravel</a></li>
-<li><a href="/technology/cakephp">CakePHP</a></li>
-<li><a href="/technology/expressjs">ExpressJS</a></li>
-<li><a href="/technology/socketio">Socket.io</a></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="tech-col">
-<div class="tech-box">
-<img loading="lazy" src="https://img.webcodegenie.com/img/header/tech-mobile.svg" alt="App Technologies" height="36" width="36" />
-<div>
-<h4>Mobile App</h4>
-<ul>
-<li><a href="/technology/android">Android</a></li>
-<li><a href="/technology/ios">iOS</a></li>
-<li><a href="/technology/react-native">ReactNative</a></li>
-<li><a href="/technology/flutter">Flutter</a></li>
-<li><a href="/technology/kotlin">Kotlin</a></li>
-<li><a href="/technology/objective-C">Objective C</a></li>
-<li><a href="/technology/swift">Swift</a></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="tech-col">
-<div class="tech-box">
-<img loading="lazy" src="https://img.webcodegenie.com/img/header/tech-cms.svg" alt="CMS Technologies" height="36" width="36" />
-<div>
-<h4>CMS</h4>
-<ul>
-<li><a href="/technology/wordpress">Wordpress</a></li>
-</ul>
-</div>
-</div>
-<div class="tech-box database-custom">
-<img loading="lazy" src="https://img.webcodegenie.com/img/header/tech-db.svg" alt="Database Technologies" height="36" width="36" />
-<div>
-<h4>Databse</h4>
-<ul>
-<li><a href="/technology/mysql">MySQL</a></li>
-<li><a href="/technology/mongodb">MongoDB</a></li>
-<li><a href="/technology/redis">Redis</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</li>
- <li id="hireList">
-<div class="menu-title">Hire Developers</div>
-<div id="hireSubMenu" class="dropdown-submenu ">
-<div class="container">
-<div class="tech-grid">
-<div class="tech-col">
-<div class="tech-box">
-<img loading="lazy" src="https://img.webcodegenie.com/img/header/tech-backend.svg" alt="Backend Technologies" height="36" width="36" />
-<div>
-<h4>Backend Developers</h4>
-<ul>
-<li><a href="/hire-nodejs-developers">Hire NodeJS Developers</a></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="tech-col">
-<div class="tech-box">
-<img loading="lazy" src="https://img.webcodegenie.com/img/header/tech-mobile.svg" alt="Mobile App Development" height="36" width="36" />
-<div>
-<h4>Mobile Developers</h4>
-<ul>
-<li>
-<a href="/hire-android-developers">Hire Android Developers</a>
-</li>
-<li><a href="/hire-ios-developers">Hire iOS Developers</a></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="tech-col">
-<div class="tech-box">
-<img loading="lazy" src="https://img.webcodegenie.com/img/header/tech-backend.svg" alt="Backend Technologies" height="36" width="36" />
-<div>
-<h4>Frontend Developers</h4>
-<ul>
-<li><a href="/hire-angularjs-developers">Hire AngularJs Developer</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</li>
-<li id="resourceList">
-<div class="menu-title">RESOURCES</div>
-<div id="resourceSubMenu" class="dropdown-submenu ">
-<div class="container">
-<ul class="main-sub-menu">
-<li>
-<a href="/blog">
- <img loading="lazy" src="https://img.webcodegenie.com/img/header/blogs.svg" alt="Web Development" height="36" width="36" />
-<div>
-<h6>Blogs</h6>
-<p>Stay ahead of the game with our expert Insights on web and mobile app development.</p>
-</div>
-</a>
-</li>
-<li>
-<a href="/casestudy">
-<img loading="lazy" src="https://img.webcodegenie.com/img/header/case-studies.svg" alt="Mobile App Development" height="36" width="36" />
-<div>
-<h6>Case Studies</h6>
-<p>Discover how we achieved results for our Clients in web and mobile app development.</p>
-</div>
-</a>
-</li>
-<li>
-<a href="/portfolio/">
-<img loading="lazy" src="https://img.webcodegenie.com/img/header/portfolio.svg" alt="Big Data" height="36" width="36" />
-<div>
-<h6>Portfolio</h6>
-<p>Explore our collection: Inspiring web and mobile apps development for modern businesses.</p>
-</div>
-</a>
-</li>
-<li>
-<a href="/testimonial">
-<img loading="lazy" src="https://img.webcodegenie.com/img/header/testimonials.svg" alt="Cloud Computing" height="36" width="36" />
-<div>
-<h6>Testimonials</h6>
-<p>Don't just take our word for it - see what our clients have to say about our top-notch development work.</p>
-</div>
-</a>
-</li>
-</ul>
-</div>
-</div>
-</li>
-<li id="company">
-<div class="menu-title">COMPANY</div>
-<div id="companySubMenu" class="dropdown-submenu ">
-<div class="container">
-<ul class="main-sub-menu">
-<li>
-<a href="/about-us">
-<img loading="lazy" src="https://img.webcodegenie.com/img/header/about.svg" alt="Web Development" height="36" width="36" />
-<div>
-<h6>About us</h6>
-<p>Our collaborative approach ensures a seamless and successful digital journey for our clients.</p>
-</div>
-</a>
-</li>
-<li>
-<a href="/life-at-wcg">
-<img loading="lazy" src="https://img.webcodegenie.com/img/header/life-wcg.svg" alt="Mobile App Development" height="36" width="36" />
-<div>
-<h6>Life @wcg</h6>
-<p>We don't just work hard, we play hard too! Join us and experience the perfect work-life balance.</p>
-</div>
-</a>
-</li>
-<li>
-<a href="/career/">
-<img loading="lazy" src="https://img.webcodegenie.com/img/header/portfolio.svg" alt="Big Data" height="36" width="36" />
-<div>
-<h6>Careers</h6>
-<p>Take your career to the next level and join us on the forefront of digital innovation.</p>
-</div>
-</a>
-</li>
-<li>
-<a href="/contact-us">
-<img loading="lazy" src="https://img.webcodegenie.com/img/header/contact-us.svg" alt="Cloud Computing" height="36" width="36" />
-<div>
-<h6>Contact us</h6>
-<p>Let's start a conversation about how we can bring your digital vision to life - reach out to us today.</p>
-</div>
-</a>
-</li>
-</ul>
-</div>
-</div>
-</li>
-</ul>
-<a class="btn" href="/contact-us">Get In Touch</a>
-</nav>
-</div>
-<div class="show-tab">
-<a href="/" class="logo">
-<img src="https://img.webcodegenie.com/img/wcg-logo.svg" class="logo-main" alt="Logo" height="60" width="240">
-</a>
-<nav>
-<div class="nav-mobile"><div id="nav-toggle"><span></span></div></div>
-<ul class="nav-list">
-<li class="has-child">
-<div class="main-link">Services</div>
-<ul class="nav-dropdown">
-<li><a href="/services/web-development">Web Development</a></li>
-<li><a href="/services/mobile-app-development">Mobile App Development</a></li>
-<li><a href="/services/big-data-development">Big Data</a></li>
-<li><a href="/services/cloud-computing-agency">Cloud Computing</a></li>
-<li><a href="/services/software-testing">Software Testing</a></li>
-<li><a href="/services/iot-development">IoT</a></li>
-<li><a href="/services/web-design-company">Web Design</a></li>
-<li><a href="/services/digital-marketing">Digital Marketing </a></li>
-</ul>
-</li>
-<li class="has-child nested-child">
-<div class="main-link">Technology</div>
-<ul class="nav-sub-dropdown">
-<li class="has-sub-child">
-<div class="sub-link">Frontend</div>
-<ul class="nav-dropdown">
-<li><a href="/technology/angular">Angular</a></li>
- <li><a href="/technology/reactjs">ReactJS</a></li>
-<li><a href="/technology/javascript">JavaScript</a></li>
-<li><a href="/technology/backbonejs">Backbone JS</a></li>
-<li><a href="/technology/handlebarjs">HandleBar JS</a></li>
-<li><a href="/technology/ecmascript">ECMA Script</a></li>
-</ul>
-</li>
-</ul>
-<ul class="nav-sub-dropdown">
-<li class="has-sub-child">
-<div class="sub-link">Backend</div>
-<ul class="nav-dropdown">
-<li><a href="/technology/php">PHP</a></li>
-<li><a href="/technology/nodejs">NodeJS</a></li>
-<li><a href="/technology/laravel">Laravel</a></li>
-<li><a href="/technology/cakephp">CakePHP</a></li>
-<li><a href="/technology/expressjs">ExpressJS</a></li>
-<li><a href="/technology/socketio">Socket.io</a></li>
-</ul>
-</li>
-</ul>
-<ul class="nav-sub-dropdown">
-<li class="has-sub-child">
-<div class="sub-link">Mobile App</div>
-<ul class="nav-dropdown">
-<li><a href="/technology/android">Android</a></li>
-<li><a href="/technology/ios">iOS</a></li>
-<li><a href="/technology/react-native">ReactNative</a></li>
-<li><a href="/technology/flutter">Flutter</a></li>
-<li><a href="/technology/kotlin">Kotlin</a></li>
-<li><a href="/technology/objective-C">Objective C</a></li>
-<li><a href="/technology/swift">Swift</a></li>
-</ul>
-</li>
-</ul>
-<ul class="nav-sub-dropdown">
-<li class="has-sub-child">
-<div class="sub-link">CMS</div>
-<ul class="nav-dropdown">
-<li><a href="/technology/wordpress">Wordpress</a></li>
-</ul>
-</li>
-</ul>
-<ul class="nav-sub-dropdown">
-<li class="has-sub-child">
-<div class="sub-link">Database</div>
-<ul class="nav-dropdown">
-<li><a href="/technology/mysql">MySQL</a></li>
-<li><a href="/technology/mongodb">MongoDB</a></li>
-<li><a href="/technology/redis">Redis</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="has-child">
-<div class="main-link">Hire Developers</div>
-<ul class="nav-sub-dropdown">
-<li class="has-sub-child">
-<div class="sub-link">Backend</div>
-<ul class="nav-dropdown">
-<li><a href="/technology/nodejs">NodeJS</a></li>
-</ul>
-</li>
-</ul>
-<ul class="nav-sub-dropdown">
-<li class="has-sub-child">
-<div class="sub-link">Mobile App</div>
-<ul class="nav-dropdown">
-<li><a href="/hire-android-developers">Android</a></li>
-<li><a href="/hire-ios-developers">iOS</a></li>
-</ul>
-</li>
-</ul>
-<ul class="nav-sub-dropdown">
-<li class="has-sub-child">
-<div class="sub-link">Frontend Developers</div>
-<ul class="nav-dropdown">
-<li><a href="/hire-angularjs-developers">Hire AngularJs Developer</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="has-child">
-<div class="main-link">Resources</div>
-<ul class="nav-dropdown">
-<li><a href="/blog">Blogs</a></li>
-<li><a href="/casestudy">Case Studies</a></li>
-<li><a href="/portfolio/">Portfolio</a></li>
-<li><a href="/testimonial">Testimonials</a></li>
-</ul>
-</li>
-<li class="has-child">
-<div class="main-link">Company</div>
-<ul class="nav-dropdown">
-<li><a href="/about-us">About us</a></li>
-<li><a href="/life-at-wcg">Life @wcg</a></li>
-<li><a href="/career/">Careers</a></li>
-<li><a href="/contact-us">Contact us</a></li>
-</ul>
-</li>
-<li><a class="btn" href="/contact-us">Get In Touch</a></li>
-</ul>
-</nav>
-</div>
-</div>
-</div>
-</header> 
-<section class="main-service-section hire-sec">
-<div class="container">
-<div class="services-grid contact-form-grid custom-form-section get-quote-sec">
-<div class="service-content">
-<img src="https://img.webcodegenie.com/img/hire/android/android-dev-banner.svg" class="banner-img" alt="Mobile App Development">
-<h1>Hire Android App Developers</h1>
-<p>Transform your business vision into reality by hiring skilled android app developers from Shivay infotechon an hourly or monthly basis. Our dedicated team of android app programmers develops scalable, feature-rich, and secure mobile applications across a range of industry verticals.</p>
-</div>
-<div class="outer-form contact-form-box">
-<h3>Team Up with Our Developers</h3>
-<p>Let's Begin the Conversation - Get in Touch Today!</p>
-<div class="form-box">
-<form class="contact-form" id="contact_us_form_small" name="contact_us_form" method="post" action="/inquiry" enctype="multipart/form-data">
-<input type="hidden" name="redirect_from_page" class="redirect_from_page" value="">
-<input type="hidden" name="request_for" class="request_for" value="">
-<input type="hidden" name="category" class="inquiry-catgory" class="">
-<div class="input-box ">
-<input type="text" name="first_name" placeholder="Full Name*" id="focusInput">
-</div>
-<div class="input-box ">
-<input type="email" name="email" placeholder="Email*">
-</div>
-<div class="input-box">
-<input id="phone_number_small" class="phone_number" placeholder="Phone Number*" name="phone_number" type="text">
-</div>
-<div class="input-box">
-<textarea name="message" placeholder="Message*" maxlength="500"></textarea>
-<div class="file-upload-wrapper" data-text="Attach file">
-<input name="document_file" id="document_upload" type="file" class="file-upload-field">
-<svg xmlns="http://www.w3.org/2000/svg" width="16.011" height="15.082" viewBox="0 0 16.011 15.082">
-<g id="attachments" transform="translate(4 -13.856)">
-<g id="Group_65221" data-name="Group 65221" transform="translate(-4 13.856)">
-<path id="Path_21298" data-name="Path 21298" d="M15.082,16.654a3.181,3.181,0,0,0-4.494,0L3.1,24.143a1.907,1.907,0,1,0,2.7,2.7l5.992-5.992-.9-.9L4.9,25.941a.636.636,0,1,1-.9-.9l7.49-7.49a1.907,1.907,0,1,1,2.7,2.7l-7.49,7.49A3.178,3.178,0,0,1,2.2,23.245l7.49-7.49-.9-.9L1.3,22.346a4.449,4.449,0,0,0,6.291,6.291l7.49-7.49A3.181,3.181,0,0,0,15.082,16.654Z" transform="translate(0 -14.856)" fill="#858585" />
-</g>
-</g>
-</svg>
-</div>
-</div>
-<div class="btn-send">
-<div class="btn form-btn"><input class="submit-btn" type="submit" value="Send your Inquiry" name="submit"></div>
-</div>
-</form>
-</div> </div>
-</div>
-</div>
-</section>
-<section class="devlopment-service hire-dedicated white-bg custom-padding">
-<div class="container">
-<div class="heading-txt text-center">
-<div class="bg-txt">Hire</div>
-<div class="small-heading-txt">ANDROID APP DEVELOPERS FOR HIRE</div>
-<h2>Hire Dedicated Android App Developers</h2>
-</div>
-<p class="text-center">Convert your business idea into reality by hiring expert android app developers from Shivay infotechon an hourly or monthly contract. Our dedicated android app programmers build scalable feature-rich and secure mobile apps across diverse industry verticals.</p>
-<div class="company-section">
-<div class="company-block">
-<img width="64" height="64" src="https://img.webcodegenie.com/img/web-development/android-apps-development.svg" alt="Custom App Development">
-<h3>Custom Android App Development</h3>
-<p>Our expert mobile app developers can build custom and secure apps suiting your simple and complex business requirements.</p>
-</div>
-<div class="company-block">
-<img width="64" height="64" src="https://img.webcodegenie.com/img/web-development/consultation.svg" alt="consultation">
-<h3>Android App UX/UI Solutions</h3>
-<p>Our Android App Developers Offer Perfect Android App UX/UI Solutions To Sketch A Design Strategy As Per The Right User Demographics.</p>
-</div>
-<div class="company-block">
-<img width="64" height="64" src="https://img.webcodegenie.com/img/web-development/android-app-service.svg" alt="android-app-service">
-<h3>Android Prototype Design</h3>
-<p>Our dedicated Android designers proffer various prototype development services that help in easy navigation and offer expected business outcomes.</p>
-</div>
-<div class="company-block">
-<img width="64" height="64" src="https://img.webcodegenie.com/img/web-development/migration-service.svg" alt="upgrade">
-<h3>Android App Porting and Migration</h3>
-<p>Our exclusive Android application development services also include application porting and migration solutions.</p>
-</div>
-</div>
-</div>
-</section>
-<section class="mob-cta">
-<div class="container">
-<div class="text-center">
-<h2>Supercharge your project with our expert developers! </h2>
-<a href="javascript:void(0);" class="white-btn cta-btn">Let's Get Started</a>
-<div class="cube"></div>
-<div class="cube"></div>
-<div class="cube"></div>
-<div class="cube"></div>
-<div class="cube"></div>
-<div class="cube"></div>
-</div>
-</div>
-</section>
-<section class="development-company">
-<div class="container">
-<div class="heading-txt text-center">
-<div class="bg-txt">Android</div>
-<div class="small-heading-txt">Our skilled and dedicated team of experts at Shivay infotech</div>
-<h2>Benefits of Hiring Android App Developer From Us</h2>
-</div>
-<p class="text-center">Get seamless, hypercontextual mobile app experiences across the Android ecosystem by hiring expert Android app developers from Shivay infotechon hourly or monthly contracts. Our dedicated developers cover all your business needs according to your specifications, helping you connect with clients worldwide and maximize ROI. With their assistance, you can choose the models that offer you the platform to flourish and succeed.</p>
-<div class="company-section">
-<div class="company-block">
-<img src="https://img.webcodegenie.com/img/technology-infographics/features-icons/Mobile/Android/all-round-solutions.svg" alt="Creative Solutions">
-<h3>Creative Solutions</h3>
-<p>We help you turn your idea into reality with our talented team of creative minds. We offer flexible hiring models to help you build attractive and user-friendly apps with excellent user experience for your customers.</p>
-</div>
-<div class="company-block">
-<img src="https://img.webcodegenie.com/img/technology-infographics/features-icons/Mobile/Android/transparent-communication.svg" alt="Customer Satisfaction">
-<h3>Clear & Transparent Communication</h3>
-<p>Our developers listen and understand all your needs and business ideas before offering advice in a simple and concise manner.</p>
-</div>
-<div class="company-block">
-<img src="https://img.webcodegenie.com/img/technology-infographics/features-icons/Backend/CakePhp/fast-flexible.svg" alt="Reliable Team">
-<h3>Reliable Team</h3>
-<p>Our team of reliable android app developers care about your business growth and make sure to deliver a highly scalable and feature-rich application.</p>
-</div>
-<div class="company-block">
-<img src="https://img.webcodegenie.com/img/technology-infographics/features-icons/Backend/Php/extremely-secure.svg" alt="Experience & Expertise">
-<h3>Experience & Expertise</h3>
-<p>Our android app developers have vast experience in multiple aspects of app development including user interface design, SEO, social media management, and more.</p>
-</div>
-</div>
-</section>
-<section class="hire-model custom-padding">
-<div class="container">
-<div class="heading-txt text-center">
-<div class="bg-txt">Hiring Models</div>
-<div class="small-heading-txt">About Model</div>
-<h2>Hiring Models</h2>
-</div>
-<div class="hire-model-grid">
-<div class="hire-model-box">
-<div class="img-box">
-<img src="https://img.webcodegenie.com/img/hire/hire-dev-icon.svg" alt="" />
-<svg xmlns="http://www.w3.org/2000/svg" width="106" height="106" viewBox="0 0 106 106">
-<g id="full-filled" fill="#fff" stroke="#eee" stroke-width="5">
-<circle cx="53" cy="53" r="53" stroke="none" />
-<circle cx="53" cy="53" r="50.5" fill="none" />
-</g>
-<g id="fill-line" fill="#fff" stroke="#3458e0" stroke-width="5">
-<circle cx="53" cy="53" r="53" stroke="none" />
-<circle cx="53" cy="53" r="50.5" fill="none" />
-</g>
-</svg>
-</div>
-<div class="content-box text-center">
-<h3>Full Time Hiring</h3>
-<div class="time-txt">Duration</div>
-<div class="time-val">40 - 50 hours per week</div>
-<a href="javascript:void(0);" class="btn cta-btn" data-category="Full Time Hiring">Hire Now</a>
-</div>
-</div>
-<div class="hire-model-box">
-<div class="img-box">
-<img src="https://img.webcodegenie.com/img/hire/hire-dev-icon.svg" alt="" />
-<svg xmlns="http://www.w3.org/2000/svg" width="106" height="106.063" viewBox="0 0 106 106.063">
-<g id="Group_66297" data-name="Group 66297" transform="translate(-12756 747.031)">
-<g id="Group_66296" data-name="Group 66296">
-<g id="Ellipse_648" data-name="Ellipse 648" transform="translate(12756 -747)" fill="#fff" stroke="#707070" stroke-width="5">
-<circle cx="53" cy="53" r="53" stroke="none" />
-<circle cx="53" cy="53" r="50.5" fill="none" />
-</g>
-<g id="fill-line" transform="translate(12882.5 -767.531) rotate(90)">
-<path id="svg_1" d="M23,73.5a50.531,50.531,0,0,1,101.063,0" transform="translate(0 0)" fill="none" stroke="#076fc1" stroke-width="5" />
-</g>
-</g>
-</g>
-</svg>
-</div>
-<div class="content-box text-center">
-<h3>Part Time Hiring</h3>
-<div class="time-txt">Duration</div>
-<div class="time-val">20 - 30 hours per week</div>
-<a href="javascript:void(0);" class="btn cta-btn" data-category="Part Time Hiring">Hire Now</a>
-</div>
-</div>
-<div class="hire-model-box">
-<div class="img-box">
-<img src="https://img.webcodegenie.com/img/hire/hire-dev-icon.svg" alt="" />
-<svg xmlns="http://www.w3.org/2000/svg" width="106" height="106" viewBox="0 0 106 106">
-<g id="daashed" fill="#fff" stroke="#3458e0" stroke-width="5" stroke-dasharray="15">
-<circle cx="53" cy="53" r="53" stroke="none" />
-<circle cx="53" cy="53" r="50.5" fill="none" />
-</g>
-<g id="fill-line" fill="#fff" stroke="#3458e0" stroke-width="5" stroke-dasharray="15">
-<circle cx="53" cy="53" r="53" stroke="none" />
-<circle cx="53" cy="53" r="50.5" fill="none" />
-</g>
-</svg>
-</div>
-<div class="content-box text-center">
-<h3>Hourly Hiring</h3>
-<div class="time-txt">Duration</div>
-<div class="time-val">Based on requirements</div>
-<a href="javascript:void(0);" class="btn cta-btn" data-category="Hourly Hiring">Hire Now</a>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section class="get-quote-sec custom-form-section" id="getInTouch">
-<div class="container">
-<div class="expert-block custom-padding">
-<div class="heading-txt text-center">
-<div class="bg-txt">Contact</div>
-<div class="small-heading-txt text-center">GET IN TOUCH</div>
-<h2>Consult With Our Experts Today!</h2>
-</div>
-<div class="contact-grid">
-<div class="form-box custom-form">
-<form class="contact-form" id="contact_us_form_footer" name="contact_us_form" method="post" action="/inquiry" enctype="multipart/form-data">
-<input type="hidden" name="redirect_from_page" class="redirect_from_page" value="">
-<input type="hidden" name="request_for" class="request_for">
-<input type="hidden" name="category" class="inquiry-catgory" class="">
-<div class="input-box ">
-<input type="text" name="first_name" placeholder="Full Name*" id="focusInput">
-</div>
-<div class="input-box ">
-<input type="email" name="email" placeholder="Email*">
-</div>
-<div class="input-box">
-<input id="phone_number" name="phone_number" placeholder="Phone Number*" class="phone_number" type="text">
-</div>
-<div class="input-box">
-<textarea name="message" placeholder="Message*" maxlength="500"></textarea>
-<div class="file-upload-wrapper" data-text="Attach file">
-<input name="document_file" id="document_upload" type="file" class="file-upload-field">
-<svg xmlns="http://www.w3.org/2000/svg" width="16.011" height="15.082" viewBox="0 0 16.011 15.082">
-<g id="attachments" transform="translate(4 -13.856)">
-<g id="Group_65221" data-name="Group 65221" transform="translate(-4 13.856)">
-<path id="Path_21298" data-name="Path 21298" d="M15.082,16.654a3.181,3.181,0,0,0-4.494,0L3.1,24.143a1.907,1.907,0,1,0,2.7,2.7l5.992-5.992-.9-.9L4.9,25.941a.636.636,0,1,1-.9-.9l7.49-7.49a1.907,1.907,0,1,1,2.7,2.7l-7.49,7.49A3.178,3.178,0,0,1,2.2,23.245l7.49-7.49-.9-.9L1.3,22.346a4.449,4.449,0,0,0,6.291,6.291l7.49-7.49A3.181,3.181,0,0,0,15.082,16.654Z" transform="translate(0 -14.856)" fill="#858585" />
-</g>
-</g>
-</svg>
-</div>
-</div>
-<div class="btn form-btn"><input type="submit" value="Submit" name="submit"></div>
-</form>
-</div>
-<div class="content-box">
-<div class="static-txt">
-<h3>Your Benefits!</h3>
-<ul>
-<li>Professional Project Consultation</li>
-<li>Detailed Project Proposal</li>
-</ul>
-</div>
-<div class="call-mail">
-<div class="title-txt">Sales & Marketing</div>
-<div class="address-list">
-<a href="/cdn-cgi/l/email-protection#c1b2a0ada4b281b6a4a3a2aea5a4a6a4afa8a4efa2aeac">
-<img src="https://img.webcodegenie.com/img/footer/get-in-touch-mail.svg" alt="Mail Us" height="36" width="36" />
-<span><span class="__cf_email__" data-cfemail="6d1e0c01081e2d1a080f0e0209080a08030408430e0200">[email&#160;protected]</span></span></a>
-</div>
-<div class="address-list">
-<a href="tel:+12342306411">
-<img src="https://img.webcodegenie.com/img/footer/get-in-touch-call.svg" alt="Call Us" height="36" width="36" />
-<span>+1 234-230-6411</span> </a>
-</div>
-<div class="address-list">
-<a href="skype:webcodegenie?chat">
-<img src="https://img.webcodegenie.com/img/footer/sky.svg" alt="Mail Us" height="36" width="36" />
-<span>webcodegenie</span> </a>
-</div>
-</div>
-<div class="call-mail">
-<div class="title-txt">Career Enquiry</div>
-<div class="address-list">
-<a href="/cdn-cgi/l/email-protection#711210031414030231061413121e151416141f18145f121e1c">
- <img src="https://img.webcodegenie.com/img/footer/get-in-touch-mail.svg" alt="Mail Us" height="36" width="36" />
-<span><span class="__cf_email__" data-cfemail="ddbebcafb8b8afae9daab8bfbeb2b9b8bab8b3b4b8f3beb2b0">[email&#160;protected]</span></span></a>
-</div>
-<div class="address-list">
-<a href="tel:+919974669565">
-<img src="https://img.webcodegenie.com/img/footer/get-in-touch-call.svg" alt="Call Us" height="36" width="36" />
-<span>+91 997-466-9565</span></a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section><footer class="main-footer">
-<div class="container">
-<div class="footer-top">
-<a class="logo" href="/">
-<img src="https://img.webcodegenie.com/img/footer/f-logo.svg" alt="Logo" width="300" height="75" />
-</a>
-<ul class="achivement-list">
-<li>
-<a href="https://clutch.co/profile/webcodegenie-technology?utm_source=widget&utm_medium=2&utm_campaign=widget&utm_content=logo#summary" target="_blank">
-<img loading="lazy" alt="cluthch" src="https://img.webcodegenie.com/img/footer/clutch.webp" width="80" height="80" />
-</a>
-</li>
-<li>
-<div class="no-link">
-<img class="no-link" loading="lazy" alt="CMMI Level 3" src="https://img.webcodegenie.com/img/footer/cmmi_level3.webp" width="80" height="80" />
-</div>
-</li>
-<li>
-<div class="no-link">
-<img loading="lazy" src="https://img.webcodegenie.com/img/footer/iso.webp" alt="ISO Certified" width="80" height="80">
-</div>
-</li>
-<li>
-<a href="https://www.appfutura.com/companies/webcodegenie-technology-pvt-ltd" target="_blank">
-<img loading="lazy" src="https://img.webcodegenie.com/img/footer/app_futura.webp" alt="futura" width="80" height="80" />
-</a>
-</li>
-</ul>
-</div>
-</div>
-<div class="border-down"></div>
-<div class="container">
-<div class="footer-grid">
-<div class="f-block location-address">
-<div class="country-block">
-<div class="title-txt">India</div>
-<ul class="address">
-<li>
-<div class="icon">
-<img src="https://img.webcodegenie.com/img/footer/pin.svg" alt="pin" height="15" width="20" />
-</div>
-372 Town Place Fairview, <br> TX 75069</li>
-<li>
-<div class="icon">
-<img src="https://img.webcodegenie.com/img/footer/telephone.svg" alt="location" height="15" width="20" />
-</div>
-<a href="tel:+12342306411">+1 234-230-6411</a></li>
-</ul>
-</div>
-<div class="country-block">
-<div class="title-txt">India</div>
-<ul class="address">
-<li>
-<div class="icon">
-<img src="https://img.webcodegenie.com/img/footer/pin.svg" alt="pin" height="15" width="20" />
-</div>
-C 904, Ganesh Meridian, <br> S G Highway, Sola, <br> Ahmedabad, Gujarat 380060.</li>
-<li>
-<div class="icon">
-<img src="https://img.webcodegenie.com/img/footer/telephone.svg" alt="location" height="15" width="20" />
-</div>
- <a href="tel:+919974669565">+91 997-466-9565</a></li>
-</ul>
-</div>
-</div>
-<div class="f-block services-links">
-<div class="title-txt">SERVICES</div>
-<ul class="services">
-<li><a href="/services/web-development">Web Development</a></li>
-<li><a href="/services/mobile-app-development">Mobile Development</a></li>
-<li><a href="/services/web-design-company">Web Design</a></li>
-<li><a href="/services/software-testing">Software Testing</a></li>
-<li><a href="/services/digital-marketing">Digital Marketing</a></li>
-<li><a href="/services/big-data-development">Big Data</a></li>
-<li><a href="/services/cloud-computing-agency">Cloud Computing</a></li>
-<li><a href="/services/iot-development">IoT</a></li>
-</ul>
-</div>
-<div class="f-block quick-links">
-<div class="title-txt">Hire Developers</div>
-<ul>
-<li><a href="/hire-nodejs-developers">Hire NodeJs Developers</a></li>
-<li><a href="/hire-ios-developers">Hire IOS Developers</a></li>
-<li><a href="/hire-android-developers">Hire Android Developers</a></li>
-<li><a href="/hire-angularjs-developers">Hire AngularJs Developers</a></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="container">
-<div class="footer-bottom">
-<span>© Shivay infotechTechnology PVT LTD. All Right Reserved
-2023.</span>
-<ul class="other-link">
-<li>
-<a href="/privacy-policy">Privacy Policy</a>
-</li>
-<li>
-<a href="/terms-and-conditions">Terms and Conditions</a>
-</li>
-
-</ul>
-<ul class="socail-list">
-<li>
-<a href="https://in.linkedin.com/company/webcodegenie-technology-pvt-ltd" target="_blank">
-<img src="https://img.webcodegenie.com/img/footer/linkedin.svg" alt="linkedin" height="32" width="32" />
-</a>
-</li>
-<li>
-<a href="https://www.instagram.com/webcodegenieofficial/" target="_blank">
-<img src="https://img.webcodegenie.com/img/footer/instagram.svg" alt="instagram" height="32" width="32" />
-</a>
-</li>
-<li>
-<a href="https://www.youtube.com/@webcodegenietechnology" target="_blank">
-<img src="https://img.webcodegenie.com/img/footer/you-tube.svg" alt="you-tube" height="32" width="32" />
-</a>
-</li>
-<li>
-<a href="https://twitter.com/WebCode_Genie" target="_blank">
-<img src="https://img.webcodegenie.com/img/footer/twitter.svg" alt="twitter" height="32" width="32" />
-</a>
-</li>
-<li>
-<a href="https://www.facebook.com/WebCodeGenieTechnologyPvtLtd/" target="_blank">
-<img src="https://img.webcodegenie.com/img/footer/facebook.svg" alt="facebook" height="32" width="32" />
-</a>
-</li>
-<li>
-<a href="https://in.pinterest.com/WebCode_Genie/" target="_blank">
-<img src="https://img.webcodegenie.com/img/footer/pinterest.svg" alt="pinterest" height="32" width="32" />
-</a>
-</li>
-</ul>
-</div>
-</div>
-</footer>
 
 
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://scripts.webcodegenie.com/js/jquery-v3.6.0.min.js"></script>
-<script>
+<body id="Navbar">
+	<script src="/components/Navbar.js"></script>
+	<section class="main-service-section hire-sec">
+		<div class="container">
+			<div class="services-grid contact-form-grid custom-form-section get-quote-sec">
+				<div class="service-content">
+					<img src="https://img.webcodegenie.com/img/hire/android/android-dev-banner.svg" class="banner-img"
+						alt="Mobile App Development">
+					<h1>Hire Android App Developers</h1>
+					<p>Transform your business vision into reality by hiring skilled android app developers from Shivay
+						infotechon an hourly or monthly basis. Our dedicated team of android app programmers develops
+						scalable, feature-rich, and secure mobile applications across a range of industry verticals.</p>
+				</div>
+				<div class="outer-form contact-form-box">
+					<h3>Team Up with Our Developers</h3>
+					<p>Let's Begin the Conversation - Get in Touch Today!</p>
+					<div class="form-box">
+						<form class="contact-form" id="contact_us_form_small" name="contact_us_form" method="post"
+							action="/inquiry" enctype="multipart/form-data">
+							<input type="hidden" name="redirect_from_page" class="redirect_from_page" value="">
+							<input type="hidden" name="request_for" class="request_for" value="">
+							<input type="hidden" name="category" class="inquiry-catgory" class="">
+							<div class="input-box ">
+								<input type="text" name="first_name" placeholder="Full Name*" id="focusInput">
+							</div>
+							<div class="input-box ">
+								<input type="email" name="email" placeholder="Email*">
+							</div>
+							<div class="input-box">
+								<input id="phone_number_small" class="phone_number" placeholder="Phone Number*"
+									name="phone_number" type="text">
+							</div>
+							<div class="input-box">
+								<textarea name="message" placeholder="Message*" maxlength="500"></textarea>
+								<div class="file-upload-wrapper" data-text="Attach file">
+									<input name="document_file" id="document_upload" type="file"
+										class="file-upload-field">
+									<svg xmlns="http://www.w3.org/2000/svg" width="16.011" height="15.082"
+										viewBox="0 0 16.011 15.082">
+										<g id="attachments" transform="translate(4 -13.856)">
+											<g id="Group_65221" data-name="Group 65221"
+												transform="translate(-4 13.856)">
+												<path id="Path_21298" data-name="Path 21298"
+													d="M15.082,16.654a3.181,3.181,0,0,0-4.494,0L3.1,24.143a1.907,1.907,0,1,0,2.7,2.7l5.992-5.992-.9-.9L4.9,25.941a.636.636,0,1,1-.9-.9l7.49-7.49a1.907,1.907,0,1,1,2.7,2.7l-7.49,7.49A3.178,3.178,0,0,1,2.2,23.245l7.49-7.49-.9-.9L1.3,22.346a4.449,4.449,0,0,0,6.291,6.291l7.49-7.49A3.181,3.181,0,0,0,15.082,16.654Z"
+													transform="translate(0 -14.856)" fill="#858585" />
+											</g>
+										</g>
+									</svg>
+								</div>
+							</div>
+							<div class="btn-send">
+								<div class="btn form-btn"><input class="submit-btn" type="submit"
+										value="Send your Inquiry" name="submit"></div>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="devlopment-service hire-dedicated white-bg custom-padding">
+		<div class="container">
+			<div class="heading-txt text-center">
+				<div class="bg-txt">Hire</div>
+				<div class="small-heading-txt">ANDROID APP DEVELOPERS FOR HIRE</div>
+				<h2>Hire Dedicated Android App Developers</h2>
+			</div>
+			<p class="text-center">Convert your business idea into reality by hiring expert android app developers from
+				Shivay infotechon an hourly or monthly contract. Our dedicated android app programmers build scalable
+				feature-rich and secure mobile apps across diverse industry verticals.</p>
+			<div class="company-section">
+				<div class="company-block">
+					<img width="64" height="64"
+						src="https://img.webcodegenie.com/img/web-development/android-apps-development.svg"
+						alt="Custom App Development">
+					<h3>Custom Android App Development</h3>
+					<p>Our expert mobile app developers can build custom and secure apps suiting your simple and complex
+						business requirements.</p>
+				</div>
+				<div class="company-block">
+					<img width="64" height="64" src="https://img.webcodegenie.com/img/web-development/consultation.svg"
+						alt="consultation">
+					<h3>Android App UX/UI Solutions</h3>
+					<p>Our Android App Developers Offer Perfect Android App UX/UI Solutions To Sketch A Design Strategy
+						As Per The Right User Demographics.</p>
+				</div>
+				<div class="company-block">
+					<img width="64" height="64"
+						src="https://img.webcodegenie.com/img/web-development/android-app-service.svg"
+						alt="android-app-service">
+					<h3>Android Prototype Design</h3>
+					<p>Our dedicated Android designers proffer various prototype development services that help in easy
+						navigation and offer expected business outcomes.</p>
+				</div>
+				<div class="company-block">
+					<img width="64" height="64"
+						src="https://img.webcodegenie.com/img/web-development/migration-service.svg" alt="upgrade">
+					<h3>Android App Porting and Migration</h3>
+					<p>Our exclusive Android application development services also include application porting and
+						migration solutions.</p>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="mob-cta">
+		<div class="container">
+			<div class="text-center">
+				<h2>Supercharge your project with our expert developers! </h2>
+				<a href="javascript:void(0);" class="white-btn cta-btn">Let's Get Started</a>
+				<div class="cube"></div>
+				<div class="cube"></div>
+				<div class="cube"></div>
+				<div class="cube"></div>
+				<div class="cube"></div>
+				<div class="cube"></div>
+			</div>
+		</div>
+	</section>
+	<section class="development-company">
+		<div class="container">
+			<div class="heading-txt text-center">
+				<div class="bg-txt">Android</div>
+				<div class="small-heading-txt">Our skilled and dedicated team of experts at Shivay infotech</div>
+				<h2>Benefits of Hiring Android App Developer From Us</h2>
+			</div>
+			<p class="text-center">Get seamless, hypercontextual mobile app experiences across the Android ecosystem by
+				hiring expert Android app developers from Shivay infotechon hourly or monthly contracts. Our dedicated
+				developers cover all your business needs according to your specifications, helping you connect with
+				clients worldwide and maximize ROI. With their assistance, you can choose the models that offer you the
+				platform to flourish and succeed.</p>
+			<div class="company-section">
+				<div class="company-block">
+					<img src="https://img.webcodegenie.com/img/technology-infographics/features-icons/Mobile/Android/all-round-solutions.svg"
+						alt="Creative Solutions">
+					<h3>Creative Solutions</h3>
+					<p>We help you turn your idea into reality with our talented team of creative minds. We offer
+						flexible hiring models to help you build attractive and user-friendly apps with excellent user
+						experience for your customers.</p>
+				</div>
+				<div class="company-block">
+					<img src="https://img.webcodegenie.com/img/technology-infographics/features-icons/Mobile/Android/transparent-communication.svg"
+						alt="Customer Satisfaction">
+					<h3>Clear & Transparent Communication</h3>
+					<p>Our developers listen and understand all your needs and business ideas before offering advice in
+						a simple and concise manner.</p>
+				</div>
+				<div class="company-block">
+					<img src="https://img.webcodegenie.com/img/technology-infographics/features-icons/Backend/CakePhp/fast-flexible.svg"
+						alt="Reliable Team">
+					<h3>Reliable Team</h3>
+					<p>Our team of reliable android app developers care about your business growth and make sure to
+						deliver a highly scalable and feature-rich application.</p>
+				</div>
+				<div class="company-block">
+					<img src="https://img.webcodegenie.com/img/technology-infographics/features-icons/Backend/Php/extremely-secure.svg"
+						alt="Experience & Expertise">
+					<h3>Experience & Expertise</h3>
+					<p>Our android app developers have vast experience in multiple aspects of app development including
+						user interface design, SEO, social media management, and more.</p>
+				</div>
+			</div>
+	</section>
+	<section class="hire-model custom-padding">
+		<div class="container">
+			<div class="heading-txt text-center">
+				<div class="bg-txt">Hiring Models</div>
+				<div class="small-heading-txt">About Model</div>
+				<h2>Hiring Models</h2>
+			</div>
+			<div class="hire-model-grid">
+				<div class="hire-model-box">
+					<div class="img-box">
+						<img src="https://img.webcodegenie.com/img/hire/hire-dev-icon.svg" alt="" />
+						<svg xmlns="http://www.w3.org/2000/svg" width="106" height="106" viewBox="0 0 106 106">
+							<g id="full-filled" fill="#fff" stroke="#eee" stroke-width="5">
+								<circle cx="53" cy="53" r="53" stroke="none" />
+								<circle cx="53" cy="53" r="50.5" fill="none" />
+							</g>
+							<g id="fill-line" fill="#fff" stroke="#3458e0" stroke-width="5">
+								<circle cx="53" cy="53" r="53" stroke="none" />
+								<circle cx="53" cy="53" r="50.5" fill="none" />
+							</g>
+						</svg>
+					</div>
+					<div class="content-box text-center">
+						<h3>Full Time Hiring</h3>
+						<div class="time-txt">Duration</div>
+						<div class="time-val">40 - 50 hours per week</div>
+						<a href="javascript:void(0);" class="btn cta-btn" data-category="Full Time Hiring">Hire Now</a>
+					</div>
+				</div>
+				<div class="hire-model-box">
+					<div class="img-box">
+						<img src="https://img.webcodegenie.com/img/hire/hire-dev-icon.svg" alt="" />
+						<svg xmlns="http://www.w3.org/2000/svg" width="106" height="106.063" viewBox="0 0 106 106.063">
+							<g id="Group_66297" data-name="Group 66297" transform="translate(-12756 747.031)">
+								<g id="Group_66296" data-name="Group 66296">
+									<g id="Ellipse_648" data-name="Ellipse 648" transform="translate(12756 -747)"
+										fill="#fff" stroke="#707070" stroke-width="5">
+										<circle cx="53" cy="53" r="53" stroke="none" />
+										<circle cx="53" cy="53" r="50.5" fill="none" />
+									</g>
+									<g id="fill-line" transform="translate(12882.5 -767.531) rotate(90)">
+										<path id="svg_1" d="M23,73.5a50.531,50.531,0,0,1,101.063,0"
+											transform="translate(0 0)" fill="none" stroke="#076fc1" stroke-width="5" />
+									</g>
+								</g>
+							</g>
+						</svg>
+					</div>
+					<div class="content-box text-center">
+						<h3>Part Time Hiring</h3>
+						<div class="time-txt">Duration</div>
+						<div class="time-val">20 - 30 hours per week</div>
+						<a href="javascript:void(0);" class="btn cta-btn" data-category="Part Time Hiring">Hire Now</a>
+					</div>
+				</div>
+				<div class="hire-model-box">
+					<div class="img-box">
+						<img src="https://img.webcodegenie.com/img/hire/hire-dev-icon.svg" alt="" />
+						<svg xmlns="http://www.w3.org/2000/svg" width="106" height="106" viewBox="0 0 106 106">
+							<g id="daashed" fill="#fff" stroke="#3458e0" stroke-width="5" stroke-dasharray="15">
+								<circle cx="53" cy="53" r="53" stroke="none" />
+								<circle cx="53" cy="53" r="50.5" fill="none" />
+							</g>
+							<g id="fill-line" fill="#fff" stroke="#3458e0" stroke-width="5" stroke-dasharray="15">
+								<circle cx="53" cy="53" r="53" stroke="none" />
+								<circle cx="53" cy="53" r="50.5" fill="none" />
+							</g>
+						</svg>
+					</div>
+					<div class="content-box text-center">
+						<h3>Hourly Hiring</h3>
+						<div class="time-txt">Duration</div>
+						<div class="time-val">Based on requirements</div>
+						<a href="javascript:void(0);" class="btn cta-btn" data-category="Hourly Hiring">Hire Now</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="get-quote-sec custom-form-section" id="getInTouch">
+		<div class="container">
+			<div class="expert-block custom-padding">
+				<div class="heading-txt text-center">
+					<div class="bg-txt">Contact</div>
+					<div class="small-heading-txt text-center">GET IN TOUCH</div>
+					<h2>Consult With Our Experts Today!</h2>
+				</div>
+				<div class="contact-grid">
+					<div class="form-box custom-form">
+						<form class="contact-form" id="contact_us_form_footer" name="contact_us_form" method="post"
+							action="/inquiry" enctype="multipart/form-data">
+							<input type="hidden" name="redirect_from_page" class="redirect_from_page" value="">
+							<input type="hidden" name="request_for" class="request_for">
+							<input type="hidden" name="category" class="inquiry-catgory" class="">
+							<div class="input-box ">
+								<input type="text" name="first_name" placeholder="Full Name*" id="focusInput">
+							</div>
+							<div class="input-box ">
+								<input type="email" name="email" placeholder="Email*">
+							</div>
+							<div class="input-box">
+								<input id="phone_number" name="phone_number" placeholder="Phone Number*"
+									class="phone_number" type="text">
+							</div>
+							<div class="input-box">
+								<textarea name="message" placeholder="Message*" maxlength="500"></textarea>
+								<div class="file-upload-wrapper" data-text="Attach file">
+									<input name="document_file" id="document_upload" type="file"
+										class="file-upload-field">
+									<svg xmlns="http://www.w3.org/2000/svg" width="16.011" height="15.082"
+										viewBox="0 0 16.011 15.082">
+										<g id="attachments" transform="translate(4 -13.856)">
+											<g id="Group_65221" data-name="Group 65221"
+												transform="translate(-4 13.856)">
+												<path id="Path_21298" data-name="Path 21298"
+													d="M15.082,16.654a3.181,3.181,0,0,0-4.494,0L3.1,24.143a1.907,1.907,0,1,0,2.7,2.7l5.992-5.992-.9-.9L4.9,25.941a.636.636,0,1,1-.9-.9l7.49-7.49a1.907,1.907,0,1,1,2.7,2.7l-7.49,7.49A3.178,3.178,0,0,1,2.2,23.245l7.49-7.49-.9-.9L1.3,22.346a4.449,4.449,0,0,0,6.291,6.291l7.49-7.49A3.181,3.181,0,0,0,15.082,16.654Z"
+													transform="translate(0 -14.856)" fill="#858585" />
+											</g>
+										</g>
+									</svg>
+								</div>
+							</div>
+							<div class="btn form-btn"><input type="submit" value="Submit" name="submit"></div>
+						</form>
+					</div>
+					<div class="content-box">
+						<div class="static-txt">
+							<h3>Your Benefits!</h3>
+							<ul>
+								<li>Professional Project Consultation</li>
+								<li>Detailed Project Proposal</li>
+							</ul>
+						</div>
+						<div class="call-mail">
+							<div class="title-txt">Sales & Marketing</div>
+							<div class="address-list">
+								<a href="/cdn-cgi/l/email-protection#c1b2a0ada4b281b6a4a3a2aea5a4a6a4afa8a4efa2aeac">
+									<img src="https://img.webcodegenie.com/img/footer/get-in-touch-mail.svg"
+										alt="Mail Us" height="36" width="36" />
+									<span><span class="__cf_email__"
+											data-cfemail="6d1e0c01081e2d1a080f0e0209080a08030408430e0200">[email&#160;protected]</span></span></a>
+							</div>
+							<div class="address-list">
+								<a href="tel:+12342306411">
+									<img src="https://img.webcodegenie.com/img/footer/get-in-touch-call.svg"
+										alt="Call Us" height="36" width="36" />
+									<span>+1 234-230-6411</span> </a>
+							</div>
+							<div class="address-list">
+								<a href="skype:webcodegenie?chat">
+									<img src="https://img.webcodegenie.com/img/footer/sky.svg" alt="Mail Us" height="36"
+										width="36" />
+									<span>webcodegenie</span> </a>
+							</div>
+						</div>
+						<div class="call-mail">
+							<div class="title-txt">Career Enquiry</div>
+							<div class="address-list">
+								<a
+									href="/cdn-cgi/l/email-protection#711210031414030231061413121e151416141f18145f121e1c">
+									<img src="https://img.webcodegenie.com/img/footer/get-in-touch-mail.svg"
+										alt="Mail Us" height="36" width="36" />
+									<span><span class="__cf_email__"
+											data-cfemail="ddbebcafb8b8afae9daab8bfbeb2b9b8bab8b3b4b8f3beb2b0">[email&#160;protected]</span></span></a>
+							</div>
+							<div class="address-list">
+								<a href="tel:+919974669565">
+									<img src="https://img.webcodegenie.com/img/footer/get-in-touch-call.svg"
+										alt="Call Us" height="36" width="36" />
+									<span>+91 997-466-9565</span></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<footer class="main-footer">
+		<div class="container">
+			<div class="footer-top">
+				<a class="logo" href="/">
+					<img src="https://img.webcodegenie.com/img/footer/f-logo.svg" alt="Logo" width="300" height="75" />
+				</a>
+				<ul class="achivement-list">
+					<li>
+						<a href="https://clutch.co/profile/webcodegenie-technology?utm_source=widget&utm_medium=2&utm_campaign=widget&utm_content=logo#summary"
+							target="_blank">
+							<img loading="lazy" alt="cluthch" src="https://img.webcodegenie.com/img/footer/clutch.webp"
+								width="80" height="80" />
+						</a>
+					</li>
+					<li>
+						<div class="no-link">
+							<img class="no-link" loading="lazy" alt="CMMI Level 3"
+								src="https://img.webcodegenie.com/img/footer/cmmi_level3.webp" width="80" height="80" />
+						</div>
+					</li>
+					<li>
+						<div class="no-link">
+							<img loading="lazy" src="https://img.webcodegenie.com/img/footer/iso.webp"
+								alt="ISO Certified" width="80" height="80">
+						</div>
+					</li>
+					<li>
+						<a href="https://www.appfutura.com/companies/webcodegenie-technology-pvt-ltd" target="_blank">
+							<img loading="lazy" src="https://img.webcodegenie.com/img/footer/app_futura.webp"
+								alt="futura" width="80" height="80" />
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="border-down"></div>
+		<div class="container">
+			<div class="footer-grid">
+				<div class="f-block location-address">
+					<div class="country-block">
+						<div class="title-txt">India</div>
+						<ul class="address">
+							<li>
+								<div class="icon">
+									<img src="https://img.webcodegenie.com/img/footer/pin.svg" alt="pin" height="15"
+										width="20" />
+								</div>
+								372 Town Place Fairview, <br> TX 75069
+							</li>
+							<li>
+								<div class="icon">
+									<img src="https://img.webcodegenie.com/img/footer/telephone.svg" alt="location"
+										height="15" width="20" />
+								</div>
+								<a href="tel:+12342306411">+1 234-230-6411</a>
+							</li>
+						</ul>
+					</div>
+					<div class="country-block">
+						<div class="title-txt">India</div>
+						<ul class="address">
+							<li>
+								<div class="icon">
+									<img src="https://img.webcodegenie.com/img/footer/pin.svg" alt="pin" height="15"
+										width="20" />
+								</div>
+								C 904, Ganesh Meridian, <br> S G Highway, Sola, <br> Ahmedabad, Gujarat 380060.
+							</li>
+							<li>
+								<div class="icon">
+									<img src="https://img.webcodegenie.com/img/footer/telephone.svg" alt="location"
+										height="15" width="20" />
+								</div>
+								<a href="tel:+919974669565">+91 997-466-9565</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div class="f-block services-links">
+					<div class="title-txt">SERVICES</div>
+					<ul class="services">
+						<li><a href="/services/web-development">Web Development</a></li>
+						<li><a href="/services/mobile-app-development">Mobile Development</a></li>
+						<li><a href="/services/web-design-company">Web Design</a></li>
+						<li><a href="/services/software-testing">Software Testing</a></li>
+						<li><a href="/services/digital-marketing">Digital Marketing</a></li>
+						<li><a href="/services/big-data-development">Big Data</a></li>
+						<li><a href="/services/cloud-computing-agency">Cloud Computing</a></li>
+						<li><a href="/services/iot-development">IoT</a></li>
+					</ul>
+				</div>
+				<div class="f-block quick-links">
+					<div class="title-txt">Hire Developers</div>
+					<ul>
+						<li><a href="/hire-nodejs-developers">Hire NodeJs Developers</a></li>
+						<li><a href="/hire-ios-developers">Hire IOS Developers</a></li>
+						<li><a href="/hire-android-developers">Hire Android Developers</a></li>
+						<li><a href="/hire-angularjs-developers">Hire AngularJs Developers</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="footer-bottom">
+				<span>© Shivay infotechTechnology PVT LTD. All Right Reserved
+					2023.</span>
+				<ul class="other-link">
+					<li>
+						<a href="/privacy-policy">Privacy Policy</a>
+					</li>
+					<li>
+						<a href="/terms-and-conditions">Terms and Conditions</a>
+					</li>
+
+				</ul>
+				<ul class="socail-list">
+					<li>
+						<a href="https://in.linkedin.com/company/webcodegenie-technology-pvt-ltd" target="_blank">
+							<img src="https://img.webcodegenie.com/img/footer/linkedin.svg" alt="linkedin" height="32"
+								width="32" />
+						</a>
+					</li>
+					<li>
+						<a href="https://www.instagram.com/webcodegenieofficial/" target="_blank">
+							<img src="https://img.webcodegenie.com/img/footer/instagram.svg" alt="instagram" height="32"
+								width="32" />
+						</a>
+					</li>
+					<li>
+						<a href="https://www.youtube.com/@webcodegenietechnology" target="_blank">
+							<img src="https://img.webcodegenie.com/img/footer/you-tube.svg" alt="you-tube" height="32"
+								width="32" />
+						</a>
+					</li>
+					<li>
+						<a href="https://twitter.com/WebCode_Genie" target="_blank">
+							<img src="https://img.webcodegenie.com/img/footer/twitter.svg" alt="twitter" height="32"
+								width="32" />
+						</a>
+					</li>
+					<li>
+						<a href="https://www.facebook.com/WebCodeGenieTechnologyPvtLtd/" target="_blank">
+							<img src="https://img.webcodegenie.com/img/footer/facebook.svg" alt="facebook" height="32"
+								width="32" />
+						</a>
+					</li>
+					<li>
+						<a href="https://in.pinterest.com/WebCode_Genie/" target="_blank">
+							<img src="https://img.webcodegenie.com/img/footer/pinterest.svg" alt="pinterest" height="32"
+								width="32" />
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</footer>
+
+
+	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+	<script src="https://scripts.webcodegenie.com/js/jquery-v3.6.0.min.js"></script>
+	<script>
 
 		jQuery.event.special.touchstart = {
-			setup: function( _, ns, handle ) {
+			setup: function (_, ns, handle) {
 				this.addEventListener("touchstart", handle, { passive: !ns.includes("noPreventDefault") });
 			}
 		};
 		jQuery.event.special.touchmove = {
-			setup: function( _, ns, handle ) {
+			setup: function (_, ns, handle) {
 				this.addEventListener("touchmove", handle, { passive: !ns.includes("noPreventDefault") });
 			}
 		};
 		jQuery.event.special.wheel = {
-			setup: function( _, ns, handle ){
+			setup: function (_, ns, handle) {
 				this.addEventListener("wheel", handle, { passive: true });
 			}
 		};
 		jQuery.event.special.mousewheel = {
-			setup: function( _, ns, handle ){
+			setup: function (_, ns, handle) {
 				this.addEventListener("mousewheel", handle, { passive: true });
 			}
 		};
 	</script>
-<script src="https://scripts.webcodegenie.com/js/jQuery_validation_v1.19.3.min.js" defer></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
-<script src="https://scripts.webcodegenie.com/js/slick.min.js"></script>
-<script src="https://scripts.webcodegenie.com/js/isotope.pkgd.min.js"></script>
-<script src="https://scripts.webcodegenie.com/js/matchHeight-min.js"></script>
-<script src="https://scripts.webcodegenie.com/js/swiper-bundle.min.js"></script>
-<script src="https://scripts.webcodegenie.com/js/all.js"></script>
-<script>
+	<script src="https://scripts.webcodegenie.com/js/jQuery_validation_v1.19.3.min.js" defer></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+	<script src="https://scripts.webcodegenie.com/js/slick.min.js"></script>
+	<script src="https://scripts.webcodegenie.com/js/isotope.pkgd.min.js"></script>
+	<script src="https://scripts.webcodegenie.com/js/matchHeight-min.js"></script>
+	<script src="https://scripts.webcodegenie.com/js/swiper-bundle.min.js"></script>
+	<script src="https://scripts.webcodegenie.com/js/all.js"></script>
+	<script>
 		$(document).ready(function () {
-        	bindInquiryForm('contact_us_form_footer','Expert Now');
-    	});
+			bindInquiryForm('contact_us_form_footer', 'Expert Now');
+		});
 	</script>
-<script type="text/javascript">
-        pageName = 'Hire Android Developer';
-        inquiryCategory = 'Android Developer';
-        requestFor = 'hire_developers';
-        $(document).ready(function() {
-            new bindHirePage();
-        });
-    </script>
+	<script type="text/javascript">
+		pageName = 'Hire Android Developer';
+		inquiryCategory = 'Android Developer';
+		requestFor = 'hire_developers';
+		$(document).ready(function () {
+			new bindHirePage();
+		});
+	</script>
 </body>
+
 </html>
