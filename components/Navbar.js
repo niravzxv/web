@@ -392,25 +392,16 @@ function Navbar() {
 							<li class="has-sub-child">
 								<div class="sub-link">Frontend Developers</div>
 								<ul class="nav-dropdown">
-									<li><a href="/hire-angularjs-developers">Hire AngularJs Developer</a></li>
+									<li><a href="/hire-angularjs-developers">Hire ReactJs Developer</a></li>
 								</ul>
 							</li>
-						</ul>
-					</li>
-					<li class="has-child">
-						<div class="main-link">Resources</div>
-						<ul class="nav-dropdown">
-							<li><a href="/blog">Blogs</a></li>
-							<li><a href="/casestudy">Case Studies</a></li>
-							<li><a href="/portfolio/">Portfolio</a></li>
-							<li><a href="/testimonial">Testimonials</a></li>
 						</ul>
 					</li>
 					<li class="has-child">
 						<div class="main-link">Company</div>
 						<ul class="nav-dropdown">
 							<li><a href="/about-us">About us</a></li>
-							<li><a href="/life-at-wcg">Life @wcg</a></li>
+							<li><a href="/life-at-wcg">Life @Shivay infotech</a></li>
 							<li><a href="/career/">Careers</a></li>
 							<li><a href="/contact-us">Contact us</a></li>
 						</ul>
