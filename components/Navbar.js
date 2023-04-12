@@ -247,18 +247,6 @@ function Navbar() {
 										</a>
 									</li>
 									<li>
-										<a href="/life-at-shivay-infotech">
-											<img loading="lazy"
-												src="https://img.webcodegenie.com/img/header/life-wcg.svg"
-												alt="Mobile App Development" height="36" width="36" />
-											<div>
-												<h6>Life at Shivay Infotech</h6>
-												<p>We don't just work hard, we play hard too! Join us and
-													experience the perfect work-life balance.</p>
-											</div>
-										</a>
-									</li>
-									<li>
 										<a href="/career/">
 											<img loading="lazy"
 												src="https://img.webcodegenie.com/img/header/portfolio.svg"
