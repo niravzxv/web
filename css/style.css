@@ -2521,6 +2521,7 @@ p a {
     .without-title-padding {
         padding: 50px 0
     }
+    
 }
 
 @media screen and (max-width:1599px) {
@@ -2665,7 +2666,7 @@ p a {
 }
 
 .main-header {
-    position: absolute;
+    /* position: absolute; */
     width: 100%;
     top: 0;
     left: 0;
