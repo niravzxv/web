@@ -247,7 +247,7 @@ function Navbar() {
 										</a>
 									</li>
 									<li>
-										<a href="/life-at-wcg">
+										<a href="/life-at-shivay-infotech">
 											<img loading="lazy"
 												src="https://img.webcodegenie.com/img/header/life-wcg.svg"
 												alt="Mobile App Development" height="36" width="36" />
@@ -401,7 +401,7 @@ function Navbar() {
 						<div class="main-link">Company</div>
 						<ul class="nav-dropdown">
 							<li><a href="/about-us">About us</a></li>
-							<li><a href="/life-at-wcg">Life @Shivay infotech</a></li>
+							<li><a href="/life-at-shivay-infotech">Life @Shivay infotech</a></li>
 							<li><a href="/career/">Careers</a></li>
 							<li><a href="/contact-us">Contact us</a></li>
 						</ul>
