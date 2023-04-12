@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Privacy policy of Shivay infotechTechnologies Pvt. Ltd.</title>
+	<meta name="description"
+		content="We at Shivay infotechare discreet about the sensitive data of our clients. We don't spam, rent, or give away your pivotal info to any third parties.">
+	<meta name="keywords"
+		content="privacy policy, privacy policy Shivay infotech, privacy policy mobile app development, privacy policy web development company">
+	<meta charset="utf-8" />
+	<link rel="canonical" href="https://shivayinfotech.org/" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="HandheldFriendly" content="true" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/favicon/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/favicon/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/favicon/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/favicon/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192" href="/favicon/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+	<link rel="manifest" href="/favicon/manifest.json">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.css" />
+	<base href="https://shivayinfotech.org/">
+	<meta name="msapplication-TileColor" content="#000000">
+	<meta name="msapplication-TileImage" content="/favicon/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<link rel="preload" href="/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+	<noscript>
+		<link rel="stylesheet" href="/css/style.css">
+	</noscript>
+</head>
+
+<body id="Navbar">
+	<script src="/components/Navbar.js"></script>
+	<section class="get-quote-sec custom-form-section" id="getInTouch">
+		<div class="container">
+			<div id="ContactForm"></div>
+		</div>
+	</section>
+	<div id="Footer" class="main-footer"></div>
+	<script src="/components/Footer.js"></script>
+	<script src="/components/ContactForm.js"></script>
+	<script src="/js/jquery-v3.6.0.min.js"></script>
+	<script>
+
+		jQuery.event.special.touchstart = {
+			setup: function (_, ns, handle) {
+				this.addEventListener("touchstart", handle, { passive: !ns.includes("noPreventDefault") });
+			}
+		};
+		jQuery.event.special.touchmove = {
+			setup: function (_, ns, handle) {
+				this.addEventListener("touchmove", handle, { passive: !ns.includes("noPreventDefault") });
+			}
+		};
+		jQuery.event.special.wheel = {
+			setup: function (_, ns, handle) {
+				this.addEventListener("wheel", handle, { passive: true });
+			}
+		};
+		jQuery.event.special.mousewheel = {
+			setup: function (_, ns, handle) {
+				this.addEventListener("mousewheel", handle, { passive: true });
+			}
+		};
+	</script>
+	<script src="/js/jQuery_validation_v1.19.3.min.js" defer></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+	<script src="/js/slick.min.js"></script>
+	<script src="/js/isotope.pkgd.min.js"></script>
+	<script src="/js/matchHeight-min.js"></script>
+	<script src="/js/swiper-bundle.min.js"></script>
+	<script src="/js/all.js"></script>
+	<script>
+		$(document).ready(function () {
+			bindInquiryForm('contact_us_form_footer', 'Expert Now');
+		});
+	</script>
+</body>
+
+</html>
