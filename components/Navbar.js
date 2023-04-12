@@ -1,7 +1,6 @@
 function Navbar() {
 	const navbar = document.getElementById("Navbar");
 	const Container = document.createElement("div");
-	Container.classList.add("container");
 	Container.innerHTML = `
   <link rel="canonical" href="https://shivayinfotech.org/" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
