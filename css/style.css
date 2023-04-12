@@ -2664,9 +2664,11 @@ p a {
         font-size: .8rem
     }
 }
-
+.main-header+section {
+    padding: 150px 0 90px;
+}
 .main-header {
-    /* position: absolute; */
+    position: absolute;
     width: 100%;
     top: 0;
     left: 0;
