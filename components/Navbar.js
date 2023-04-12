@@ -1,7 +1,7 @@
 function Navbar() {
 	const navbar = document.getElementById("Navbar");
 	const Container = document.createElement("header");
-	Container.classList.add("main-header")
+	Container.classList.add("main-header");
 	Container.innerHTML = `
 	<div class="header-wrapper">
 	<div class="container">
