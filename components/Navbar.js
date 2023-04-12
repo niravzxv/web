@@ -247,18 +247,6 @@ function Navbar() {
 										</a>
 									</li>
 									<li>
-										<a href="/career/">
-											<img loading="lazy"
-												src="https://img.webcodegenie.com/img/header/portfolio.svg"
-												alt="Big Data" height="36" width="36" />
-											<div>
-												<h6>Careers</h6>
-												<p>Take your career to the next level and join us on the
-													forefront of digital innovation.</p>
-											</div>
-										</a>
-									</li>
-									<li>
 										<a href="/contact-us">
 											<img loading="lazy"
 												src="https://img.webcodegenie.com/img/header/contact-us.svg"

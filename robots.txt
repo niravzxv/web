@@ -5,6 +5,7 @@ Disallow: /blog/wp-admin/
 Disallow: /career/*
 Disallow: /Portfolio/*
 Disallow: /casestudy/*
+Disallow: /career/*
 
 
 Sitemap: https://webcodegenie.com/sitemap.xml
