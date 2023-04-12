@@ -1,8 +1,8 @@
 function Navbar() {
 	const navbar = document.getElementById("Navbar");
 	const Container = document.createElement("div");
+	Container.classList.add("header-wrapper")
 	Container.innerHTML = `
-<body>
 		<div class="header-wrapper">
 			<div class="container">
 				<div class="hide-tab">
