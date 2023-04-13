@@ -1,8 +1,8 @@
 function Footer() {
-  const Footer = document.getElementById("Footer");
-  const Container = document.createElement("div");
-  Container.classList.add("container");
-  Container.innerHTML = `
+	const Footer = document.getElementById("Footer");
+	const Container = document.createElement("div");
+	Container.classList.add("container");
+	Container.innerHTML = `
 			<div class="footer-top">
 				<a class="logo" href="/">
 					<img src="/images/long-logo.png" alt="Logo" width="300" height="75" />
@@ -18,16 +18,16 @@ function Footer() {
 						<ul class="address">
 							<li>
 								<div class="icon">
-									<img src="https://img.webcodegenie.com/img/footer/pin.svg" alt="pin" height="15"
-										width="20" />
+								<img src="/img/footer/icon/pin.svg" alt="pin" height="15"
+								width="20" />
 								</div>
 								Shivay infotech 206, Village Lothada, <br> opposit bus stand, <br>kotadasangani main
 								road <br> ,Rajkot -360024, Gujarat
 							</li>
 							<li>
 								<div class="icon">
-									<img src="https://img.webcodegenie.com/img/footer/telephone.svg" alt="location"
-										height="15" width="20" />
+								<img src="/img/footer/icon/telephone.svg" alt="location"
+								height="15" width="20" />
 								</div>
 								<a href="tel:+916354010189">+91 635-401-0189</a>
 							</li>
@@ -96,6 +96,6 @@ function Footer() {
 				</ul>
 			</div>
   `;
-  Footer.appendChild(Container);
+	Footer.appendChild(Container);
 }
 Footer();
