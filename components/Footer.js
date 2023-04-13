@@ -22,7 +22,7 @@ function Footer() {
 								width="20" />
 								</div>
 								<a href="https://goo.gl/maps/zo2RLoonNFjnDELN9">
-								"Shivay_Infotech Pingax Complex" </br> Shop No. 207, Village - Lothada, </br>Kotda
+								"Shivay Infotech Pingax Complex" </br> Shop No. 207, Village - Lothada, </br>Kotda
 								sangani Road,</br> Rajkot - 360024</a>
 							</li>
 							<li>
