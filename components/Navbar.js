@@ -3,8 +3,7 @@ function Navbar() {
 	const Container = document.createElement("header");
 	Container.classList.add("main-header");
 	Container.innerHTML = `
-	
-	<div class="header-wrapper">
+	 <div class="header-wrapper">
 	<div class="container">
 		<div class="hide-tab">
 			<a class="logo" href="/">
@@ -31,7 +30,8 @@ function Navbar() {
 									</li>
 									<li>
 										<a href="/services/mobile-app-development">
-											<img loading="lazy" src="/img/home/technologies/3d-icon/mobile-app-development.webp"
+											<img loading="lazy"
+												src="/img/home/technologies/3d-icon/mobile-app-development.webp"
 												alt="Mobile App Development" height="36" width="36" />
 											<div>
 												<h6>Mobile App Development</h6>
@@ -42,8 +42,9 @@ function Navbar() {
 									</li>
 									<li>
 										<a href="/services/web-design-company">
-											<img loading="lazy" src="/img/home/technologies/3d-icon/desing-reponsive-website-5152810-4315325.webp" alt="Web Design"
-												height="36" width="36" />
+											<img loading="lazy"
+												src="/img/home/technologies/3d-icon/desing-reponsive-website-5152810-4315325.webp"
+												alt="Web Design" height="36" width="36" />
 											<div>
 												<h6>Web Design</h6>
 												<p>Transform your digital vision into a stunning reality with
@@ -53,8 +54,9 @@ function Navbar() {
 									</li>
 									<li>
 										<a href="/services/software-testing">
-											<img loading="lazy" src="/img/home/technologies/3d-icon/software-testing-5374061-4496030.webp" alt="Dev Ops" height="36"
-												width="36" />
+											<img loading="lazy"
+												src="/img/home/technologies/3d-icon/software-testing-5374061-4496030.webp"
+												alt="Dev Ops" height="36" width="36" />
 											<div>
 												<h6>Software Testing</h6>
 												<p>Deliver flawless software with our top-rated testing services
@@ -64,8 +66,9 @@ function Navbar() {
 									</li>
 									<li>
 										<a href="/services/digital-marketing">
-											<img loading="lazy" src="/img/home/technologies/3d-icon/digital-marketing-6790853-5602410.webp" alt="Digital Marketing"
-												height="36" width="36" />
+											<img loading="lazy"
+												src="/img/home/technologies/3d-icon/digital-marketing-6790853-5602410.webp"
+												alt="Digital Marketing" height="36" width="36" />
 											<div>
 												<h6>Digital Marketing</h6>
 												<p>Boost your online presence and skyrocket your sales with our
@@ -76,8 +79,9 @@ function Navbar() {
 
 									<li>
 										<a href="/services/cloud-computing-agency">
-											<img loading="lazy" src="/img/home/technologies/3d-icon/cloud-coding-5152803-4315318.webp" alt="Cloud Computing"
-												height="36" width="36" />
+											<img loading="lazy"
+												src="/img/home/technologies/3d-icon/cloud-coding-5152803-4315318.webp"
+												alt="Cloud Computing" height="36" width="36" />
 											<div>
 												<h6>Cloud Computing</h6>
 												<p>Transform your business with our cloud computing services -
@@ -97,7 +101,7 @@ function Navbar() {
 									<div class="tech-col">
 										<div class="tech-box">
 											<img loading="lazy"
-												src="https://img.webcodegenie.com/img/header/tech-fronend.svg"
+												src="/img/home/technologies/3d-icon/tech-fronend.svg"
 												alt="Frontend Technologies" height="36" width="36" />
 											<div>
 												<h4>Frontend</h4>
@@ -115,7 +119,7 @@ function Navbar() {
 									<div class="tech-col">
 										<div class="tech-box">
 											<img loading="lazy"
-												src="https://img.webcodegenie.com/img/header/tech-backend.svg"
+												src="/img/home/technologies/3d-icon/tech-backend.svg"
 												alt="Backend Technologies" height="36" width="36" />
 											<div>
 												<h4>Backend</h4>
@@ -130,7 +134,7 @@ function Navbar() {
 									<div class="tech-col">
 										<div class="tech-box">
 											<img loading="lazy"
-												src="https://img.webcodegenie.com/img/header/tech-mobile.svg"
+												src="/img/home/technologies/3d-icon/tech-mobile.svg"
 												alt="App Technologies" height="36" width="36" />
 											<div>
 												<h4>Mobile App</h4>
@@ -147,7 +151,7 @@ function Navbar() {
 									<div class="tech-col">
 										<div class="tech-box">
 											<img loading="lazy"
-												src="https://img.webcodegenie.com/img/header/tech-cms.svg"
+												src="/img/home/technologies/3d-icon/tech-cms.svg"
 												alt="CMS Technologies" height="36" width="36" />
 											<div>
 												<h4>CMS</h4>
@@ -158,7 +162,7 @@ function Navbar() {
 										</div>
 										<div class="tech-box database-custom">
 											<img loading="lazy"
-												src="https://img.webcodegenie.com/img/header/tech-db.svg"
+												src="/img/home/technologies/3d-icon/tech-db.svg"
 												alt="Database Technologies" height="36" width="36" />
 											<div>
 												<h4>Databse</h4>
@@ -182,7 +186,7 @@ function Navbar() {
 									<div class="tech-col">
 										<div class="tech-box">
 											<img loading="lazy"
-												src="https://img.webcodegenie.com/img/header/tech-backend.svg"
+												src="/img/home/technologies/3d-icon/tech-backend.svg"
 												alt="Backend Technologies" height="36" width="36" />
 											<div>
 												<h4>Backend Developers</h4>
@@ -196,7 +200,7 @@ function Navbar() {
 									<div class="tech-col">
 										<div class="tech-box">
 											<img loading="lazy"
-												src="https://img.webcodegenie.com/img/header/tech-mobile.svg"
+												src="/img/home/technologies/3d-icon/tech-mobile.svg"
 												alt="Mobile App Development" height="36" width="36" />
 											<div>
 												<h4>Mobile Developers</h4>
@@ -214,7 +218,7 @@ function Navbar() {
 									<div class="tech-col">
 										<div class="tech-box">
 											<img loading="lazy"
-												src="https://img.webcodegenie.com/img/header/tech-backend.svg"
+												src="/img/home/technologies/3d-icon/tech-backend.svg"
 												alt="Backend Technologies" height="36" width="36" />
 											<div>
 												<h4>Frontend Developers</h4>
@@ -237,7 +241,7 @@ function Navbar() {
 									<li>
 										<a href="/about-us">
 											<img loading="lazy"
-												src="https://img.webcodegenie.com/img/header/about.svg"
+												src="/img/home/technologies/3d-icon/about.svg"
 												alt="Web Development" height="36" width="36" />
 											<div>
 												<h6>About us</h6>
@@ -249,7 +253,7 @@ function Navbar() {
 									<li>
 										<a href="/contact-us">
 											<img loading="lazy"
-												src="https://img.webcodegenie.com/img/header/contact-us.svg"
+												src="/img/home/technologies/3d-icon/contact-us.svg"
 												alt="Cloud Computing" height="36" width="36" />
 											<div>
 												<h6>Contact us</h6>
@@ -368,16 +372,25 @@ function Navbar() {
 							<li class="has-sub-child">
 								<div class="sub-link">Frontend Developers</div>
 								<ul class="nav-dropdown">
-									<li><a href="/hire-angularjs-developers">Hire ReactJs Developer</a></li>
+									<li><a href="/hire-angularjs-developers">Hire AngularJs Developer</a></li>
 								</ul>
 							</li>
+						</ul>
+					</li>
+					<li class="has-child">
+						<div class="main-link">Resources</div>
+						<ul class="nav-dropdown">
+							<li><a href="/blog">Blogs</a></li>
+							<li><a href="/casestudy">Case Studies</a></li>
+							<li><a href="/portfolio/">Portfolio</a></li>
+							<li><a href="/testimonial">Testimonials</a></li>
 						</ul>
 					</li>
 					<li class="has-child">
 						<div class="main-link">Company</div>
 						<ul class="nav-dropdown">
 							<li><a href="/about-us">About us</a></li>
-							<li><a href="/life-at-shivay-infotech">Life @Shivay infotech</a></li>
+							<li><a href="/life-at-shivay-infotech">Life @wcg</a></li>
 							<li><a href="/career/">Careers</a></li>
 							<li><a href="/contact-us">Contact us</a></li>
 						</ul>
@@ -387,8 +400,7 @@ function Navbar() {
 			</nav>
 		</div>
 	</div>
-</div>
-    `;
+</div>`;
 	navbar.appendChild(Container);
 }
 Navbar();
