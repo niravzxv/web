@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="159" height="160" viewBox="0 0 159 160">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.638" x2="-0.024" y2="0.308" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#cae4fc"/>
+    </linearGradient>
+  </defs>
+  <g id="Laravel" transform="translate(-94 -66)">
+    <g id="Education" transform="translate(93.674 66.254)">
+      <ellipse id="Ellipse_404" data-name="Ellipse 404" cx="79.5" cy="80" rx="79.5" ry="80" transform="translate(0.326 -0.254)" opacity="0.53" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="laravel-icon" transform="translate(126 114)">
+      <path id="Path_21266" data-name="Path 21266" d="M59.026,64.667a1.46,1.46,0,0,1-1.258-.711L46.7,45.493,26,51.135a1.463,1.463,0,0,1-1.633-.735L.174,4.916A1.463,1.463,0,0,1,1.268,2.775L21.806.014A1.461,1.461,0,0,1,23.26.708l24.8,41.38,28.813-7.835L67.262,20.683a1.462,1.462,0,0,1,.815-2.272l13.481-3.186a1.464,1.464,0,0,1,1.479.506L94.7,30.281a1.463,1.463,0,0,1-.76,2.328L81.689,35.95,92.415,51.065a1.463,1.463,0,0,1-.711,2.23L59.494,64.561a1.477,1.477,0,0,1-.466.091Zm-9.4-19.974,10.032,16.73L88.9,51.187,78.688,36.792ZM3.742,5.373,26.379,47.986l18.789-5.1L21.241,3.047ZM70.926,20.764l8.986,12.671L91.087,30.4,81.364,18.288Z" transform="translate(0 0)" fill="#ef533f"/>
+    </g>
+  </g>
+</svg>
