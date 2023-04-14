@@ -21,8 +21,9 @@ function Footer() {
 								<img src="/img/footer/icon/pin.svg" alt="pin" height="15"
 								width="20" />
 								</div>
-								Shivay infotech 206, Village Lothada, <br> opposit bus stand, <br>kotadasangani main
-								road <br> ,Rajkot -360024, Gujarat
+								<a href="https://goo.gl/maps/zo2RLoonNFjnDELN9">
+								"Shivay Infotech Pingax Complex" </br> Shop No. 207, Village - Lothada, </br>Kotda
+								sangani Road,</br> Rajkot - 360024</a>
 							</li>
 							<li>
 								<div class="icon">
@@ -70,11 +71,6 @@ function Footer() {
 					<li>
 						<a href="" target="_blank">
 							<img src="/img/footer/instagram.png" alt="instagram" height="32" width="32" />
-						</a>
-					</li>
-					<li>
-						<a href="" target="_blank">
-							<img src="/img/footer/youtube.png" alt="you-tube" height="32" width="32" />
 						</a>
 					</li>
 					<li>
