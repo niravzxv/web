@@ -15,81 +15,81 @@ function Navbar() {
 						<div class="menu-title">services</div>
 						<div id="servicesSubMenu" class="dropdown-submenu ">
 							<div class="container">
-								<ul class="main-sub-menu">
-									<li>
-										<a href="/services/web-development">
-											<img loading="lazy"
-												src="/img/home/technologies/3d-icon/web-development-5152815-4315330.webp"
-												alt="Web Development" height="36" width="36" />
-											<div>
-												<h6>Web Development</h6>
-												<p>Build your digital presence with our top-notch web
-													development services</p>
-											</div>
-										</a>
-									</li>
-									<li>
-										<a href="/services/mobile-app-development">
-											<img loading="lazy"
-												src="/img/home/technologies/3d-icon/mobile-app-development.webp"
-												alt="Mobile App Development" height="36" width="36" />
-											<div>
-												<h6>Mobile App Development</h6>
-												<p>Unlock the power of mobile with our expert app development
-													services - your ideas, our innovation</p>
-											</div>
-										</a>
-									</li>
-									<li>
-										<a href="/services/web-design-company">
-											<img loading="lazy"
-												src="/img/home/technologies/3d-icon/desing-reponsive-website-5152810-4315325.webp"
-												alt="Web Design" height="36" width="36" />
-											<div>
-												<h6>Web Design</h6>
-												<p>Transform your digital vision into a stunning reality with
-													our premium web design services</p>
-											</div>
-										</a>
-									</li>
-									<li>
-										<a href="/services/software-testing">
-											<img loading="lazy"
-												src="/img/home/technologies/3d-icon/software-testing-5374061-4496030.webp"
-												alt="Dev Ops" height="36" width="36" />
-											<div>
-												<h6>Software Testing</h6>
-												<p>Deliver flawless software with our top-rated testing services
-													- quality you can rely on</p>
-											</div>
-										</a>
-									</li>
-									<li>
-										<a href="/services/digital-marketing">
-											<img loading="lazy"
-												src="/img/home/technologies/3d-icon/digital-marketing-6790853-5602410.webp"
-												alt="Digital Marketing" height="36" width="36" />
-											<div>
-												<h6>Digital Marketing</h6>
-												<p>Boost your online presence and skyrocket your sales with our
-													dynamic digital marketing services</p>
-											</div>
-										</a>
-									</li>
+							<ul class="main-sub-menu">
+							<li>
+								<a href="/services/web-development">
+									<img loading="lazy"
+										src="/img/home/technologies/3d-icon/web-development.svg"
+										alt="Web Development" height="36" width="36" />
+									<div>
+										<h6>Web Development</h6>
+										<p>Build your digital presence with our top-notch web
+											development services</p>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="/services/mobile-app-development">
+									<img loading="lazy"
+										src="/img/home/technologies/3d-icon/mobile-development.svg"
+										alt="Mobile App Development" height="36" width="36" />
+									<div>
+										<h6>Mobile App Development</h6>
+										<p>Unlock the power of mobile with our expert app development
+											services - your ideas, our innovation</p>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="/services/web-design-company">
+									<img loading="lazy"
+										src="/img/home/technologies/3d-icon/ui-ux1.svg"
+										alt="Web Design" height="36" width="36" />
+									<div>
+										<h6>Web Design</h6>
+										<p>Transform your digital vision into a stunning reality with
+											our premium web design services</p>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="/services/software-testing">
+									<img loading="lazy"
+										src="/img/home/technologies/3d-icon/software-testing.svg"
+										alt="Dev Ops" height="36" width="36" />
+									<div>
+										<h6>Software Testing</h6>
+										<p>Deliver flawless software with our top-rated testing services
+											- quality you can rely on</p>
+									</div>
+								</a>
+							</li>
+							<li>
+								<a href="/services/digital-marketing">
+									<img loading="lazy"
+										src="/img/home/technologies/3d-icon/digital-marketing.svg"
+										alt="Digital Marketing" height="36" width="36" />
+									<div>
+										<h6>Digital Marketing</h6>
+										<p>Boost your online presence and skyrocket your sales with our
+											dynamic digital marketing services</p>
+									</div>
+								</a>
+							</li>
 
-									<li>
-										<a href="/services/cloud-computing-agency">
-											<img loading="lazy"
-												src="/img/home/technologies/3d-icon/cloud-coding-5152803-4315318.webp"
-												alt="Cloud Computing" height="36" width="36" />
-											<div>
-												<h6>Cloud Computing</h6>
-												<p>Transform your business with our cloud computing services -
-													scalable, secure, and always available</p>
-											</div>
-										</a>
-									</li>
-								</ul>
+							<li>
+								<a href="/services/cloud-computing-agency">
+									<img loading="lazy"
+										src="/img/home/technologies/3d-icon/cloud-computing.svg"
+										alt="Cloud Computing" height="36" width="36" />
+									<div>
+										<h6>Cloud Computing</h6>
+										<p>Transform your business with our cloud computing services -
+											scalable, secure, and always available</p>
+									</div>
+								</a>
+							</li>
+						</ul>
 							</div>
 						</div>
 					</li>
