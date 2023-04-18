@@ -1,0 +1,22 @@
+<svg id="kotlin-icon_1_" data-name="kotlin-icon (1)" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="89.99" height="90" viewBox="0 0 89.99 90">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.168" y1="0.919" x2="0.762" y2="-0.011" gradientUnits="objectBoundingBox">
+      <stop offset="0.108" stop-color="#c757bc"/>
+      <stop offset="0.173" stop-color="#cd5ca9"/>
+      <stop offset="0.492" stop-color="#e8744f"/>
+      <stop offset="0.716" stop-color="#f88316"/>
+      <stop offset="0.823" stop-color="#ff8900"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.319" y1="1.359" x2="0.773" y2="0.456" gradientUnits="objectBoundingBox">
+      <stop offset="0.296" stop-color="#00afff"/>
+      <stop offset="0.694" stop-color="#5282ff"/>
+      <stop offset="1" stop-color="#945dff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="-0.024" y1="0.523" x2="0.61" y2="-0.08" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <g id="Group_65216" data-name="Group 65216">
+    <path id="Path_21301" data-name="Path 21301" d="M45.2.021,0,47.515V89.99l45.112-45.2L89.99,0Z" fill="url(#linear-gradient)"/>
+    <path id="Path_21302" data-name="Path 21302" d="M0,77.063l45.112-45.2,44.878,45.2Z" transform="translate(0 12.937)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_21303" data-name="Path 21303" d="M0,.015H45.2L0,47.508Z" transform="translate(0 0.006)" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>

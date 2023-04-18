@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="159" height="160" viewBox="0 0 159 160">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.638" x2="-0.024" y2="0.308" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#cae4fc"/>
+    </linearGradient>
+  </defs>
+  <g id="Reactnative" transform="translate(-94 -66)">
+    <g id="Education" transform="translate(93.674 66.254)">
+      <ellipse id="Ellipse_404" data-name="Ellipse 404" cx="79.5" cy="80" rx="79.5" ry="80" transform="translate(0.326 -0.254)" opacity="0.53" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="react-icon" transform="translate(133 110)">
+      <path id="Path_21269" data-name="Path 21269" d="M24.918,28.889a7.556,7.556,0,1,1,7.556,7.556A7.539,7.539,0,0,1,24.918,28.889Z" transform="translate(8.026 6.871)" fill="#00d8ff" fill-rule="evenodd"/>
+      <g id="Group_65207" data-name="Group 65207" transform="translate(0 0)">
+        <path id="Path_21270" data-name="Path 21270" d="M40.5,15.428c10.144,0,19.568,1.456,26.675,3.9C75.736,22.276,81,26.745,81,30.791c0,4.217-5.579,8.962-14.773,12.009-6.95,2.3-16.1,3.5-25.728,3.5-9.873,0-19.223-1.128-26.252-3.53C5.354,39.733,0,34.926,0,30.791,0,26.778,5.027,22.345,13.467,19.4,20.6,16.917,30.256,15.428,40.5,15.428Z" transform="translate(0 4.969)" fill="none" stroke="#00d8ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.734" fill-rule="evenodd"/>
+        <path id="Path_21271" data-name="Path 21271" d="M23.143,28.124C28.211,19.336,34.179,11.9,39.849,6.965,46.68,1.021,53.179-1.308,56.684.714c3.652,2.106,4.976,9.31,3.022,18.8-1.477,7.172-5.005,15.7-9.817,24.038C44.957,52.1,39.309,59.637,33.718,64.525c-7.076,6.186-13.916,8.424-17.5,6.358-3.476-2-4.806-8.572-3.137-17.355,1.409-7.421,4.945-16.529,10.061-25.4Z" transform="translate(3.983 0)" fill="none" stroke="#00d8ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.734" fill-rule="evenodd"/>
+        <path id="Path_21272" data-name="Path 21272" d="M23.151,43.55c-5.082-8.777-8.543-17.665-9.986-25.041C11.427,9.624,12.657,2.831,16.157.8c3.649-2.113,10.552.338,17.793,6.769,5.476,4.861,11.1,12.175,15.923,20.51,4.947,8.545,8.654,17.2,10.1,24.487,1.825,9.219.346,16.263-3.231,18.336-3.473,2.011-9.827-.118-16.6-5.949C34.41,60.03,28.285,52.416,23.151,43.55Z" transform="translate(3.989 0.02)" fill="none" stroke="#00d8ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.734" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>
