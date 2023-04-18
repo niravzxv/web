@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="159" height="160" viewBox="0 0 159 160">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.638" x2="-0.024" y2="0.308" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#cae4fc"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.197" y1="1.193" x2="0.699" y2="0.448" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1a237e" stop-opacity="0.4"/>
+      <stop offset="0.01" stop-color="#1a237e" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.03" cy="0.07" r="1.35" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.102"/>
+      <stop offset="0.01" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g id="Flutter" transform="translate(-94 -66)">
+    <g id="Education" transform="translate(93.674 66.254)">
+      <ellipse id="Ellipse_404" data-name="Ellipse 404" cx="79.5" cy="80" rx="79.5" ry="80" transform="translate(0.326 -0.254)" opacity="0.53" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="flutter-icon" transform="translate(140 104)">
+      <g id="Group_65218" data-name="Group 65218">
+        <path id="Path_21309" data-name="Path 21309" d="M32.22,74.121,67.666,38.666H41.893L19.337,61.23ZM0,41.893,41.893,0H67.668L12.891,54.784Z" fill="#39cefd"/>
+        <path id="Path_21310" data-name="Path 21310" d="M25.176,52.02H50.951L28.395,29.464,15.5,42.355Z" transform="translate(16.716 31.766)" fill="#03569b"/>
+        <path id="Path_21311" data-name="Path 21311" d="M28.395,29.464,15.5,42.355l19.119-6.623Z" transform="translate(16.716 31.766)" fill="url(#linear-gradient-2)"/>
+        <path id="Path_21312" data-name="Path 21312" d="M9.3,36.149,22.195,23.258,35.088,36.149,22.195,49.039Z" transform="translate(10.031 25.075)" fill="#16b9fd"/>
+        <path id="Path_21313" data-name="Path 21313" d="M67.666,38.666,45.112,61.23,67.668,83.795H41.893L19.329,61.23,41.893,38.666H67.668ZM41.893,0,0,41.893,12.891,54.784,67.666,0Z" fill="url(#radial-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>

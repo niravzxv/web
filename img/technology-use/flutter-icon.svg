@@ -1,0 +1,19 @@
+<svg id="flutter-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75.908" height="93.998" viewBox="0 0 75.908 93.998">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.197" y1="1.193" x2="0.699" y2="0.448" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1a237e" stop-opacity="0.4"/>
+      <stop offset="0.01" stop-color="#1a237e" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.03" cy="0.07" r="1.35" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.102"/>
+      <stop offset="0.01" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_65219" data-name="Group 65219">
+    <path id="Path_21314" data-name="Path 21314" d="M36.143,83.147,75.906,43.374H46.994l-25.3,25.312ZM0,46.994,46.994,0H75.908L14.46,61.455Z" fill="#39cefd"/>
+    <path id="Path_21315" data-name="Path 21315" d="M26.353,54.767H55.267l-25.3-25.3L15.5,43.924Z" transform="translate(20.639 39.222)" fill="#03569b"/>
+    <path id="Path_21316" data-name="Path 21316" d="M29.964,29.464,15.5,43.924l21.447-7.429Z" transform="translate(20.639 39.222)" fill="url(#linear-gradient)"/>
+    <path id="Path_21317" data-name="Path 21317" d="M9.3,37.718l14.46-14.46,14.463,14.46L23.764,52.179Z" transform="translate(12.385 30.961)" fill="#16b9fd"/>
+    <path id="Path_21318" data-name="Path 21318" d="M75.906,43.374l-25.3,25.312L75.908,94H46.994L21.682,68.686,46.994,43.374H75.908ZM46.994,0,0,46.994l14.46,14.46L75.906,0Z" fill="url(#radial-gradient)"/>
+  </g>
+</svg>

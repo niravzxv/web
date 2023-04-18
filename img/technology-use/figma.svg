@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72.253" height="108" viewBox="0 0 72.253 108">
+  <g id="figma" transform="translate(-84.734)">
+    <path id="Path_21322" data-name="Path 21322" d="M256.6,188.667a18,18,0,1,1,18,18A18,18,0,0,1,256.6,188.667Z" transform="translate(-135.612 -134.667)" fill="#00bcff"/>
+    <path id="Path_21323" data-name="Path 21323" d="M85.932,340.389a18,18,0,0,1,18-18l9.592-5.064,8.408,5.064v18a18,18,0,0,1-36,0Z" transform="translate(-0.945 -250.389)" fill="#00cf7f"/>
+    <path id="Path_21324" data-name="Path 21324" d="M219.96,0l-9.795,17.016L219.96,36h17.747a18,18,0,0,0,0-36Z" transform="translate(-98.973)" fill="#ff7361"/>
+    <path id="Path_21325" data-name="Path 21325" d="M84.734,18a18,18,0,0,0,18,18l9.549,3.688,8.7-3.688V0H102.734a18,18,0,0,0-18,18Z" fill="#ff4d12"/>
+    <path id="Path_21326" data-name="Path 21326" d="M85.932,188.666a18,18,0,0,0,18,18h18v-36h-18A18,18,0,0,0,85.932,188.666Z" transform="translate(-0.945 -134.666)" fill="#b659ff"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg id="backbone" xmlns="http://www.w3.org/2000/svg" width="91" height="104" viewBox="0 0 91 104">
+  <g id="Group_65213" data-name="Group 65213">
+    <path id="Path_21293" data-name="Path 21293" d="M0,0V56.246L45.5,80.111V63.888L15.062,47.923V22.846L45.5,38.811V23.865L0,0Z" fill="#002a41" fill-rule="evenodd"/>
+    <g id="Group_65212" data-name="Group 65212">
+      <path id="Path_21294" data-name="Path 21294" d="M80.5,0V56.246L35,80.11V63.888L65.439,47.923V22.846L35,38.811V23.865L80.5,0Z" transform="translate(10.5)" fill="#0071b5" fill-rule="evenodd"/>
+      <path id="Path_21295" data-name="Path 21295" d="M0,98.487V42.242L45.5,18.377V34.6L15.062,50.565v23.8L45.5,58.4V74.623L0,98.487Z" transform="translate(0 5.513)" fill="#0071b5" fill-rule="evenodd"/>
+    </g>
+    <path id="Path_21296" data-name="Path 21296" d="M80.5,98.487V42.242L35,18.377V34.6L65.439,50.565v23.8L35,58.4V74.623L80.5,98.487Z" transform="translate(10.5 5.513)" fill="#002a41" fill-rule="evenodd"/>
+  </g>
+</svg>
