@@ -410,12 +410,31 @@
 						</div>
 					</div>
 				</div>
+				<style>
+					.svg-container {
+						max-width: 750px;
+						width: 100%;
+						height: auto;
+						resize: both;
+						overflow: auto;
+						border: 1px dashed #aaa;
+					}
+
+					svg {
+						width: 100%;
+						height: 100%;
+					}
+
+					@media screen and (max-width: 767px) {
+						.svg-container img {
+							max-width: 350px;
+						}
+					}
+				</style>
 				<div class="col-lg-6 vcenter">
-					<div class="sol-image m-mt30">
-						<img src="images/svg/mobile-app.svg" alt="web development" class="img-fluid" style="max-width: 750px;
-						width: 700px;
-						height: 750px;"
-							data-aos="fade-in" data-aos-delay="400">
+					<div class="svg-container sol-image m-mt30">
+						<img src="images/svg/mobile-app.svg" type="image/svg+xml" alt="web development"
+							class="svg img-fluid" data-aos="fade-in" data-aos-delay="400">
 					</div>
 				</div>
 			</div>
