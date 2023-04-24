@@ -2,7 +2,7 @@
   <defs>
     <linearGradient id="linear-gradient" x1="0.974" y1="0.238" x2="-0.052" y2="0.609" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#fff"/>
-      <stop offset="1" stop-color="#006bc0" stop-opacity="0.071"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.071"/>
     </linearGradient>
   </defs>
   <g id="Social_App" data-name="Social App" transform="translate(-187.529 -1358.734)">

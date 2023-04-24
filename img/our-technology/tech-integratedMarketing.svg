@@ -2,7 +2,7 @@
   <defs>
     <linearGradient id="linear-gradient" x1="0.974" y1="0.238" x2="-0.052" y2="0.609" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#fff"/>
-      <stop offset="1" stop-color="#006bc0" stop-opacity="0.071"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.071"/>
     </linearGradient>
   </defs>
   <g id="tech-integratedMarketing" transform="translate(-188 -1358)">
@@ -12,7 +12,7 @@
       </g>
     </g>
     <g id="FLAT" transform="translate(195.04 1344)">
-      <path id="Path_51162" data-name="Path 51162" d="M44.266,143.77v-7.238A21.714,21.714,0,0,1,65.98,114.818h0a21.714,21.714,0,0,1,21.714,21.714v7.238H107.96v-5.79A41.98,41.98,0,0,0,65.98,96h0A41.98,41.98,0,0,0,24,137.98v5.79Z" transform="translate(0 -58.972)" fill="#006bc0"/>
+      <path id="Path_51162" data-name="Path 51162" d="M44.266,143.77v-7.238A21.714,21.714,0,0,1,65.98,114.818h0a21.714,21.714,0,0,1,21.714,21.714v7.238H107.96v-5.79A41.98,41.98,0,0,0,65.98,96h0A41.98,41.98,0,0,0,24,137.98v5.79Z" transform="translate(0 -58.972)" fill="#ffffff"/>
       <circle id="Ellipse_541" data-name="Ellipse 541" cx="13.096" cy="13.096" r="13.096" transform="translate(52.865 24)" fill="#8bb276"/>
       <path id="Path_51163" data-name="Path 51163" d="M181.975,241.4l-2.513-1.437A15.843,15.843,0,0,1,193.184,232h.255a15.673,15.673,0,0,1,11.322,4.781l-2.075,2.019a12.8,12.8,0,0,0-9.247-3.9h-.255a12.941,12.941,0,0,0-11.209,6.509Z" transform="translate(-127.331 -170.362)" fill="#62b8d3"/>
       <path id="Path_51164" data-name="Path 51164" d="M170.9,298.293H168a15.793,15.793,0,0,1,.693-4.64l2.768.849a12.91,12.91,0,0,0-.565,3.791Z" transform="translate(-117.944 -220.86)" fill="#62b8d3"/>
