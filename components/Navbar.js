@@ -7,7 +7,7 @@ function Navbar() {
 	<div class="container-fluid m-p-l-r-0">
 		<div class="menu-header horzontl">
 			<div class="menu-logo">
-				<div class="dskt-logo"><a class="nav-brand" href="./"> <img src="images/logo.svg" alt="Logo"
+				<div class="dskt-logo"><a class="nav-brand" href="./"> <img src="/images/logo.svg" alt="Logo"
 							class="ree-logo" /> </a> </div>
 			</div>
 			<div class="ree-nav" role="navigation">

@@ -9,7 +9,7 @@ function Footer() {
 				<div class="col-lg-3 col-5s ">
 					<div class="footer-ree-c">
 						<div class="footer-logo pt40">
-							<a href="#"> <img src="images/footer-logo.svg" alt="Shivay Infotech" class="img"> </a>
+							<a href="#"> <img src="/images/footer-logo.svg" alt="Shivay Infotech" class="img"> </a>
 						</div>
 						<p class="mt15">Overall client rating is 4.9 out of 110 Clients for Shivay Infotech </p>
 						<ul class="footer_social mt30">
