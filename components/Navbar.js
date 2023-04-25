@@ -146,7 +146,7 @@ function Navbar() {
 												<div class="inner-blockss">
 													<ul class="menu-li-link">
 														<li><a href="/about-us/">About Us</a></li>
-														<li><a href="career.html">Career</a></li>
+														<li><a href="/career/">Career</a></li>
 														<li><a href="case-study.html">Case Study</a></li>
 													</ul>
 												</div>
