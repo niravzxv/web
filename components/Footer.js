@@ -39,7 +39,7 @@ function Footer() {
 						<li><a href="mailto:nirav.gondaliya@icloud.com"><span><i class="fas fa-envelope"></i></span>
 								<span class="__cf_email__">nirav.gondaliya@icloud.com</span></a>
 						</li>
-						<li><a href="skype:live:niravgondaliya2565?chat"><span><i class="fab fa-skype"></i></span>
+						<li><a href="skype:live:.cid.b3cbf082c0009fc8"><span><i class="fab fa-skype"></i></span>
 								Shivay Infotech
 								-skype</a></li>
 					</ul>

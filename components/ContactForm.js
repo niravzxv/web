@@ -69,7 +69,7 @@ function ContactForm() {
             <span>+91 6354-0101-89</span> </a>
         </div>
         <div class="address-list">
-          <a href="skype:live:niravgondaliya2565?chat">
+          <a href="skype:live:.cid.b3cbf082c0009fc8">
             <img src="/img/footer/skype.png" alt="Mail Us" height="36" width="36" />
 
             <span>niravgondaliya</span> </a>

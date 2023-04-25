@@ -115,7 +115,7 @@ function Navbar() {
 													<div class="webiocon"> <i class="fab fa-skype"></i> </div>
 												</div>
 												<a
-													href="skype:live:niravgondaliya2565?chat">niravgondaliya2565.Skype</a>
+													href="skype:live:.cid.b3cbf082c0009fc8">Shivay Infotech</a>
 											</li>
 											<li>
 												<div class="menu-icon-ree">
@@ -205,7 +205,7 @@ function Navbar() {
 						<div class="menu-icon-ree">
 							<div class="webiocon"> <i class="fab fa-skype"></i> </div>
 						</div>
-						<a href="skype:live:niravgondaliya2565?chat">niravgondaliya2565.Skype</a>
+						<a href="skype:live:.cid.b3cbf082c0009fc8">Shivay Infotech</a>
 					</li>
 					<li>
 						<div class="menu-icon-ree">
