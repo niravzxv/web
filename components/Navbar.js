@@ -3,7 +3,7 @@ function Navbar() {
 	const Container = document.createElement("div");
 	Container.classList.add("container");
 	Container.innerHTML = `
-	<header class="ree-header fixed-top">
+<header class="ree-header fixed-top">
 	<div class="container-fluid m-p-l-r-0">
 		<div class="menu-header horzontl">
 			<div class="menu-logo">
@@ -14,6 +14,9 @@ function Navbar() {
 				<ul class="nav-list">
 					<li class="megamenu">
 						<a href="/" class="menu-links">Home</a>
+					</li>
+					<li class="megamenu">
+						<a href="/services/" class="menu-links">Service</a>
 						<div class="menu-dropdown">
 							<div class="menu-block-set">
 								<div class="container">
@@ -114,8 +117,7 @@ function Navbar() {
 												<div class="menu-icon-ree">
 													<div class="webiocon"> <i class="fab fa-skype"></i> </div>
 												</div>
-												<a
-													href="skype:live:.cid.b3cbf082c0009fc8">Shivay Infotech</a>
+												<a href="skype:live:.cid.b3cbf082c0009fc8">Shivay Infotech</a>
 											</li>
 											<li>
 												<div class="menu-icon-ree">
@@ -130,7 +132,7 @@ function Navbar() {
 						</div>
 					</li>
 					<li class="megamenu">
-						<a href="#" class="menu-links">Services</a>
+						<a href="#" class="menu-links">technology</a>
 						<div class="menu-dropdown">
 							<div class="menu-block-set">
 								<div class="container">
@@ -169,6 +171,7 @@ function Navbar() {
 												<div class="inner-blockss">
 													<ul class="menu-li-link">
 														<li><a href="service-details.html">Service Details</a></li>
+
 					</li>
 					<li><a href="why-us.html">Why Choose Us</a></li>
 				</ul>
@@ -331,7 +334,7 @@ function Navbar() {
 	</div>
 	</div>
 </header>
-	  `;
+`;
 	navbar.appendChild(Container);
 }
 Navbar();
