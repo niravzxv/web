@@ -161,7 +161,7 @@ function Navbar() {
 														<ul class="menu-li-link">
 															<li><a href="our-team-2.html">Our Team</a></li>
 															<li><a href="pricing.html">Pricing</a></li>
-															<li><a href="services.html">Service</a></li>
+															<li><a href="/services/">Service</a></li>
 														</ul>
 													</div>
 													<div class="inner-blockss">
