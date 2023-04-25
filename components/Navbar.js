@@ -156,7 +156,7 @@ function Navbar() {
 													<ul class="menu-li-link">
 														<li><a href="case-study-details.html">Case Study Details</a>
 														</li>
-														<li><a href="core-values.html">Our Core Value</a></li>
+														<li><a href="/core-values">Our Core Value</a></li>
 														<li><a href="/contact-us/">Contact Us</a></li>
 														<li><a href="our-team.html">Our Team</a></li>
 													</ul>
@@ -270,7 +270,7 @@ function Navbar() {
 			<li><a href="#">Pages</a>
 				<ul>
 					<li><a href="about-us/">About Us</a></li>
-					<li><a href="core-values.html">Our Core Value</a></li>
+					<li><a href="/core-values">Our Core Value</a></li>
 					<li><a href="/contact-us/">Contact Us</a></li>
 					<li><a href="our-team.html">Our Team</a></li>
 					<li><a href="pricing.html">Pricing</a></li>
