@@ -24,8 +24,6 @@
 
 	<link href="../css/style.css" rel="stylesheet">
 	<link href="../css/responsive.css" rel="stylesheet">
-	<script src="/components/Navbar.js"></script>
-
 </head>
 
 <body>
@@ -37,9 +35,8 @@
 		</div>
 	</div>
 
-	<header id="Navbar" class="ree-header fixed-top">
-	</header>
-	
+	<nav id="Navbar" class="navbar navbar-expand-lg navbar-light bg-transparent"></nav>
+	<script src="/components/Navbar.js"></script>
 	<section class="header-title head-opacity" data-background="../images/banner/office.jpg">
 		<div class="container">
 			<div class="row justify-content-center">
@@ -413,7 +410,10 @@
 	</section>
 
 	<footer class="footer-a" id="Footer">
+		<!-- app components -->
+		<script src="/components/Navbar.js"></script>
 		<script src="/components/Footer.js"></script>
+		<!-- /app components -->
 		<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
 		<script src="../js/modernizr-3.5.0.min.js"></script>
 		<script src="../js/jquery-3.6.0.min.js"></script>
