@@ -4582,3 +4582,8 @@ svg {
     max-width: 350px;
   }
 }
+.slick-slider {
+	display: table !important;
+	table-layout: fixed !important;
+	width: 100% !important;
+}
